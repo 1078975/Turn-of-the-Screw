@@ -1,52 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Collier’s Weekly, vol. 20, no. 24: a digital edition</title>
          </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>Taylor edition</date>
+            </edition>
+            <respStmt>
+               <resp> Edited by </resp>
+               <persName>1078975<lb/>
+               </persName>
+            </respStmt>
+         </editionStmt>
+         <extent>5 pages transcribed, 24 images.<note>Partial</note></extent>
          <publicationStmt>
-            <p rend="h_2">Publication Information</p>
+            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the University of Oxford, </publisher> <date>2024.</date>
+            <availability>
+               <licence xml:id="xml_files" target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are available for download under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</ref>
+                  <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence> <licence xml:id="image_files"> Images are reproduced from the Internet Archive.</licence>
+            </availability>
+            <idno type="Internet-Archive">https://archive.org/details/sim_colliers-the-national-weekly_1898-03-19_20_24/</idno>
+            <idno type="ISSN">2161-6477</idno>
+            <idno type="Git">https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Collier's%20Encoding/Colliers-vol20no24.xml</idno>
          </publicationStmt>
+         <seriesStmt>
+            <title xml:id="tayeditions">Taylor Editions: </title>
+            <title xml:id="guest">Guest</title>
+         </seriesStmt>
+         <notesStmt>
+            <note type="images">[PNG]</note>
+            <note type="holding"><p>Transcribed from: <orgName>Internet Archive</orgName>: pages 9–11. </p></note>
+            <note type="intro">
+               <p>This is a facsimile and transcription of <title>Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events, vol. 20, no. 24</title>. </p>
+               <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
+            </note>
+         </notesStmt>
          <sourceDesc>
-            <p rend="h_2">Information about the source</p>
+            <biblFull>
+               <titleStmt>
+                  <title ref="#https://www.wikidata.org/wiki/Q1109549">Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events</title>
+                  <editor>
+                     <persName ref="#https://www.wikidata.org/wiki/Q7345851">Robert J. Collier</persName>
+                  </editor>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher ref="#https://www.wikidata.org/wiki/Q7173900">Peter F. Collier</publisher>
+                  <pubPlace>New York: </pubPlace>
+                  <date when="1898-03-19">March 19, 1898</date>
+               </publicationStmt>
+            </biblFull>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by encoding transcription from Internet Archive scans of periodical. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 24, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the paratexts of the novel and its paratexts. Because users can reference facsimiles, various formatting and forme work have not been encoded. Textual rendition has been encoded apart from decorative initial captials, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change resp="#1078975"><date>2024-07-01</date>Encoding completed.</change>
+         <change resp="#EH">
+            <date>2021-03</date>
+            <label>template created</label></change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng" xml:id="Colliers-vol20no24">
      <front>
-        <pb n="1"/>
-        <gap extent="1 page" reason="editorial"/>
+        <pb n="1" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-1.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
      </front>
      <body>
-        <pb n="2"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="3"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="4"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="5"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="6"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="7"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="8"/>
-        <gap extent="1 page" reason="editorial"/>
+        <pb n="2" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-2.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="3" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-3.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="4" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-4.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="5" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-5.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="6" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-6.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="7" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-7.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="8" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-8.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
          <div type="section">
-            <pb n="9"/>
-            <head rend="allcaps center">The Turn of the Screw</head>
-            <head rend="allcaps center" type="sub">By Henry James</head>
-            <head rend="allcaps center italic">Part Fourth</head>
+            <pb n="9" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-9.png"/>
+            <figure>
+               <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
+               <bibl rend="caps">Drawn by John La Farge</bibl>
+            </figure>
+            <head rend="caps center">The Turn of the Screw</head>
+            <head rend="caps center" type="sub">By Henry James</head>
+            <head rend="caps center italic">Part Fourth</head>
             <div type="chapter">
                <head rend="center">XIII</head>
                <p rend="h_2">It was all very well to join them, but speaking to them proved quite as much as ever an effort beyond my strength—offered, in close quarters, difficulties as insurmountable as before. This situation continued a month. and with new aggravations and particular notes, the note above all, sharper and sharper, of the small ironic consciousness on the part of my pupils. It was not, I am as sure to-day as I was sure then, my mere infernal imagination; it was absolutely traceable that they were aware of my predicament and that this strange relation made, in a manner, for a long time, the air in which we moved. I don’t mean that they had their tongue in their cheeks or did anything vulgar, for that was not one of their resources: I do mean, on the other hand, that the element of the unnamed and untouched became, between us, greater than any other, and that so much avoidance could not have been so successfully effected without a great deal of tacit arrangement. It was as if, at moments, we were perpetually coming into sight of subjects before which we must stop short, turning suddenly out of alleys that we perceived to be blind, closing with a little bang that made us look at each other—for, like all bangs, it was something louder than we had intended—the doors we had indiscreetly opened. All roads lead to Rome, and there were times when it might have struck us that almost every branch of study or subject of conversation skirted forbidden ground. Forbidden ground was the question of the return of the dead in general and of whatever, in especial, might survive, in memory, of the friends little children had lost. There were days when I could have sworn that one of mine had, with a small invisible nudge, said to the other: “She thinks she’ll do it this time, but she <emph rend="italic">won’t!</emph>” To “do it” would have been to indulge, for instance, and for once in a way, in some direct reference to the lady—never once named—who had prepared them for my discipline. They had a delightful endless appetite for passages in my own history, to which I had again and again treated them; they were in possession of everything that had ever happened to me, had had, with every circumstance, the story of my smallest adventures and of those of my brothers and sisters and of the cat and the dog at home, as well as many particulars of the eccentric habits of my father, of the furniture and arrangement of our house and of the conversation of the old women of our village. There were things enough, taking one with another, to chat about, if one went very fast and knew by instinct when to go round. They pulled with an art of their own the strings of my invention and my memory, and nothing else, perhaps, when I thought of such occasions afterward, gave me so the suspicion of being watched from under cover. It was at any rate over <emph rend="italic">my</emph> life, <emph rend="italic">my</emph> past, and <emph rend="italic">my</emph> friends alone that we could take anything like our ease; a state of the case that led them sometimes without the least pertinence to break out into sociable reminders. I was invited—with no visible connection—to repeat afresh Goody Gosling’s celebrated <emph rend="italic">mot</emph> or to confirm the details already supplied upon the conduct of the vicarage jackdaw.</p>
                <p rend="h_2">It was partly on such occasions as these and partly on quite different ones that, with the turn my affair had now taken, my predicament, as I have called it, grew most sensible. The fact that the days passed for me without another encounter ought, it would have appeared, to have done something toward soothing my nerves. Since the light brush, that second night on the upper landing, of the presence of a woman at the foot of the stair, I had seen nothing, whether in or out of the house, that one had better not have seen. There was many a corner round which I had expected to come upon Quint, and many a situation that, in a merely sinister way, would have favored the appearance of Miss Jessel. The summer had turned, the summer had gone; the autumn had dropped upon Bly and had blown out half our lights. The place, with its gray sky and withered garlands, its bared spaces and scattered dead leaves, was like a theatre after the performance—all strewn with crumpled playbills. There were exactly states of the air, conditions of sound and of stillness, unspeakable impressions of the <emph rend="italic">kind</emph> of ministering moment, that brought back to me, long enough to catch it, the feeling of the medium in which, that June evening out-of-doors, I had had my first sight of Quint, and in which, too, at those other instants, I had, after seeing him through the window, looked for him in vain in the circle of shrubbery. I recognized the signs, the portents—I recognized the moment, the spot. But they remained unaccompanied and empty, and I continued unmolested: if unmolested one could call a young woman whose sensibility had, in the most extraordinary fashion, not declined but deepened. I had said in my talk with Mrs. Grose on that horrid scene of Flora’s by the lake—and had perplexed her by so saying—that it would from that moment distress me much more to lose my faculty than to keep it. I had then expressed what was vividly in my mind: the truth that, whether the children really saw or not—since, that is, it was not yet definitely proved—I greatly preferred, as a safeguard, the fullness of my own exposure. I was ready to know the very worst that was to be known. What I had then had an ugly glimpse of was that my eyes might be sealed just while theirs were most opened. Well, my eyes <emph rend="italic">were</emph> sealed, it appeared, at present—a consummation for which it seemed blasphemous not to thank God. There was, alas, a difficulty about that: I would have thanked him with all my soul had I not had in a proportionate measure this conviction of the secret of my pupils.</p>
                <p rend="h_2">How can I retrace to-day the strange steps of my obsession? There were times of our being together when I would have been ready to swear that, literally, in my presence, but with my direct sense of it closed, they had visitors who were known and were welcome. Then it was that, had I not been deterred by the very chance that such an injury might prove greater than the injury to be averted, my exaltation would have broken out. “They’re here, they’re here, you little wretches,” I would have cried, “and you can’t deny it now!” The little wretches denied it with all the added volume of their sociability and their tenderness, in just the crystal depths of which—like the flash of a fish in a stream—the mockery of their advantage peeped up. The shock, in truth, had sunk into me still deeper than I knew on the night when, looking out to see either Quint or Miss Jessel under the stars, I had beheld the boy over whose rest I watched
-                  <pb n="10"/>and who had immediately brought in with him—had straightway, there, turned it on me—the lovely upward look with which, from the battlements above me, the hideous apparition of Quint had played. If it was a question of a scare, my discovery on this occasion had scared me more than any other, and it was in the condition of nerves produced by it that I made my actual inductions. They harassed me so that sometimes, at odd moments, I shut myself up audibly to rehearse—it was at once a fantastic relief and a renewed despair—the manner in which I would come to the point. I approached it from one side and the other while, in my room, I flung myself about, but I always broke down in the monstrous utterance of names. As they died away on my lips I said to myself that I should indeed help them to represent something infamous if, by pronouncing them, I should violate as rare a little case of instinctive delicacy as any schoolroom, probably, had ever known. When I said to myself: “<emph rend="italic">They</emph> have the manners to be silent, and you, trusted as you are, the baseness to speak!” I felt myself crimson and I covered my face with my hands. After these secret scenes I chattered more than ever, going on volubly enough till one of our prodigious, palpable hushes occurred—I can call them nothing else—the strange, dizzy lift or swim (I try for terms!) into a stillness, a pause of all life, that had nothing to do with the more or less noise that, at the moment, we might be engaged in making and that I could hear through any deepened exhilaration or quickened recitation or louder strum of the piano. Then it was that the others, the outsiders were there. Though they were not angels, they <emph rend="italic">passed</emph>, as the French say, making me, while they stayed, tremble with the fear of their addressing to their younger victims some yet more infernal message or more vivid image than they had thought good enough for myself.</p>
+                  <pb n="10" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-10.png"/>and who had immediately brought in with him—had straightway, there, turned it on me—the lovely upward look with which, from the battlements above me, the hideous apparition of Quint had played. If it was a question of a scare, my discovery on this occasion had scared me more than any other, and it was in the condition of nerves produced by it that I made my actual inductions. They harassed me so that sometimes, at odd moments, I shut myself up audibly to rehearse—it was at once a fantastic relief and a renewed despair—the manner in which I would come to the point. I approached it from one side and the other while, in my room, I flung myself about, but I always broke down in the monstrous utterance of names. As they died away on my lips I said to myself that I should indeed help them to represent something infamous if, by pronouncing them, I should violate as rare a little case of instinctive delicacy as any schoolroom, probably, had ever known. When I said to myself: “<emph rend="italic">They</emph> have the manners to be silent, and you, trusted as you are, the baseness to speak!” I felt myself crimson and I covered my face with my hands. After these secret scenes I chattered more than ever, going on volubly enough till one of our prodigious, palpable hushes occurred—I can call them nothing else—the strange, dizzy lift or swim (I try for terms!) into a stillness, a pause of all life, that had nothing to do with the more or less noise that, at the moment, we might be engaged in making and that I could hear through any deepened exhilaration or quickened recitation or louder strum of the piano. Then it was that the others, the outsiders were there. Though they were not angels, they <emph rend="italic">passed</emph>, as the French say, making me, while they stayed, tremble with the fear of their addressing to their younger victims some yet more infernal message or more vivid image than they had thought good enough for myself.</p>
                <p rend="h_2">What it was most impossible to get rid of was the cruel idea that, whatever I had seen, Miles and Flora saw <emph rend="italic">more</emph>—things terrible and unguessable and that sprang from dreadful passages of intercourse in the past. Such things naturally left on the surface, for the time, a chill which we vociferously denied that we felt, and we had, all three, with repetition, got into such splendid training that we went, each time, almost automatically, to mark the close of the incident, through the very same movements. It was striking of the children, at all events, to kiss me, inveterately, with a kind of wild irrelevance and never to fail—one or the other—of the precious question that had helped us through many a peril. “When do you think he <emph rend="italic">will</emph> come? Don’t you think we <emph rend="italic">ought</emph> to write?”—there was nothing like that inquiry, we found by experience, for carrying off an awkwardness. “He” of course was their uncle in Harley Street; and we lived in much profusion of theory that he might at any moment arrive to mingle in our circle. It was impossible to have given less encouragement than he had done to such a doctrine; but if we had not had the doctrine to fall back upon we should have deprived each other of some of our finest exhibitions. He never wrote to them—that may have been selfish, but it was a part of the flattery of his trust of me; for the way in which a man pays his highest tribute to a woman is apt to be but the more festal celebration of one of the sacred laws of his comfort; and I held that I carried out the spirit of the pledge given not to appeal to him when I let my charges understand that their own letters were but charming literary exercises. They were too beautiful to be posted; I kept them myself; I have them all to this hour. This was a rule indeed which only added to the satiric effect of my being plied with the supposition that he might at any moment be among us. It was exactly as if my charges knew how almost more awkward than anything else that might be for me. There appears to me, moreover, as I look back, no note in all this more extraordinary than the mere fact that, in spite of my tension and of their triumph, I never lost patience with them. Adorable they must in truth have been, I now reflect, if I didn’t in these days hate them! Would exasperation, however, if relief had longer been postponed, finally have betrayed me? It little matters, for relief arrived. I call it relief though it was only the relief that a snap brings to a strain or the burst of a thunderstorm to a day of suffocation. It was at least change, and it came with a rush.</p>
             </div>
             <div type="chapter">
@@ -84,7 +149,7 @@
                <p rend="h_2">“You really compare me to a baby girl?”</p>
                <p rend="h_2">This found me singularly weak. “Don’t you, then, <emph rend="italic">love</emph> our sweet Flora?”</p>
                <p rend="h_2">“If I didn’t—and you too; if I didn’t—!” he repeated as if retreating for a jump, yet leaving his thought so unfinished that,
-                  <pb n="11"/>
+                  <pb n="11" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-11.png"/>
                after we had come into the gate, another stop, which he imposed on me by the pressure of his arm, had become inevitable. Mrs. Grose and Flora had passed into the church, the other worshipers had followed, and we were, for the minute, alone among the old, thick graves. We had paused, on the path from the gate, by a low, oblong table-like tomb.</p>
                <p rend="h_2">“Yes, if you didn’t—?”</p>
                <p rend="h_2">He looked, while I waited, about at the graves. “Well, you know what!” But he didn’t move, and he presently produced something that made me drop straight down on the stone slab, as if suddenly to rest. “Does my uncle think what <emph rend="italic">you</emph> think?”</p>
@@ -107,34 +172,74 @@
                <p rend="h_2">Seated at my own table in the clear noonday light, I saw a person whom, without my previous experience, I should have taken at the first blush for some housemaid who might have stayed at home to look after the place and who, availing herself of rare relief from observation and of the schoolroom table and my pens, ink and paper, had applied herself to the considerable effort of a letter to her sweetheart. There was an effort in the way that, while her arms rested on the table, her hands, with evident weariness, supported her head; but at the moment I took this in I had already become aware that, in spite of my entrance, her attitude strangely persisted. Then it was—with the very act of its announcing itself—that her identity flared up in a change of posture. She rose, not as if she had heard me, but with an indescribable grand melancholy of indifference and detachment, and, within a dozen feet of me, stood there as my vile predecessor. Dishonored and tragic, she was all before me, but even as I fixed and, for memory, secured it, the awful image passed away. Dark as midnight in her black dress, her haggard beauty and her unutterable woe, she had looked at me long enough to appear to say that her right to sit at my table was as good as mine to sit at hers. While the tension lasted, indeed, I had the extraordinary chill of a feeling that it was <emph rend="italic">I</emph> who was the intruder. It was as a wild protest against it that, actually addressing her—“You terrible, <emph rend="italic">miserable</emph> woman!”—I heard myself break into a sound that, by the open door, rang through the long passage and the empty house. She looked at me as if she heard me, but I had recovered myself and cleared the air. There was nothing in the room the next minute but the sunshine and my sense that I must stay.</p>
             </div>
             <trailer rend="center">(<hi rend="italic">To be continued.</hi>)</trailer>
-            <gap extent="1/2 column" reason="editorial"/>
-         </div>
-        <pb n="12"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="13"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="14"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="15"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="16"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="17"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="18"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="19"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="20"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="21"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="22"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="23"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="24"/>
-        <gap extent="1 page" reason="editorial"/>
+         <floatingText type="poem">
+            <body>
+            <head rend="caps center">Shadows</head>
+            <lg>
+               <lg>
+                  <l>To-day the Shadow Queen passed by; Bend lowly:</l>
+                  <l>Across the churchyard quaint and holy</l>
+                  <l>She trailed her ribbons white and green,</l>
+                  <l>She wound a spell the stones between; Bend lowly:</l>
+                  <l>To-day she passèd by.</l>
+               </lg>
+               <lg>
+                  <l>To-day there passed the Shadow Queen; Bend lowly:</l>
+                  <l>She passed <emph rend="italic">thy</emph> doorway sad and slowly;</l>
+                  <l>The summer sun was in the sky,</l>
+                  <l>The sunlight in the daisy’s eye; Bend lowly:</l>
+                  <l>She passed thy doorway by.</l>
+               </lg>
+               <lg>
+                  <l>To-day there passed the Shadow Queen; Bend lowly:</l>
+                  <l>To-morrow <emph rend="italic">thou</emph> shalt pass more slowly,</l>
+                  <l>For in the cool calm churchyard she</l>
+                  <l>Has marked a little place for thee; Bend lowly:</l>
+                  <l>To-day she passèd by.</l>
+               </lg>
+            </lg>
+            <byline rend="small-caps align-right">Agnes Grozier Herbertson.</byline>
+            </body>
+         </floatingText>
+        <floatingText type="advertisement">
+           <body>
+              <head rend="caps center">Consumption Cured.</head>
+           <p rend="italic">An old physician, retired from practice, had placed in his hands by an East India missionary the formula of a simple vegetable remedy for the speedy and permanent cure of Consumption, Bronchitis, Catarrh, Asthma, and all Throat and Lung Affections, also a positive and radical cure for Nervous Debility and all Nervous Complaints. Having tested its wonderful curative powers in thousands of cases, and desiring to relieve human suffering, I will send free of charge to all who wish it, this recipe, in German, French or English, with full directions for preparing and using. Sent by mail, by addressing, with stamp, naming this paper.</p><closer><hi rend="small-caps">W.A. Noyes,</hi><hi rend="italic">820 Powers’ Block, Rochester, N.Y.</hi></closer>
+           </body>
+        </floatingText>
+        <pb n="12" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-12.png"/>
+        <figure xml:id="fig-connect-01" next="#fig-connect-02">
+           <figDesc>An illustration of the character of the governess sitting on a stone slab looking contemplatively toward the ground, while the character Miles looks at her. This illustration is situated vertically across a two-page spread, and this page shows the bottom half of the image. Below the bottom left corner of the image, a small sketch of a rose and the signature of the illustrator Eric Pape appear.</figDesc>
+           <p rend="center caps italic u">He presently produced something that made me drop straight down on the stone slab</p>
+           <p rend="italic">From “The Turn of the Screw, Part Fourth, Chapter XIV</p>
+        </figure>
+        <pb n="13" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-13.png"/>
+        <figure xml:id="fig-connect-02" prev="#fig-connect-01">
+           <figDesc>An illustration of the character of the governess sitting on a stone slab looking contemplatively toward the ground, while the character Miles looks at her. This illustration is situated vertically across a two-page spread, and this page shows the top half of the image.</figDesc>
+        </figure>
+        </div>
+        <pb n="14" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-14.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="15" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-15.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="16" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-16.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="17" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-17.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="18" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-18.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="19" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-19.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="20" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-20.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="21" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-21.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="22" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-22.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="23" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-23.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="24" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-24.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
       </body>
   </text>
 </TEI>

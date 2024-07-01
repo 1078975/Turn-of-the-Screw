@@ -1,65 +1,130 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Collier’s Weekly, vol. 20, no. 20: a digital edition</title>
          </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>Taylor edition</date>
+            </edition>
+            <respStmt>
+               <resp> Edited by </resp>
+               <persName>1078975<lb/>
+               </persName>
+            </respStmt>
+         </editionStmt>
+         <extent>3 pages transcribed, 24 images.<note>Partial</note></extent>
          <publicationStmt>
-            <p rend="h_2">Publication Information</p>
+            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the University of Oxford, </publisher> <date>2024.</date>
+            <availability>
+               <licence xml:id="xml_files" target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are available for download under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</ref>
+                  <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence> <licence xml:id="image_files"> Images are reproduced from the Internet Archive.</licence>
+            </availability>
+            <idno type="Internet-Archive">https://archive.org/details/sim_colliers-the-national-weekly_1898-02-19_20_20/</idno>
+            <idno type="ISSN">2161-6477</idno>
+            <idno type="Git">https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Collier's%20Encoding/Colliers-vol20no20.xml</idno>
          </publicationStmt>
+         <seriesStmt>
+            <title xml:id="tayeditions">Taylor Editions: </title>
+            <title xml:id="guest">Guest</title>
+         </seriesStmt>
+         <notesStmt>
+            <note type="images">[PNG]</note>
+            <note type="holding"><p>Transcribed from: <orgName>Internet Archive</orgName>: pages 20–22. </p></note>
+            <note type="intro">
+               <p>This is a facsimile and transcription of <title>Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events, vol. 20, no. 20</title>. </p>
+               <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
+            </note>
+         </notesStmt>
          <sourceDesc>
-            <p rend="h_2">Information about the source</p>
+            <biblFull>
+               <titleStmt>
+                  <title ref="#https://www.wikidata.org/wiki/Q1109549">Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events</title>
+                  <editor>
+                     <persName ref="#https://www.wikidata.org/wiki/Q7345851">Robert J. Collier</persName>
+                  </editor>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher ref="#https://www.wikidata.org/wiki/Q7173900">Peter F. Collier</publisher>
+                  <pubPlace>New York: </pubPlace>
+                  <date when="1898-02-19">February 19, 1898</date>
+               </publicationStmt>
+            </biblFull>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by encoding transcription from Internet Archive scans of periodical. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 20, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the paratexts of the novel and its paratexts. Because users can reference facsimiles, various formatting and forme work have not been encoded. Textual rendition has been encoded apart from decorative initial captials, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change resp="#1078975"><date>2024-07-01</date>Encoding completed.</change>
+         <change resp="#EH">
+            <date>2021-03</date>
+            <label>template created</label></change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng" xml:id="Colliers-vol20no20">
      <front>
-        <pb n="1"/>
-        <gap extent="1 page" reason="editorial"/>
+        <pb n="1" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-1.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
      </front>
      <body>
-        <pb n="2"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="3"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="4"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="5"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="6"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="7"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="8"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="9"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="10"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="11"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="12"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="13"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="14"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="15"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="16"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="17"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="18"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="19"/>
-        <gap extent="1 page" reason="editorial"/>
+        <pb n="2" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-2.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="3" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-3.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="4" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-4.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="5" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-5.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="6" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-6.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="7" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-7.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="8" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-8.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="9" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-9.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="10" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-10.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="11" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-11.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="12" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-12.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="13" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-13.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="14" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-14.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="15" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-15.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="16" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-16.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="17" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-17.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="18" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-18.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
+        <pb n="19" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-19.png"/>
+        <gap extent="1" unit="page" reason="editorial"/>
          <div type="section">
-            <pb n="20"/>
+            <pb n="20" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-20.png"/>
+            <figure>
+               <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
+               <bibl rend="caps">Drawn by John La Farge</bibl>
+            </figure>
             <head rend="caps center">The Turn of the Screw</head>
             <head rend="caps center" type="sub">By Henry James</head>
             <head rend="caps center italic">Part Second</head>
@@ -69,7 +134,7 @@
                <p rend="h_2">Here it was another affair; here, for many days after, it was a queer affair enough. There were hours, from day to day—or at least there were moments, snatched even from clear duties—when I had to shut myself up to think. It was not so much yet that I was more nervous than I could bear to be as that I was remarkably afraid of becoming so; for the truth I had now to turn over was, simply and clearly, the truth that I could arrive at no account whatever of the visitor with whom I had been so inexplicably and yet, as it seemed to me, so intimately concerned. It took little time to see that I could sound without forms of inquiry and without exciting remark any domestic complication. The shock I had suffered must have sharpened all my senses; I felt sure, at the end of three days and as the result of mere closer attention, that I had not been practiced upon by the servants nor made the object of any “game”. Of whatever it was that I knew, nothing was known around me. There was but one sane inference: some one had taken a liberty rather gross. That was what, repeatedly, I slipped into my room and locked the door to say to myself. We had been, collectively, subject to an intrusion; some unscrupulous traveler, curious in old houses, had made his way in unobserved, enjoyed the prospect from the best point of view and then stolen out as he came. If he had given me such a bold hard stare, that was but a part of his indiscretion. The good thing, after all, was that we should surely see no more of him.</p>
                <p rend="h_2">This was not so good a thing, I admit, as not to leave me to feel that what, essentially, made nothing else much signify was simply my charming work. My charming work was just my life with Miles and Flora, and nothing so made me like it as precisely to feel that I could throw myself into it in trouble. The attraction of my small charges was a constant delight; it made me wonder afresh at the vanity of my original fears, the distaste I had begun by entertaining for the probable gray prose of my office. There was to be no gray prose, it appeared, and no long grind; so how could work not be charming that presented itself as daily beauty? It was all the romance of the nursery and the poetry of the schoolroom. I don’t mean by this, of course, that we studied only fiction and verse; I mean that I can express no otherwise the sort of interest my companions inspired. How can I describe that except by saying that instead of growing used to them—and it’s a wonder for a governess: I call the sisterhood to witness!—I made constant fresh discoveries. There was one direction, assuredly, in which these discoveries stopped: deep obscurity continued to cover the region of the boy’s conduct at school. It had been promptly given me, I have noted, to face that mystery without a pang. Perhaps even it would be nearer the truth to say that—without a word—he himself had cleared it up. He had made the whole charge absurd. My conclusion bloomed there with the real rose-flush of his innocence: he was only too fine and fair for the little horried, unclean school-world, and he had paid a price for it. I reflected acutely that the sense of such differences, such superiorities of quality, always, on the part of the majority—which could include even stupid, sordid head-masters—turns straight to the vindictive.</p>
                <p rend="h_2">Both the children had a gentleness (it was their only fault, and it never made Miles a muff,) that kept them—how shall I express it?—almost impersonal and certainly quite unpunishable. They were like the cherubs of the anecdote, who had—morally, at any rate—nothing to spank! I remember feeling with Miles in especial as if he had had, as it were, no history. We expect of a child no long one, but there was in this beautiful little boy something extraordinarily sensitive, yet extraordinarily happy, that, more than in any creature of his age I have seen, struck me as beginning anew each day. He had never for a second suffered. I took this as a direct disproof of his having really been chastised. If he had been wicked he would have “caught” it, and I should have caught it by the rebound—I should have found the trace. I found nothing at all, and he was therefore an angel. He never spoke of his school, never mentioned a comrade nor a master; and I, for my part, was quite too much disgusted to allude to them. Of course I was under the spell, and the wonderful part is that, even at the time, I perfectly knew I was. But I gave myself up to it; it was an antidote to any uneasiness, and I had more worries than one. I was in receipt in these days of disturbing letters from home, where things were not going well. But with my children, what things in the world mattered? That was the question I used to put to my scrappy retirements. I was dazzled by their loveliness.</p>
-               <p rend="h_2">There was a Sunday—to get on—when it rained with such force and for so many hours that there could be no procession to church; in consequence of which, as the day declined, I had arranged with Mrs. Grose that, should the evening show improvement, we would attend together the late service. The rain hap<pb n="21"/><!-- how to deal with pb in the middle of the word -->pily stopped, and I prepared for our walk, which, through the park and by the good road to the village, would be a matter of twenty minutes. Coming down stairs to meet my colleague in the hall, I remembered a pair of gloves that had required three stitches and that had received them—with a publicity perhaps not edifying—while I sat with the children at their tea, served on Sundays, by exception, in that cold clean temple of mahogany and brass, the “grown-up” dining-room. The gloves had been dropped there, and I turned in to recover them. The day was gray enough, but the afternoon light still lingered, and it enabled me, on crossing the threshold, not only to recognize, on a chair near the wide window, then closed, the articles I wanted, but to become aware of a person on the other side of the window and looking straight in. One step into the room had sufficed; my vision was instantaneous; it was all there. The person looking straight in was the person who had already appeared to me. He appeared thus again with I won’t say greater distinctness, for that was impossible, but with a nearness that represented a forward stride in our intercourse and made me, as I met him, catch my breath and turn cold. He was the same—he was the same, and seen, this time, as he had been before, from the waist up, the window, though the dining-room was on the ground-floor, not going down to the terrace on which he stood. His face was close to the glass, yet the effect of this better view was, strangely, only to prove to me how intense the former had been. He remained but a few seconds—long enough to show me that he also saw and recognized; but it was as if I had been looking at him for years and had known him always. Something, however, happened this time that had not happened before; his stare into my face, through the glass and across the room, was as deep and hard as then, but it quitted me for a moment during which I could still watch it, see it fix successively several other things. On the spot there came to me the added shock of a certitude that it was not for me he had come there. He had come for some one else.</p>
+               <p rend="h_2">There was a Sunday—to get on—when it rained with such force and for so many hours that there could be no procession to church; in consequence of which, as the day declined, I had arranged with Mrs. Grose that, should the evening show improvement, we would attend together the late service. The rain hap<pb break="no" rend="hyphenBefore" n="21" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-21.png"/>pily stopped, and I prepared for our walk, which, through the park and by the good road to the village, would be a matter of twenty minutes. Coming down stairs to meet my colleague in the hall, I remembered a pair of gloves that had required three stitches and that had received them—with a publicity perhaps not edifying—while I sat with the children at their tea, served on Sundays, by exception, in that cold clean temple of mahogany and brass, the “grown-up” dining-room. The gloves had been dropped there, and I turned in to recover them. The day was gray enough, but the afternoon light still lingered, and it enabled me, on crossing the threshold, not only to recognize, on a chair near the wide window, then closed, the articles I wanted, but to become aware of a person on the other side of the window and looking straight in. One step into the room had sufficed; my vision was instantaneous; it was all there. The person looking straight in was the person who had already appeared to me. He appeared thus again with I won’t say greater distinctness, for that was impossible, but with a nearness that represented a forward stride in our intercourse and made me, as I met him, catch my breath and turn cold. He was the same—he was the same, and seen, this time, as he had been before, from the waist up, the window, though the dining-room was on the ground-floor, not going down to the terrace on which he stood. His face was close to the glass, yet the effect of this better view was, strangely, only to prove to me how intense the former had been. He remained but a few seconds—long enough to show me that he also saw and recognized; but it was as if I had been looking at him for years and had known him always. Something, however, happened this time that had not happened before; his stare into my face, through the glass and across the room, was as deep and hard as then, but it quitted me for a moment during which I could still watch it, see it fix successively several other things. On the spot there came to me the added shock of a certitude that it was not for me he had come there. He had come for some one else.</p>
                <p rend="h_2">The flash of this knowledge—for it was knowledge in the midst of dread—produced in me the most extraordinary effect, started, as I stood there, a sudden vibration of duty and courage. I say courage because I was beyond all doubt already far gone. I bounded straight out of the door again, reached that of the house, got, in an instant, upon the drive, and, passing along the terrace as fast as I could rush, turned a corner and came full in sight. But it was in sight of nothing now—my visitor had vanished. I stopped, I almost dropped, with the real relief of this; but I took in the whole scene—I gave him time to reappear. I call it time, but how long was it? I can’t speak to the purpose to-day of the duration of these things. That kind of measure must have left me: they couldn’t have lasted as they actually appeared to me to last. The terrace and the whole place, the lawn and the garden beyond it, all I could see of the park, were empty with a great emptiness. There were shrubberies and big trees, but I remember the clear assurance I felt that none of them concealed him. He was there or was not there; not there if I didn’t see him. I got hold of this; then, instinctively, instead of returning as I had come, I went to the window. It was confusedly present to me that I ought to place myself where he had stood. I did so; I applied my face to the pane and looked, as he had looked, into the room. As if, at this moment, to show me exactly what his range had been, Mrs. Grose, as I had done for himself just before, came in from the hall. With this I had the full image of a repetition of what had already occurred. She saw me as I had seen my own visitant; she pulled up short as I had done; I gave her something of the shock that I had received. She turned white, and this made me ask myself if I had blanched as much. She stared, in short, and retreated on just <hi rend="italic">my</hi> lines, and I knew she had then passed out and come round to me and that I should presently meet her. I remained where I was, and while I waited I thought of more things than one. But there’s only one I take space to mention. I wondered why <hi rend="italic">she</hi> should be scared.</p>
             </div>
             <div type="chapter">
@@ -133,7 +198,7 @@
                <p rend="h_2">“So have I mine,” she replied; after which she added: “What is he like?”</p>
                <p rend="h_2">“I’ve been dying to tell you. But he’s like nobody.”</p>
                <p rend="h_2">“Nobody?” she echoed.</p>
-               <p rend="h_2">“He has no hat.” Then seeing in her face that she already, in this, with a deeper dismay, found a touch of picture, I quickly added stroke to stroke. “He has red hair, very red, close-curling and a pale face, long in shape, with straight, good features and little, rather queer whiskers that are as red as his hair. His eyebrows are, somehow, darker; they look particularly arched and as if they might move a good deal. His eyes are sharp, strange—awfully; but I only know clearly that they’re rather small and very fixed. His mouth’s wide, and his lips are thin, <pb n="22"/>and except for his little whiskers he’s quite clean-shaven. He gives me a sort of sense of looking like an actor.”</p>
+               <p rend="h_2">“He has no hat.” Then seeing in her face that she already, in this, with a deeper dismay, found a touch of picture, I quickly added stroke to stroke. “He has red hair, very red, close-curling and a pale face, long in shape, with straight, good features and little, rather queer whiskers that are as red as his hair. His eyebrows are, somehow, darker; they look particularly arched and as if they might move a good deal. His eyes are sharp, strange—awfully; but I only know clearly that they’re rather small and very fixed. His mouth’s wide, and his lips are thin, <pb n="22" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-22.png"/>and except for his little whiskers he’s quite clean-shaven. He gives me a sort of sense of looking like an actor.”</p>
                <p rend="h_2">“An actor!” It was impossible to resemble one less, at least, than Mrs. Grose at that moment.</p>
                <p rend="h_2">“I’ve never seen one, but so I suppose them. He’s tall, active, erect,” I continued; “but never—no, never!—a gentleman.”</p>
                <p rend="h_2">My companion’s face had blanched as I went on; her round eyes started and her mild mouth gaped. “A gentleman?” she gasped, confounded, stupefied: “a gentleman <hi rend="italic">he?</hi>”</p>
@@ -159,12 +224,38 @@
                <p rend="h_2">She seemed fairly to square herself, plant herself more firmly to articulate the wonder of it. “Yes. Yes. Quint is dead.”</p>
             </div>
             <trailer rend="center">(<hi rend="italic">To be continued.</hi>)</trailer>
-            <gap extent="1.5 columns" reason="editorial"/>
          </div>
-         <pb n="23"/>
-         <gap extent="1 page" reason="editorial"/>
-         <pb n="24"/>
-         <gap extent="1 page" reason="editorial"/>
+         <div type="letter">
+            <head rend="center caps">Our Fashion Letter</head>
+            <opener rend="small-caps">My dear May:</opener>
+            <p rend="indent">At this mid-season there is a lull in the world of Fashion, for it is too early to definitely state what styles will be adopted for spring and summer wear; but that those who are fortunate enough to be wending their way toward the Sunny South must have light garments, it seems a pity that we should have feasted our eyes on the lovely organdies, challies, Swiss lawns and light silks, which we cannot wear here for many weeks to come. Many new tailor-made dresses are already seen, but they differ very little from those of last year; the skirts are narrower and more cleanly cut over the hips, the coats are a trifle longer and the sleeves decidedly smaller. A gray covert-cloth gown I saw has this closely fitting skirt with the coat cut on the blazer pattern, well open in front, and turned back with revers, showing the tight-fitting waistcoat of white cloth embroidered with narrow black braid, which is high to the throat. A small toque of white cloth, spangled with jet and finished at the side with a group of black tips, was worn with this costume. Gray used alone or combined with black and white is charming. A gown of cashmere in the new blue gray has for a novelty a blouse of jet over the loose-fitting bodice; it is really a long jet fringe which is joined into a beading at the neck, square back and front, and hangs to the waist, where it is fixed tight at the sides and back, but bags in front; it is fastened at the shoulders with straps of jet and bows of black satin ribbon. A girdle of jet network encircles the waist and hangs to the hem of the skirt at the side. The blouses in black braids are on the same principle, and make a very becoming decoration for the bodice; the braid is crossed in lattice fashion and finished at the shoulders with bows of ribbon or brooches in antique designs.</p>
+            <p rend="indent">A revival of the trimmed skirt will bring cheer to the hearts of the slender women, and this is what is predicted—skirts ruffled and flounced; but I fear they will be very common, and unless made by a very clever dressmaker they will be the most unsightly things. Some have the flounces put on straight round the skirt from waist to hem or shaped so as to meet in a point in front. The flounces themselves vary as much as the arrangement of them. There are vandyked flounces, those cut in scallops, and those which are pinked and put on in box-plaits, and others quite plain with the French roll at the edge. The widths vary, too, according to the taste of the wearer. These flounced skirts, which have the fullness well kept to the back, are made separate from the lining, which entails much extra labor; for the lining fits as perfectly as the skirt itself and is generally finished with an accordeon-plaited flounce and trimmed with a ruffle; these linings are put into the same waist-belt as the gown skirt.
+            <floatingText type="advertisement">
+               <body>
+                  <p rend="indent">Price has been reduced on the original old-fashioned Dobbins’ Electric Soap, so that it can now be bought at 8 cents a bar, two bars for 15 cents. Quality same as for last 33 years, “<emph rend="small-caps">Best of All</emph>,” as your grocer for it.</p>
+               </body>
+            </floatingText>
+            Flounces and ruches look well only in soft goods, such as silks and summer materials; in cloths they drag in an ugly, ungraceful fashion. Skirts of velvet trimmed with ruches or flounces of fine net or chiffon are worn with bodices made of these lastnamed delicate fabrics in the evening and are very popular.</p>
+            <p rend="indent">Everything that tends to make the figure slim just below the waist is eagerly sought after, as that is the chief aim at present; hence the certain amount of popularity gained by these flounced skirts. We must congratulate ourselves on the disappearance of the very large sleeves; for if women continued to wear them puffed out six or eight inches beyond the outline of the shoulder, and also donned the much-flounced skirt, what deformities they would look!</p>
+            <p rend="indent">The coat sleeve when of a moderate size is the neatest in appearance and most comfortable, but should it become very tight the old difficulty will return; we shall not be able to raise our arms to either pin on our hat or tie our veil when completely dressed. To such a plight we must not come again. And this reminds me of the newest veils, which will certainly make young women a thing of beauty if not a joy forever. They are of the most delicate cobwebby fish-net, in pink and white, with close black dots and border of fine lace in black or white, and are most becoming, though women who have passed their palmiest days will be wise if they cling to the all black veil, and wiser still if they wear no veil at all. In spite of the danger to our eyesight we still prefer dotted veils, and this season the dots are closer than ever. The veils of fine Brussels net or tulle are the least injurious to the eye, but not so becoming to the face, and therefore rarely seen. So we shall go on gratifying our own vanity and helping to fill the pockets of the oculists.</p>
+            <p rend="indent">A new fad is to have the corset and silk petticoat exactly matching in color and material, and when carried out in all cases becomes an expensive luxury, to be indulged in only by those blessed with long purses. The craze may have a good result, for many who are not able to gratify this latest whim may take the bull by the horns and discard the corset altogether, to the delight of all gifted with common-sense and the wish to see our women lithe and strong as they should be.</p>
+            <p rend="indent">That “women are queer cattle” is certainly true. We all know that these “cases of bone” (as corsets are called) inclose with their stiff, unyielding ribs that part of the body which contains the many marvelously constructed vital organs on which we depend for our lives. The lower part of the lungs, the heart, the stomach, and many other organs which are surrounded by the muscles of the waist, are caged in by the corset; there is no room for the ribs to expand and allow the lungs to fill with pure air, the pressure prevents the heart from doing its , proper work, and, as for the stomach! it’s so pressed down that it’s wonderful if any woman is ever free from indigestion. If women were told that by climbing to the top of Mont Blanc they would become strong, healthy and beautiful, every one would try her hardest to achieve this feat, for there is not one among us who does not wish to be “fair of face and form”; but when it comes to such a simple act as giving up wearing a garment which is dangerous as well as unnatural, they won’t make the small effort required. If the waist muscles, instead of being cramped up, were kept free by proper and regular exercise, the organs under them would be strong, the back as straight as an arrow, and a woman’s walk full of grace. The exercises to be
+               <floatingText type="advertisement">
+                  <body>
+                     <head rend="caps center">Pears’</head>
+                     <p rend="indent">Pretty boxes and odors are used to sell such soaps as no one would touch if he saw them undisguised. Beware of a soap that depends on something outside of it.</p>
+                     <p rend="indent">Pears’, the finest soap in the world is scented or not, as you wish; and the money is in the merchandise, not in the box.</p>
+                     <p rend="indent">All sorts of stores sell it, especially druggists; all sorts of people are using it.</p>
+                  </body>
+               </floatingText>
+         <pb n="23" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-23.png"/>
+            <gap extent="20" unit="line" reason="editorial"/>
+            </p>
+            <gap extent="3" unit="paragraph" reason="editorial"/>
+         </div>
+         <gap extent="1" unit="page" reason="editorial"/>
+         <pb n="24" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no20/Colliers-vol20no20-24.png"/>
+         <gap extent="1" unit="page" reason="editorial"/>
      </body>
   </text>
 </TEI>

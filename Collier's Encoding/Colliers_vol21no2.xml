@@ -1,59 +1,124 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Collier’s Weekly, vol. 21, no. 2: a digital edition</title>
          </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>Taylor edition</date>
+            </edition>
+            <respStmt>
+               <resp> Edited by </resp>
+               <persName>1078975<lb/>
+               </persName>
+            </respStmt>
+         </editionStmt>
+         <extent>3 pages transcribed, 24 images.<note>Partial</note></extent>
          <publicationStmt>
-            <p rend="h_2">Publication Information</p>
+            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the University of Oxford, </publisher> <date>2024.</date>
+            <availability>
+               <licence xml:id="xml_files" target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are available for download under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</ref>
+                  <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence> <licence xml:id="image_files"> Images are reproduced from the Internet Archive.</licence>
+            </availability>
+            <idno type="Internet-Archive">https://archive.org/details/sim_colliers-the-national-weekly_1898-04-16_21_2/</idno>
+            <idno type="ISSN">2161-6477</idno>
+            <idno type="Git">https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Collier's%20Encoding/Colliers-vol21no2.xml</idno>
          </publicationStmt>
+         <seriesStmt>
+            <title xml:id="tayeditions">Taylor Editions: </title>
+            <title xml:id="guest">Guest</title>
+         </seriesStmt>
+         <notesStmt>
+            <note type="images">[PNG]</note>
+            <note type="holding"><p>Transcribed from: <orgName>Internet Archive</orgName>: pages 16–18. </p></note>
+            <note type="intro">
+               <p>This is a facsimile and transcription of <title>Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events, vol. 21, no. 2</title>. </p>
+               <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
+            </note>
+         </notesStmt>
          <sourceDesc>
-            <p rend="h_2">Information about the source</p>
+            <biblFull>
+               <titleStmt>
+                  <title ref="#https://www.wikidata.org/wiki/Q1109549">Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events</title>
+                  <editor>
+                     <persName ref="#https://www.wikidata.org/wiki/Q7345851">Robert J. Collier</persName>
+                  </editor>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher ref="#https://www.wikidata.org/wiki/Q7173900">Peter F. Collier</publisher>
+                  <pubPlace>New York: </pubPlace>
+                  <date when="1898-04-16">April 16, 1898</date>
+               </publicationStmt>
+            </biblFull>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by encoding transcription from Internet Archive scans of periodical. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>This is a digital edition of Collier’s Weekly, vol. 21, no. 2, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the paratexts of the novel and its paratexts. Because users can reference facsimiles, various formatting and forme work have not been encoded. Textual rendition has been encoded apart from decorative initial captials, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change resp="#1078975"><date>2024-07-01</date>Encoding completed.</change>
+         <change resp="#EH">
+            <date>2021-03</date>
+            <label>template created</label></change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng" xml:id="Colliers-vol21no2">
      <front>
-        <pb n="1"/>
-        <gap extent="1 page" reason="editorial"/>
+        <pb n="1" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-1.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
      </front>
      <body>
-        <pb n="2"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="3"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="4"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="5"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="6"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="7"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="8"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="9"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="10"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="11"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="12"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="13"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="14"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="15"/>
-        <gap extent="1 page" reason="editorial"/>
+        <pb n="2" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-2.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="3" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-3.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="4" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-4.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="5" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-5.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="6" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-6.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="7" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-7.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="8" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-8.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="9" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-9.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="10" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-10.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="11" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-11.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="12" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-12.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="13" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-13.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="14" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-14.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="15" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-15.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
          <div type="section">
-            <pb n="16"/>
-            <head rend="allcaps center">The Turn of the Screw</head>
-            <head rend="allcaps center" type="sub">By Henry James</head>
+            <pb n="16" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-16.png"/>
+            <figure>
+               <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
+               <bibl rend="caps">Drawn by John La Farge</bibl>
+            </figure>
+            <head rend="caps center">The Turn of the Screw</head>
+            <head rend="caps center" type="sub">By Henry James</head>
             <div type="chapter">
                <head rend="center">XXIII</head>
                <p rend="h_2">Oh, more or less.” I fancy my smile was pale. “Not absolutely. We shouldn’t like that!” I threw in.</p>
@@ -81,7 +146,7 @@
                <p rend="h_2">“Awfully!” He smiled at me heroically, and the touching little bravery of it was enhanced by his actually flushing with pain. He had picked up his hat, which he had brought in, and stood twirling it in a way that gave me, even as I was thus just nearly reaching port, a perverse horror of what I was doing. To do it in <hi rend="italic">any</hi> way was an act of violence, for what did it consist of but the obtrusion of the idea of grossness and guilt on a small helpless creature who had been for me a revelation of the possibilities of beautiful intercourse? Wasn’t it base to create for a being so exquisite a mere alien awkwardness? I suppose I now read into our situation a clearness it couldn’t have had at the time, for I seem to see our poor eyes already lighted with some spark of a prevision of the anguish that was to come. So we circled about, with terrors and scruples, like fighters not daring to close. But it was for each other we feared! That kept us a little longer suspended and unbruised. “I’ll tell you everything,” Miles said—“I mean I’ll tell you anything you like. You’ll stay on with me, and we shall both be all right, and I <hi rend="italic">will</hi> tell you—I <hi rend="italic">will</hi>. But not now.”</p>
                <p rend="h_2">“Why not now?”</p>
                <p rend="h_2">My insistence turned him from me and kept him once more
-               <pb n="17"/>
+               <pb n="17" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-17.png"/>
                at his window in a silence during which, between us, you might have heard a pin drop. Then he was before me again with the air of a person for whom, outside, some one who had frankly to be reckoned with was waiting. “I have to see Luke.”</p>
                <p rend="h_2">I had not yet reduced him to quite so vulgar a lie, and I felt proportionately ashamed. But, horrible as it was, his lies made up my truth. I achieved thoughtfully a few loops of my knitting. “Well then, go to Luke, and I’ll wait for what you promise. Only, in return for that, satisfy, before you leave me, one very much smaller request.”</p>
                <p rend="h_2">He looked as if he felt he had succeeded enough to be able still a little to bargain. “Very much smaller—?”</p>
@@ -136,28 +201,43 @@
                <p rend="h_2">“Is she <hi rend="italic">here?</hi>” Miles panted as he caught with his sealed eyes the direction of my words. Then as his strange “she” staggered me and, with a gasp, I echoed it, “Miss Jessel, Miss Jessel!” he with a sudden fury gave me back.</p>
                <p rend="h_2">I seized, stupefied, his supposition—some sequel to what we had done to Flora; but this made me only want to show him that it was better still than that. “It’s not Miss Jessel! But it’s at the window—straight before us. It’s <hi rend="italic">there</hi>—the coward horror, there for the last time!”</p>
                <p rend="h_2">At this, after a second in which his head made the movement of a baffled dog’s on a scent and then gave a frantic little shake for air and light, he was at me in a white rage, bewildered, glar
-               <pb n="18" break="no" rend="hyphenBefore"/>
+               <pb n="18" break="no" rend="hyphenBefore" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-18.png"/>
                ing vainly over the place and missing wholly, though it now, to my sense, filled the room like the taste of poison, the wide, overwhelming presence. “It’s <hi rend="italic">he?</hi>”</p>
                <p rend="h_2">I was so determined to have all my proof that I flashed into ice to challenge him. “Whom do you mean by ‘he’?”</p>
                <p rend="h_2">“Peter Quint—you devil!” His face gave again, round the room, its convulsed supplication. “<hi rend="italic">Where?</hi>”</p>
                <p rend="h_2">They are in my ears still, his supreme surrender of the name and his tribute to my devotion. “What does he matter now, my own?—what will he <hi rend="italic">ever</hi> matter? <hi rend="italic">I</hi> have you,” I launched at the beast, “but <hi rend="italic">he</hi> has lost you forever!” Then, for the demonstration of my triumph, “There, <hi rend="italic">there!</hi>” I said to Miles.</p>
                <p rend="h_2">But he had already jerked straight round, stared, glared again, and seen but the quiet day. With the stroke of the loss I was so proud of he uttered the cry of a creature hurled over an abyss, and the grasp with which I recovered him might have been that of catching him in his fall. I caught him, yes, I held him—it may be imagined with what a passion; but at the end of a minute I began to feel what it truly was that I held. We were alone with the quiet day, and his little heart, dispossessed, had stopped.</p>
             </div>
-            <trailer rend="center"><hi rend="allcaps">The End</hi></trailer>
-            <gap extent="1.5 columns" reason="editorial"/>
+            <trailer rend="center"><hi rend="caps">The End</hi></trailer>
          </div>
-           <pb n="19"/>
-           <gap extent="1 page" reason="editorial"/>
-           <pb n="20"/>
-           <gap extent="1 page" reason="editorial"/>
-           <pb n="21"/>
-           <gap extent="1 page" reason="editorial"/>
-           <pb n="22"/>
-           <gap extent="1 page" reason="editorial"/>
-           <pb n="23"/>
-           <gap extent="1 page" reason="editorial"/>
-           <pb n="24"/>
-           <gap extent="1 page" reason="editorial"/>
+         <div type="article">
+           <head rend="center caps">Spain’s Vulnerable Seaports</head>
+            <p>Should the disagreements of Spain and the United States cause an American fleet to attack the Spanish seacoast, nothing except an alliance with some European power or the massing of Spain’s naval force could prevent the ruin of many Spanish cities.</p>
+            <p rend="italic">A century ago the Spanish cities on tide water were the best fortified in the world, many of them being almost impregnable. To-day the only town on the Spanish coast which could not be destroyed by the guns of our fleet is Gibraltar, an English possession. Thanks to the friendly feeling of the English, the Stars and Stripes can pass by the great rock unmolested, as its guns completely command the entrance to the Mediterranean.</p>
+            <p rend="indent">Three of Spain’s seaports outside of Gibraltar would be at our mercy. On the Bay of Biscay, within six miles of the open sea, are the cities of Santander and Corunna. They are of about the same size, each having a population of thirty-five thousand. From them are shipped large quantities of iron and copper ore, and at Santander is a large portion of Spain’s wheat supply from abroad. Although a battery was placed on Santander Bay about two years ago, its guns are very light and would not prevent such cruisers as the Brooklyn and Minneapolis from steaming to within three miles of the heart of the city. Corunna, containing an obsolete citadel and two small forts, is practically in the same condition and could be destroyed by shells from any modern vessel.</p>
+            <p rend="indent">A far more important port, however, is Cadiz, on the Atlantic coast, northwest of Gibraltar. This is one of the oldest and wealthiest cities of Europe. It is at the end of a narrow peninsula and surrounded by walls built several centuries ago. The harbor is so good that vessels drawing thirty feet of water can approach within pistol shot of the docks. The only protection against an attack from sea is a chain of sunken rocks about two miles from shore; there is nothing, however, to prevent a warship’s 8-inch guns from reducing its principal buildings to ashes. Cadiz is one of Spain’s largest naval stations and contains a dry dock and several extensive shipyards, all of which are within easy range of modern ordnance, while the extent of coast-line is such that it would be impossible to place any chain of torpedoes or other submarine defenses in such a manner as to prevent an enemy from coming within attacking distance.</p>
+            <p rend="indent">The Mediterranean coast of Spain is still more vulnerable; it is also more important, owing to the number and size of its seaports. From the border of France westward to Gibraltar are to be found harbors large and small upon which are towns of importance. Beginning at the east with Barcelona, Spain’s largest seaport city, and ending at Malaga on the west, a series of seven important cities are located directly on the coast or within five miles of it. Besides those mentioned are Tarragona, Valencia, Alicante, Cartagena and Almeria. Barcelona is the great industrial city of the country, the majority of its population being engaged in the manufacture of cotton, woolen and silk goods, and ornamental glass. Here the government manufactures cannon, small-arms, and powder. The harbor contains twenty feet of water in the shallowest part and is crowded with shipping. Every portion of the anchorage would be within range of the 8 and 10-inch rifles of cruisers at the harbor’s mouth. The trade of Barcelona has been estimated at $25,000,000 annually, and its people are among the wealthiest in Spain.</p>
+            <p rend="indent">Further westward is Tarragona, which, like Valencia, Alicante and Malaga, is the center of an extensive grape growing district. Its population is about twenty-seven thousand. Within half a day’s run by sea to the west is the famous town of Valencia, located on the Guadalquivir River, four miles from the sea. Its factories have made it one of the richest cities of Europe, its specialties being silk and linen fabrics, wine, fruit and raisins. Olive oil and wines are shipped in large quanitites from Alicante.</p>
+            <p rend="indent">From the American standpoint Cartagena may be considered the most important of Spanish cities. Here are the largest arsenals, and an ordnance factory which for hundreds of years has turned out most of the cannon used by the Spanish forces. The guns of the famous Armada of Philip II. were made at this port in buildings the ruins of which are still to be seen: Cartagena’s sail-makers supplied the canvas for all the Spanish vessels which took part in the great sea-fights of history. The Spanish naval officers receive their education at the school of Cartagena, which may be termed the Annapolis of Spain. Of the city’s entire population of seventy thousand, fully one half are in the service of the government. The largest dry-dock on the Mediterranean Sea is at this point; it was built for government use exclusively.</p>
+            <p rend="indent">Almeria, a city of forty thousand people, is perhaps the least important of the chain of cities, as its business is confined almost entirely to wines and fruits. About seventy miles east of Gibraltar the city of Malaga lies close to the seacoast on a level plain, nearly surrounded by mountains: vessels drawing twentyfive feet of water can readily enter its harbor. Annually it ships millions of ‘dollars’ worth of the well-known Malaga grapes and has the largest sugar factory on the Continent.</p>
+            <p rend="indent">As a traveler approaches these cities from the water, the view is picturesque in the extreme. Most of them were so placed, in the olden days, that a small garrison could withstand an army. All of them are fortified in some manner. Several are what were classed, in the old system of fortification, as “walled cities,” the most important portion of the town being surrounded by walls of masonry ranging from three or four to twelve feet in thickness. As a rule these walls are strengthened by towers or bastions at intervals of a few hundred feet, while in the most commanding position is built a citadel or fortress, circular in shape, through which can be seen the muzzles of fifty to one hundred cannon. To the novice in modern warfare the first view of one of these coast cities is imposing, for an impression of massiveness and strength is given. On close examination, however, it is seen that appearances have been deceptive. The cement has crumbled from between the great stones, and portions of the walls have fallen away, leaving gaps through which a pair of horses could be driven. ‘The massive iron gates, some of them erected four and five hundred years ago, have rusted on their hinges so that they can scarcely be closed; some have fallen down. The citadels, which are relied upon for the greatest resistance, are as a rule in a dilapidated condition, and few of them contain anything but muzzle-loading cannon. These have about the same range as the old Rodman guns with which Fortress Monroe and New York harbor were equipped during the Civil War. The strongest works are at Cadiz and Cartagena, where modern rifled cannon have been placed in the fortresses, and at Barcelona, where a pier in the harbor has modern ordnance. This includes a few Krupps, but the majority of the guns are of Spanish make. They would be more formidable in modern defenses, but owing to their elevated positions the fortresses form an excellent target for turret guns especially, which can be elevated to throw projectiles high in the air.</p>
+            <p rend="indent">As already stated, the outline of the coast is such that cruisers of the <hi rend="italic">Brooklyn</hi> and <hi rend="italic">Minneapolis</hi> type could readily approach within effective distance. Most of the attacks would probably be made by the ships, for the height of the fortresses and the steep ascents to the defenses would place storming parties at great disadvantage; Cadiz, for instance, is on a hill five hundred feet above tide water, while Tarragona is divided into two parts, the “upper town,” as it is called, being seven hundred and fifty feet above the sea. Alicante is also elevated nearly three hundred feet above the landing mole. Cartagena and Malaga are the only cities on comparatively low ground.</p>
+            <p rend="indent">Had the Spaniards prepared their cities for defense with modern disappearing guns, surrounded by emplacements such as America and Great Britain have been building within the last few years, the natural features of most of their cities would make them practically invincible; but they have neglected their opportunities. So, although the fortifications are being patched up here and there and a few high-power guns placed in the larger towns, as already stated, it would require several years to place them in the proper condition to withstand the attack of a modern fleet.</p>
+            <p rend="indent">The wealthiest section of the kingdom lies along the southern and southwestern seacoast. Its most productive vineyards, its most fertile grain fields, and its richest pasture lands, are on the Mediterranean, and their products find a market at the seaports; consequently, should the latter be placed under ransom by an enemy, their inhabitants could raise ten times as much as their countrymen in the interior. The cities of Barcelona or Malaga could readily contribute five times the cost of the <hi rend="italic">Maine</hi> rather than suffer bombardment by such ships as Uncle Sam could send across the water.</p>
+            <p rend="indent">It is improbable that Spain would neglect to make some show of resistance; she has old cruisers that might be utilized for coast defense purposes, especially to prevent landings of troops, but the range of naval guns is determined largely by caliber, and it is known that Spain has no surplus stock of large rifled cannon.</p>
+         </div>
+           <pb n="19" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-19.png"/>
+           <gap extent="1" unit="image" reason="editorial"/>
+           <pb n="20" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-20.png"/>
+           <gap extent="1" unit="image" reason="editorial"/>
+           <pb n="21" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-21.png"/>
+           <gap extent="1" unit="image" reason="editorial"/>
+           <pb n="22" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-22.png"/>
+           <gap extent="1" unit="image" reason="editorial"/>
+           <pb n="23" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-23.png"/>
+           <gap extent="1" unit="image" reason="editorial"/>
+           <pb n="24" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no2/Colliers-vol21no2-24.png"/>
+           <gap extent="1" unit="image" reason="editorial"/>
       </body>
   </text>
 </TEI>

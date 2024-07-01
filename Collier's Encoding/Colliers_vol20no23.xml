@@ -1,59 +1,124 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Collier’s Weekly, vol. 20, no. 23: a digital edition</title>
          </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>Taylor edition</date>
+            </edition>
+            <respStmt>
+               <resp> Edited by </resp>
+               <persName>1078975<lb/>
+               </persName>
+            </respStmt>
+         </editionStmt>
+         <extent>3 pages transcribed, 24 images.<note>Partial</note></extent>
          <publicationStmt>
-            <p rend="h_2">Publication Information</p>
+            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the University of Oxford, </publisher> <date>2024.</date>
+            <availability>
+               <licence xml:id="xml_files" target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are available for download under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</ref>
+                  <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence> <licence xml:id="image_files"> Images are reproduced from the Internet Archive.</licence>
+            </availability>
+            <idno type="Internet-Archive">https://archive.org/details/sim_colliers-the-national-weekly_1898-03-12_20_23/</idno>
+            <idno type="ISSN">2161-6477</idno>
+            <idno type="Git">https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Collier's%20Encoding/Colliers-vol20no23.xml</idno>
          </publicationStmt>
+         <seriesStmt>
+            <title xml:id="tayeditions">Taylor Editions: </title>
+            <title xml:id="guest">Guest</title>
+         </seriesStmt>
+         <notesStmt>
+            <note type="images">[PNG]</note>
+            <note type="holding"><p>Transcribed from: <orgName>Internet Archive</orgName>: pages 16–18. </p></note>
+            <note type="intro">
+               <p>This is a facsimile and transcription of <title>Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events, vol. 20, no. 23</title>. </p>
+               <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
+            </note>
+         </notesStmt>
          <sourceDesc>
-            <p rend="h_2">Information about the source</p>
+            <biblFull>
+               <titleStmt>
+                  <title ref="#https://www.wikidata.org/wiki/Q1109549">Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events</title>
+                  <editor>
+                     <persName ref="#https://www.wikidata.org/wiki/Q7345851">Robert J. Collier</persName>
+                  </editor>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher ref="#https://www.wikidata.org/wiki/Q7173900">Peter F. Collier</publisher>
+                  <pubPlace>New York: </pubPlace>
+                  <date when="1898-03-12">March 12, 1898</date>
+               </publicationStmt>
+            </biblFull>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by encoding transcription from Internet Archive scans of periodical. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 23, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the paratexts of the novel and its paratexts. Because users can reference facsimiles, various formatting and forme work have not been encoded. Textual rendition has been encoded apart from decorative initial captials, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change resp="#1078975"><date>2024-07-01</date>Encoding completed.</change>
+         <change resp="#EH">
+            <date>2021-03</date>
+            <label>template created</label></change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng" xml:id="Colliers-vol20no23">
      <front>
-        <pb n="1"/>
-        <gap extent="1 page" reason="editorial"/>
+        <pb n="1" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-1.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
      </front>
      <body>
-        <pb n="2"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="3"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="4"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="5"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="6"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="7"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="8"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="9"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="10"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="11"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="12"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="13"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="14"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="15"/>
-        <gap extent="1 page" reason="editorial"/>
+        <pb n="2" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-2.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="3" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-3.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="4" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-4.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="5" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-5.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="6" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-6.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="7" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-7.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="8" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-8.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="9" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-9.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="10" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-10.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="11" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-11.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="12" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-12.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="13" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-13.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="14" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-14.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="15" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-15.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
          <div type="section">
-            <pb n="16"/>
-            <head rend="allcaps center">The Turn of the Screw</head>
-            <head rend="allcaps center" type="sub">By Henry James</head>
+            <pb n="16" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-16.png"/>
+            <figure>
+               <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
+               <bibl rend="caps">Drawn by John La Farge</bibl>
+            </figure>
+            <head rend="caps center">The Turn of the Screw</head>
+            <head rend="caps center" type="sub">By Henry James</head>
             <div type="chapter">
                <head rend="center">X</head>
                <p rend="h_2">I remained a while at the top of the stair, but with the effect, presently, of understanding that when my visitor had gone, he had gone; then I returned to my room. The first thing that I there saw by the light of the candle I had left burning was that Flora’s little bed was empty; and on this I caught my breath with all the terror that, five minutes before, I had been able to resist. I dashed at the place in which I had left her lying and over which (for the small silk counterpane and the sheets were disarranged,) the white curtains had been deceivingly pulled forward; then my step, to my unutterable relief, produced an answering sound: I perceived an agitation of the window-blind, and the child, ducking down, emerged rosily from the other side of it. She stood there in so much of her candor and so little of her nightgown, with her pink bare feet and the golden glow of her curls. She looked intensely grave, and I had never had such a sense of losing an advantage acquired (the thrill of which had just been so prodigious,) as on my consciousness that she addressed me with a reproach. “You naughty: where <emph rend="italic">have</emph> you been?”—instead of challenging her own irregularity I found myself arraigned and explaining. She herself explained, for that matter, with the loveliest, eagerest simplicity. She had known suddenly, as she lay there, that I was out of the room, and had jumped up to see what had become of me. I had dropped, with the joy of her reappearance, back into my chair—feeling then, and then only, a little faint; and she had pattered straight over to me, thrown herself upon my knee, given herself to be held with the flame of the candle full in the wonderful little face that was still flushed with sleep. I remember closing my eyes an instant, yieldingly, consciously, as before the excess of something beautiful that shone out of the blue of her own. “You were looking for me out of the window?” I said; “you thought I might be walking in the grounds?”</p>
@@ -66,7 +131,7 @@
                <p rend="h_2">She absolutely declined to be puzzled; she turned her eyes to the flame of the candle as if the question were as irrelevant, or at any rate as impersonal, as Mrs. Marcet or nine-times-nine. “Oh, but you know,” she quite adequately answered, “that you might come back, you dear, and that you <emph rend="italic">have!</emph>” and after a little, when she had got into bed, I had, for a long time, by almost sitting on her to hold her hand, to prove that I recognized the pertinence of my return.</p>
                <p rend="h_2">You may imagine the general complexion, from that moment, of my nights. I repeatedly sat up till I didn’t know when; I selected moments when my room-mate unmistakably slept, and, stealing out, took noiseless turns in the passage and even pushed as far as to where I had last met Quint. But I never met him there again; and I may as well say at once that I on no other occasion saw him in the house. I just missed, on the staircase, on the other hand, a different adventure. Looking down it from the top I once recognized the presence of a woman seated on one of the lower steps with her back presented to me, her body half bowed and her head, in an attitude of woe, in her hands. I had been there but an instant, however, when she vanished without looking round at me. I knew, none the less, exactly what dreadful face she had to show; and I wondered whether, if instead of being above I had been below, I should have had, for going up, the same nerve I had lately shown to Quint. Well, there continued to be plenty of chance for nerve. On the eleventh night after my latest adventure with that gentleman—they were all numbered now—I had an alarm that perilously skirted it and that indeed, from the particular quality of its unexpectedness, proved quite my sharpest shock. It was precisely the first night during this series that, weary with watching, I had happened to feel that I might again without laxity lay myself down at my old hour. I slept immediately and, as I afterward knew, till about one o’clock; but when I woke it was to sit straight up, as completely roused as if a hand had shook me. I had left a light burning, but it now was out, and I felt an instant certainty that Flora had extinguished it. This brought me to my feet and straight, in the darkness, to her bed, which I found she had left. A glance at the window enlightened me further, and the striking of a match completed the picture.</p>
                <p rend="h_2">The child had again got up—this time blowing out the taper, and had again, for some purpose of observation or response, squeezed in behind the blind and was peering out into the night. That she now saw—as she had not, I had satisfied myself, the previous time—was proved to me by the fact that she was disturbed neither by my re-illumination nor by the haste I had made to get into slippers and into a wrap. Hidden, protected, absorbed, she evidently rested on the sill—the casement opened forward—and gave herself up. There was a great glitter of starlight to help her, and this fact had counted in my own quick decision. She was face to face with the apparition we had met at the lake and could now communicate with it as she had not then been able to do. What I, on my side, had to care for was, without disturbing her, to reach, from the corridor, some other
-               <pb n="17"/>window in the same quarter. I got to the door without her hearing me; I got out of it, closed it and listened, from the other side, for some sound from her. While I stood in the passage I had my eyes on her brother’s door, which was but ten steps off and which, indescribably, produced in me a renewal of the strange impulse that I lately spoke of as my temptation. What if I should go straight in and march to <emph rend="italic">his</emph> window?—what if, by risking to his boyish bewilderment, a revelation of my motive, I should throw across the rest of the mystery the long halter of my boldness?</p>
+               <pb n="17" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-17.png"/>window in the same quarter. I got to the door without her hearing me; I got out of it, closed it and listened, from the other side, for some sound from her. While I stood in the passage I had my eyes on her brother’s door, which was but ten steps off and which, indescribably, produced in me a renewal of the strange impulse that I lately spoke of as my temptation. What if I should go straight in and march to <emph rend="italic">his</emph> window?—what if, by risking to his boyish bewilderment, a revelation of my motive, I should throw across the rest of the mystery the long halter of my boldness?</p>
                <p rend="h_2">This thought held me sufficiently to make me cross to his threshold and pause in. I preternaturally listened; I figured to myself what might portentously be; I wondered if his bed were also empty and he too were secretly at watch. It was a deep, soundless minute, at the end of which my impulse failed. He was quiet; he might be innocent; the risk was hideous; I turned away. There was a figure on the lawn—a figure prowling for a sight, the visitor with whom Flora was occupied; but it was not the visitor most concerned with my boy. I hesitated afresh, but on other grounds and only a few seconds; then I had made my choice. There were empty rooms at Bly, and it was only a question of choosing the right one. The right one suddenly presented itself to me as the lower—though high above the gardens—in the solid corner of the house that I have spoken of as the old tower. This was a large, square chamber, arranged with some state as a bedroom, but the immense size of which made it so inconvenient that it had not, for years, though kept by Mrs. Grose in exemplary order, been occupied. I had often admired it and I knew my way about in it; I had only, after just faltering at the first chill gloom of its disuse, to pass across it and unbolt as quietly as I could one of the shutters. Achieving this transit, I uncovered the glass without a sound and, applying my face to the pane, was able, the darkness without being much less than within, to see that I commanded the right direction. Then I saw something more. Thick stars made the night extraordinarily penetrable and showed me, on the lawn, a person, diminished by distance, who stood there, motionless and as if fascinated, looking up to where I had appeared—looking, that is, not so much straight at me as at something that was apparently above me. There was clearly another person above me—there was a person on the tower; but the presence on the lawn was not in the least what I had conceived and had confidently hurried to meet. The presence on the lawn—I felt sick as I made it out—was poor little Miles himself.</p>
             </div>
             <div type="chapter">
@@ -90,7 +155,7 @@
                <p rend="h_2">He literally bloomed so from this exploit that he could afford radiantly to assent. “How otherwise should I have been bad enough?” he asked; then, after another embrace, the incident and our interview closed on my recognition of all the reserves of goodness that, for his joke, he had been able to draw upon.</p>
             </div>
             <div type="chapter">
-               <pb n="18"/>
+               <pb n="18" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-18.png"/>
                <head rend="center">XII</head>
                <p rend="h_2">The particular impression I had received proved in the morning light, I repeat, not quite successfully presentable to Mrs. Grose, though I re-enforced it with the mention of still another remark that he had made before we separated. “It all lay in half a dozen of his words,” I said to her, “words that really settle the matter. ‘Think, you know, what I <emph rend="italic">might</emph> do!’ He threw that off to show me how good he is. He knows down to the ground what he ‘might’ do. That’s what he gave them a taste of at school.”</p>
                <p rend="h_2">“Lord, you do change!” cried my friend.</p>
@@ -127,18 +192,38 @@
                <p rend="h_2">It seemed, after all, to have come to me then and there. “To speak to them.” And I joined them.</p>
             </div>
             <trailer rend="center">(<hi rend="italic">To be continued.</hi>)</trailer>
-            <gap extent="1/2 column"/>
          </div>
-        <pb n="20"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="21"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="22"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="23"/>
-        <gap extent="1 page" reason="editorial"/>
-        <pb n="24"/>
-        <gap extent="1 page" reason="editorial"/>
+         <div type="article">
+            <head rend="center caps">Men Manners and Moods</head>
+            <head type="sub">LXXII</head>
+            <p>Mr. Edmund Gosse never, I think, said a better critical thing than when he called Walt Whitman’s work “literature in a state of protoplasm.” The new London weekly whose name is “Literature,” and which surely has nothing protoplasmic in its character, quotes the following passage from Whitman as “a sonorous and triumphant song, not unworthy of a place beside the lament of David for his brother Jonathan”:</p>
+            <lg>
+               <l>“Sing on, sing on, you gray-brown bird</l>
+               <l>Sing on from the swamps, the recesses, pour your chant from the bushes,</l>
+               <l>Limitless out of the dusk, out of the cedars and pines.</l>
+               <l>Sing on, dearest brother, warble your reedy song,</l>
+               <l>Loud human song, with voice of uttermost woe.</l>
+               <l>O liquid free and tender!</l>
+               <l>O wild and loose to my soul—O wondrous singer!</l>
+               <l>You only I hear—yet the star holds me (but will soon depart).</l>
+               <l>Yet the lilac with mastering odor holds me.”</l>
+            </lg>
+            <p>Now it is a fact that this passage is not a poem at all. It is a piece of prose rhapsody. You cannot say that any one could have written it, for you could not say that <emph rend="italic">any one</emph> knows his alphabet or can spell, or correctly add fifteen to sixteen. Still, hundreds and thousands of fairly educated people could have done quite as well. The whole nine lines do not contain a single real idea. A bird is singing, and Whitman tells it to “Sing on, sing on!” Keats made to his “Nightingale” the same enthusiastic proposal, but a stanza of rich inspiration ensued. Whitman puts into two lines six adjectives—“liquid,” “free,” “tender,” “wild”, “loose,” “wondrous,” and there are fourteen adjectives in the nine lines. One secures, it must be confessed, a bit of genuine relief by hearing “Literature” ask the question “Why will critics run to wild extremes?” But ah, there is the very trouble. Those critics who run to wild extremes themselves accuse others of a like vice. It is precisely such heedless deporment that has dumped Whitman (I can use no less pnderous a word) upon the serious consideration of readers. Myriands of the latter have taken him up and dropped him in despair. All through his life he may have been a very good man; from the viewpoint of letters he is a cumbrous, lumbering absurdity. Admiration for him is a certain evidence of intellectual or temperamental weakness. With those who do not perceive his strut and swagger, his bombast, his slovenliness, his braggadocio that masquerades as breadth and his mere rowdiness that poses as democracy, there must inevitably be “something wrong.” Emerson has achieved with the repose and dignity of an artist all that Whitman has striven to achieve with the snorts of a hipopotamus.</p>
+            <p rend="indent">Certain fanatics are still striving to make for Whitman an actual niche in the temple of fame. They will never succeed.
+        <pb n="20" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-19.png"/>
+            <gap extent="79" unit="line" reason="editorial"/>
+            </p>
+            <gap extent="4" unit="paragraph" reason="editorial"/>
+         </div>
+        <gap extent="1" unit="article" reason="editorial"/>
+        <pb n="21" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-20.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="22" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-21.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="23" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-22.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
+        <pb n="24" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no23/Colliers-vol20no23-23.png"/>
+        <gap extent="1" unit="image" reason="editorial"/>
       </body>
   </text>
 </TEI>
