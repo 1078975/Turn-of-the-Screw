@@ -111,12 +111,12 @@
         <gap extent="1" unit="image" reason="editorial"/>
         <pb n="15" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-15.png"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="16" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-16.png"/>
-        <figure>
-           <figDesc>A full page illustration of the character the governess lying face down on the ground near a lake. The silhouette of another woman appears in the left of the image. Below the bottom left corner of the image, a small sketch of a landscape and the signature of the illustrator Eric Pape appear.</figDesc>
-           <p rend="caps center u">“I must have thrown myself, on my face, on the ground.”</p>
-        </figure>
          <div type="section">
+            <pb n="16" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-16.png"/>
+            <figure>
+               <figDesc>A full page illustration of the character the governess lying face down on the ground near a lake. The silhouette of another woman appears in the left of the image. Below the bottom left corner of the image, a small sketch of a landscape and the signature of the illustrator Eric Pape appear.</figDesc>
+               <p rend="caps center u">“I must have thrown myself, on my face, on the ground.”</p>
+            </figure>
             <pb n="17" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-17.png"/>
             <figure>
                <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
