@@ -97,7 +97,7 @@
         <gap extent="1" unit="image" reason="editorial"/>
         <pb n="8" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-8.png"/>
         <gap extent="1" unit="image" reason="editorial"/>
-         <div type="section">
+         <div type="section" xml:id="div-connect-1" next="#div-connect-2">
             <pb n="9" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-9.png"/>
             <figure>
                <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
@@ -171,9 +171,9 @@
                <p rend="h_2">I got, so far as the immediate moment was concerned, away; I came straight out of the churchyard and, thinking hard, retraced my steps through the park. It seemed to me that by the time I reached the house I had made up my mind to fly. The Sunday stillness both of the approaches and of the interior, in which I met no one, fairly excited me with a sense of opportunity. Were I to get off quickly, this way, I should get off without a scene, without a word. My quickness would have to be remarkable, however, and the question of a conveyance was the great one to settle. Tormented, in the hall, with difficulties and obstacles, I remember sinking down at the foot of the staircase—suddenly collapsing there on the lowest step and then, with a revulsion, recalling that it was exactly where, more than a month before, in the darkness of night and just so bowed with evil things, I had seen the specter of the most horrible of women. At this I was able to straighten myself; I went the rest of the way up; I made, in my bewilderment, for the schoolroom, where there were objects belonging to me that I should have to take. But I opened the door to find again, in a flash, my eyes unsealed. In the presence of what I saw I reeled straight back upon my resistance.</p>
                <p rend="h_2">Seated at my own table in the clear noonday light, I saw a person whom, without my previous experience, I should have taken at the first blush for some housemaid who might have stayed at home to look after the place and who, availing herself of rare relief from observation and of the schoolroom table and my pens, ink and paper, had applied herself to the considerable effort of a letter to her sweetheart. There was an effort in the way that, while her arms rested on the table, her hands, with evident weariness, supported her head; but at the moment I took this in I had already become aware that, in spite of my entrance, her attitude strangely persisted. Then it was—with the very act of its announcing itself—that her identity flared up in a change of posture. She rose, not as if she had heard me, but with an indescribable grand melancholy of indifference and detachment, and, within a dozen feet of me, stood there as my vile predecessor. Dishonored and tragic, she was all before me, but even as I fixed and, for memory, secured it, the awful image passed away. Dark as midnight in her black dress, her haggard beauty and her unutterable woe, she had looked at me long enough to appear to say that her right to sit at my table was as good as mine to sit at hers. While the tension lasted, indeed, I had the extraordinary chill of a feeling that it was <emph rend="italic">I</emph> who was the intruder. It was as a wild protest against it that, actually addressing her—“You terrible, <emph rend="italic">miserable</emph> woman!”—I heard myself break into a sound that, by the open door, rang through the long passage and the empty house. She looked at me as if she heard me, but I had recovered myself and cleared the air. There was nothing in the room the next minute but the sunshine and my sense that I must stay.</p>
             </div>
-            <trailer rend="center">(<hi rend="italic">To be continued.</hi>)</trailer>
-         <floatingText type="poem">
-            <body>
+            <trailer rend="center italic">(To be continued.)</trailer>
+         </div>
+         <div type="poem">
             <head rend="caps center">Shadows</head>
             <lg>
                <lg>
@@ -199,23 +199,21 @@
                </lg>
             </lg>
             <byline rend="small-caps align-right">Agnes Grozier Herbertson.</byline>
-            </body>
-         </floatingText>
-        <floatingText type="advertisement">
-           <body>
+         </div>
+        <div type="advertisement">
               <head rend="caps center">Consumption Cured.</head>
            <p rend="italic">An old physician, retired from practice, had placed in his hands by an East India missionary the formula of a simple vegetable remedy for the speedy and permanent cure of Consumption, Bronchitis, Catarrh, Asthma, and all Throat and Lung Affections, also a positive and radical cure for Nervous Debility and all Nervous Complaints. Having tested its wonderful curative powers in thousands of cases, and desiring to relieve human suffering, I will send free of charge to all who wish it, this recipe, in German, French or English, with full directions for preparing and using. Sent by mail, by addressing, with stamp, naming this paper.</p><closer><hi rend="small-caps">W.A. Noyes,</hi><hi rend="italic">820 Powers’ Block, Rochester, N.Y.</hi></closer>
-           </body>
-        </floatingText>
+           </div>
+        <div type="section" xml:id="div-connect-2" prev="#div-connect-1">
         <pb n="12" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-12.png"/>
         <figure xml:id="fig-connect-01" next="#fig-connect-02">
-           <figDesc>An illustration of the character of the governess sitting on a stone slab looking contemplatively toward the ground, while the character Miles looks at her. This illustration is situated vertically across a two-page spread, and this page shows the bottom half of the image. Below the bottom left corner of the image, a small sketch of a rose and the signature of the illustrator Eric Pape appear.</figDesc>
+           <figDesc>An illustration of the character of the governess sitting on a stone slab looking contemplatively toward the ground, while the character Miles looks at her. The illustration is situated vertically across a two-page spread. This page shows the bottom half of the image. Below the bottom left corner of the image, a small sketch of a rose and the signature of the illustrator Eric Pape appear.</figDesc>
            <p rend="center caps italic u">He presently produced something that made me drop straight down on the stone slab</p>
            <p rend="italic">From “The Turn of the Screw, Part Fourth, Chapter XIV</p>
         </figure>
         <pb n="13" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-13.png"/>
         <figure xml:id="fig-connect-02" prev="#fig-connect-01">
-           <figDesc>An illustration of the character of the governess sitting on a stone slab looking contemplatively toward the ground, while the character Miles looks at her. This illustration is situated vertically across a two-page spread, and this page shows the top half of the image.</figDesc>
+           <figDesc>An illustration of the character of the governess sitting on a stone slab looking contemplatively toward the ground, while the character Miles looks at her. The illustration is situated vertically across a two-page spread. This page shows the top half of the image.</figDesc>
         </figure>
         </div>
         <pb n="14" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-14.png"/>
