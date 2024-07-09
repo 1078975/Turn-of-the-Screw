@@ -20,7 +20,7 @@
          </editionStmt>
          <extent>3 pages transcribed, 24 images.<note>Partial</note></extent>
          <publicationStmt>
-            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the University of Oxford, </publisher> <date>2024.</date>
+            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the University of Oxford, </publisher> <date>2024. </date>
             <availability>
                <licence xml:id="xml_files" target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are available for download under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</ref>
                   <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence> <licence xml:id="image_files"> Images are reproduced from the Internet Archive.</licence>
@@ -34,7 +34,7 @@
             <title xml:id="guest">Guest</title>
          </seriesStmt>
          <notesStmt>
-            <note type="images">[PNG]</note>
+            <note type="images">PNG</note>
             <note type="holding"><p>Transcribed from: <orgName>Internet Archive</orgName>: pages 20–22. </p></note>
             <note type="intro">
                <p>This is a facsimile and transcription of <title>Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events, vol. 20, no. 21</title>. </p>
@@ -44,13 +44,15 @@
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title ref="#https://www.wikidata.org/wiki/Q1109549">Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events</title>
+                  <title ref="#https://www.wikidata.org/wiki/Q1109549">Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events.</title>
                   <editor>
-                     <persName ref="#https://www.wikidata.org/wiki/Q7345851">Robert J. Collier</persName>
+                     <persName ref="#https://www.wikidata.org/wiki/Q7345851">Robert J. Collier</persName>.
                   </editor>
                </titleStmt>
                <publicationStmt>
-                  <publisher ref="#https://www.wikidata.org/wiki/Q7173900">Peter F. Collier</publisher>
+                  <publisher>
+                     <persName ref="#https://www.wikidata.org/wiki/Q7173900">Peter F. Collier</persName>.
+                  </publisher>
                   <pubPlace>New York: </pubPlace>
                   <date when="1898-02-26">February 26, 1898</date>
                </publicationStmt>
@@ -59,10 +61,10 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Created by encoding transcription from Internet Archive scans of periodical. </p>
+            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 21, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the paratexts of the novel and its paratexts. Because users can reference facsimiles, various formatting and forme work have not been encoded. Textual rendition has been encoded apart from decorative initial captials, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 21, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -79,188 +81,188 @@
    </teiHeader>
    <text xml:lang="eng" xml:id="Colliers-vol20no21">
      <front>
-        <pb n="1" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-1.png"/>
+        <pb n="1" facs="Colliers-vol20no21-1"/>
         <gap extent="1" unit="image" reason="editorial"/>
      </front>
      <body>
-        <pb n="2" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-2.png"/>
+        <pb n="2" facs="Colliers-vol20no21-2"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="3" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-3.png"/>
+        <pb n="3" facs="Colliers-vol20no21-3"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="4" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-4.png"/>
+        <pb n="4" facs="Colliers-vol20no21-4"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="5" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-5.png"/>
+        <pb n="5" facs="Colliers-vol20no21-5"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="6" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-6.png"/>
+        <pb n="6" facs="Colliers-vol20no21-6"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="7" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-7.png"/>
+        <pb n="7" facs="Colliers-vol20no21-7"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="8" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-8.png"/>
+        <pb n="8" facs="Colliers-vol20no21-8"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="9" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-9.png"/>
+        <pb n="9" facs="Colliers-vol20no21-9"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="10" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-10.png"/>
+        <pb n="10" facs="Colliers-vol20no21-10"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="11" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-11.png"/>
+        <pb n="11" facs="Colliers-vol20no21-11"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="12" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-12.png"/>
+        <pb n="12" facs="Colliers-vol20no21-12"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="13" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-13.png"/>
+        <pb n="13" facs="Colliers-vol20no21-13"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="14" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-14.png"/>
+        <pb n="14" facs="Colliers-vol20no21-14"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="15" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-15.png"/>
+        <pb n="15" facs="Colliers-vol20no21-15"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="16" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-16.png"/>
+        <pb n="16" facs="Colliers-vol20no21-16"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="17" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-17.png"/>
+        <pb n="17" facs="Colliers-vol20no21-17"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="18" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-18.png"/>
+        <pb n="18" facs="Colliers-vol20no21-18"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="19" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-19.png"/>
+        <pb n="19" facs="Colliers-vol20no21-19"/>
         <gap extent="1" unit="image" reason="editorial"/>
          <div type="section">
-            <pb n="20" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-20.png"/>
+            <pb n="20" facs="Colliers-vol20no21-20"/>
             <figure>
-               <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
+               <figDesc>The 3.5 x 8.5 inch masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, the governess turns to face Miles and speak with him. In two panels to the left and right of illustration of the governess and Miles, there are illustrations of a dragon-like figure. Below the bottom right of the masthead image, the signature of the illustrator John La Farge, reading “La Farge 98,” appears.</figDesc>
                <bibl rend="caps">Drawn by John La Farge</bibl>
             </figure>
             <head rend="caps center">The Turn of the Screw</head>
             <head rend="caps center" type="sub">By Henry James</head>
             <div type="chapter" n="6">
                <head rend="center">VI</head>
-               <p rend="h_2">It took of course more than that particular passage to place us together in presence of what we had now to live with as we could—my dreadful liability to impressions of the order so vividly exemplified, and my companion’s knowledge, henceforth—a knowledge half consternation and half compassion—of that liability. There had been, this evening, after the revelation that left me, for an hour, so stupefied—there had been, for either of us, no attendance on any service but a little service of tears and vows, of prayers and promises, a climax to the series of mutual challenges and pledges that had straight-way ensued on our retreating together to Mrs. Grose’s room and shutting ourselves up there to have everything out. The result of our having everything out was simply to reduce our situation to the last rigor of its elements. She herself had seen nothing, not the shadow of a shadow, and nobody in the house but the governess was in the governess’s plight; yet she accepted without directly impugning my sanity the truth as I gave it to her, and ended by showing me, on this ground, an awe-stricken tenderness, an expression of the sense of my more than questionable privilege, of which the very breath has remained with me as that of the sweetest of human charities.</p>
-               <p rend="h_2">What was settled between us, accordingly, that night, was that we thought we might bear things together; and I was not even sure that, in spite of her exemption, it was she who had the best of the burden. I knew at this hour, I think, as well as I knew later what I was capable of meeting to protect my pupils; but it took me some time to be wholly sure of what my honest ally was prepared for to keep terms with so compromising a contact. I was queer company enough—quite as queer as the company I received; but as I trace over what we went through I see how much common ground we must have found in the one idea that, by good fortune, <hi rend="italic">could</hi> steady us. It was the idea, the second movement, that led me straight out, as I may say, of the inner chamber of my dread. I could take the air in the court, at least, and there Mrs. Grose could join me. Perfectly can I recall now the particular way strength came to me before we separated for the night. We had gone over and over every feature of what I had seen.</p>
-               <p rend="h_2">“He was looking for some one else, you say—some one who was not you?”</p>
-               <p rend="h_2">“He was looking for little Miles.”  A portentous clearness now possessed me. “<hi rend="italic">That’s</hi> whom he was looking for.”</p>
-               <p rend="h_2">“But how do you know?”</p>
-               <p rend="h_2">“I know, I know, I know!” My exaltation grew. “And <hi rend="italic">you</hi> know my dear!”</p>
-               <p rend="h_2">She didn’t deny this, but I required, I felt, not even so much telling as that. She resumed in a moment, at any rate: “What if <hi rend="italic">he</hi> should see him?”</p>
-               <p rend="h_2">“Little Miles?” That’s what he wants!”</p>
-               <p rend="h_2">She looked immensely scared again. “The child?”</p>
-               <p rend="h_2">“Heaven forbid! The man. He wants to appear to <hi rend="italic">them</hi>.” That he might was an awful conception, and yet, somehow, I could keep it at bay; which, moreover, as we lingered there, was what I succeeded in practically proving. I had an absolute certainty that I should see again what I had already seen, but something within me said that by offering myself bravely as the sole subject of such experience, by accepting, by inviting, by surmounting it all, I should serve as an expiatory victim and guard the tranquillity of my companions. The children, in especial, I should thus fence about and absolutely save. I recall one of the last things I said that night to Mrs. Grose.</p>
-               <p rend="h_2">“It does strike me that my pupils have never mentioned—”</p>
-               <p rend="h_2">She looked at me hard as I musingly pulled up. “His having been here and the time they were with him?”</p>
-               <p rend="h_2">“The time they were with him, and his name, his presence, his history, in any way.”</p>
-               <p rend="h_2">“Oh, the little lady doesn’t remember. She never heard or knew.”</p>
-               <p rend="h_2">“The circumstances of his death?” I thought with some intensity. “Perhaps not. But Miles would remember—Miles would know.”</p>
-               <p rend="h_2">“Ah, don’t try him!” broke from Mrs. Grose.</p>
-               <p rend="h_2">I returned her the look she had given me. “Don’t be afraid.” I continued to think. “It <hi rend="italic">is</hi> rather odd.”</p>
-               <p rend="h_2">“That he has never spoken of him?”</p>
-               <p rend="h_2">“Never by the least allusion. And you tell me they were ‘great friends’?”</p>
-               <p rend="h_2">“Oh, it wasn’t <hi rend="italic">him!</hi>” Mrs. Grose with emphasis declared. “It was Quint’s own fancy. To play with him, I mean—to spoil him.” She paused a moment; then she added: “Quint was much too free.”</p>
-               <p rend="h_2">This gave me, straight from my vision of his face—<hi rend="italic">such</hi> a face!—a sudden sickness of disgust. “Too free with <hi rend="italic">my</hi> boy?”</p>
-               <p rend="h_2">“Too free with every one!”</p>
-               <p rend="h_2">I forbore, for the moment, to analyze this description further than by the reflection that a part of it applied to several of the members of the household, of the half-dozen maids and men, who were still of our little colony. But there was everything, for our apprehension, in the lucky fact that no discomfortable legend, no perturbation of the kitchen, had ever, within any one’s memory, attached to the kind old place. It had neither bad name nor ill fame, and Mrs. Grose, most apparently, only desired to cling to me and to quake in silence. I even put her, the very last thing of all, to the test. It was when, at midnight, she had her hand on my door to take leave. “I have it from you then—for it’s of great importance—that he was definitely and admittedly bad?”</p>
-               <p rend="h_2">“Oh, not admittedly. <hi rend="italic">I</hi> knew it—but the master didn’t.”</p>
-               <p rend="h_2">“And you never told him?”</p>
-               <p rend="h_2">“Well, he didn’t like tale-bearing—he hated complaints. He was terribly short with anything of that kind, and if people were all right to <hi rend="italic">him</hi>—”</p>
-               <p rend="h_2">“He wouldn’t be bothered with more?” This squared well enough with my impression of him: he was not a trouble-loving gentleman, nor so very particular, perhaps, about some of the company he himself kept. All the same, I pressed my interlocutress. “I promise you <hi rend="italic">I</hi> would have told!”</p>
-               <p rend="h_2">She felt my discrimination. “I daresay I was wrong. But, really, I was afraid.”</p>
-               <pb n="21" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-21.png"/>
-               <p rend="h_2">“Afraid of what?”</p>
-               <p rend="h_2">“Of things that man could do. Quint was so clever—he was so deep.”</p>
-               <p rend="h_2">I took this in still more than, probably, I showed. “You weren’t afraid of anything else? Not of his effect—?”</p>
-               <p rend="h_2">“His effect?” she repeated with an uneasy face and waiting while I faltered.</p>
-               <p rend="h_2">“On innocent little precious lives. They were in your charge.”</p>
-               <p rend="h_2">“No, they were <hi rend="italic">not</hi> in mine!” she roundly and distressfully returned. “The master believed in him and placed him here because he was supposed not to be well and the country so good for him. So he had everything to say. Yes”—she let me have it—“even about <hi rend="italic">them</hi>.”</p>
-               <p rend="h_2">“Them—that creature?” I had to smother a kind of howl. “And you could bear it?”</p>
-               <p rend="h_2">“No, I couldn’t—and I can’t now!” And the poor woman burst into tears.</p>
-               <p rend="h_2">A rigid control, from the next day, was, as I have said, to follow them; yet how often and how passionately, for a week, we came back together to the subject! Much as we had discussed it that Sunday night, I was, in the immediate later hours in especial—for it may be imagined whether I slept, still haunted with the shadow of something she had not told me. I myself had kept back nothing, but there was a word Mrs. Grose had kept back. I was sure, moreover, by morning, that this was not from a failure of frankness, but because on every side there were fears. It seems to me indeed, in retrospect, that by the time the morrow’s sun was high I had restlessly read into the facts before us almost all the meaning they were to receive from subsequent and more cruel occurrences. What they gave me above all was just the sinister figure of the living man—the dead one would keep a while!—and of the months he had continuously passed at Bly, which, added up, made a formidable stretch. The limit of this evil time had arrived only when, on the dawn of a winter’s morning, Peter Quint was found, by a laborer going to early work, stone dead on the road from the village: a catastrophe explained—superficially at least—by a visible wound to his head; such a wound as might have been produced—and as, on the final evidence <hi rend="italic">had</hi> been—by a fatal slip, in the dark and after leaving the public-house, on the steepish icy slope, a wrong path altogether, at the bottom of which he lay. The icy slope, the turn mistaken at night and in liquor, accounted for much—practically, in the end and after the inquest and boundless chatter, for everything; but there had been matters in his life—strange passages and perils, secrets, disorders, vices more than suspected—that would have accounted for a good deal more.</p>
-               <p rend="h_2">I scarce know how to put my story into words that shall be a credible picture of my state of mind; but I was, in these days, literally able to find a joy in the particular miracle of courage the occasion demanded of me. I now saw that I had been asked for a service admirable and difficult; and there would be a greatness in letting it be seen—oh, in the right quarter!—that I could succeed where many another girl might have failed. It was an immense help to me—I confess I rather applaud myself as I look back!—that I saw my service so strongly and so simply. I was there to protect and defend the little creatures in the world the most bereaved and the most lovable, the appeal of whose helplessness had suddenly become only too explicit, a deep, constant ache of one’s own committed heart. We were cut off, really, together; we were united in our danger. They had nothing but me, and I—well I had <hi rend="italic">them</hi>. It was in short a magnificent chance. This chance presented itself to me in an image richly material. I was a screen—I was to stand before them. The more I <hi rend="italic">saw</hi>, the less they would. I began to watch them in a stifled suspense, a disguised excitement that might well, had it continued too long, have turned to something like madness. What saved me that, I now see, was that it turned to something else altogether. It didn’t last as suspense—it was superseded by horrible facts. Facts I say, yes—from the moment I really read them.</p>
-               <p rend="h_2">This moment dated from an afternoon hour that I happened to spend in the grounds with the younger of my pupils alone. We had left Miles indoors, on the red cushion of a deep window-seat; he had wished to finish a book, and I had been glad to encourage a purpose so laudable in a young man whose only defect was an occasional excess of the restless. His sister, on the contrary, had been alert to come out, and I strolled with her half an hour, seeking the shade, for the sun was still high and the day exceptionally warm. I was aware afresh, with her, as we went, of how, like her brother, she contrived—it was the charming thing in both children—to let me alone without appearing to drop me and to accompany me without appearing to surround. They were never importunate and yet never listless. My attention to them ail really went to seeing them amuse themselves immensely without me: this was a spectacle they seemed actively to prepare and that engaged me as an active admirer. I walked in a world of their invention—they had no occasion whatever to draw upon mine; so that my time was taken only with being, for them, some remarkable person or thing that the game of the moment required and that was merely, thanks to my superior, my exalted stamp, a happy and highly distinguished sinecure. I forget what I was on the present occasion; I only remember that I was something very important and very quiet and that Flora was playing very hard. We were on the edge of the lake, and, as we had lately begun geography, the lake was the Sea of Azof.</p>
-               <p rend="h_2">Suddenly, in these circumstances, I became aware that, on the other side of the Sea of Azof, we had an interested spectator. The way this knowledge gathered in me was the strangest thing in the world—the strangest, that is, except the very much stranger in which it quickly merged itself. I had sat down, with a piece of work—for I was something or other that could sit—on the old stone bench which overlooked the pond; and in this position I began to take in with certitude, and yet without direct vision, the presence, at a distance, of a third person. The old trees, the thick shrubbery, made a great and pleasant shade, but it was all suffused with the brightness of the hot, still hour. There was no ambiguity in anything; none whatever, at least, in the conviction I from one moment to another found myself forming as to what I should see straight before me and across the lake as a consequence of raising my eyes. They were attached at this juncture to the stitching in which I was engaged, and I can feel once more the spasm of my effort not to move them till I should so have steadied myself as to be able to make up my mind what to do. There was a third person in view—a person whose right to be there I instantly, passionately questioned. I recollect counting over perfectly the possibilities, reminding myself that nothing was more natural, for instance, than the appearance of one of the men about the place or even of a messenger, a postman or a tradesman’s boy, from the village. That reminder had as little effect on my practical certitude as I was conscious—still even without looking—of its having upon the character and attitude of our visitor. Nothing was more natural than that these things should be the other things that they absolutely were not.</p>
-               <p rend="h_2">Of the positive identity of the apparition I would assure myself as soon as the small clock of my courage should have ticked out the right second; meanwhile, with an effort that was already sharp enough, I transferred my eyes straight to little Flora, who, at the moment, was about ten yards away. My heart had stood still for an instant with the wonder and terror of the question whether she too would see; and I held my breath while I waited for what a cry from her, what some sudden innocent sign either of interest or of alarm, would tell me. I waited, but nothing came; then, in the first place—and there is something more dire in this, I feel, than in anything I have to relate—I was determined by a sense that, within a minute, all sounds from her had previously dropped; and, in the second, by the circumstance that, also within the minute, she had, in her play, turned her back to the lake. This was her attitude when I at last looked at her—looked with the confirmed conviction that we were still, together, under direct personal notice. She had picked up a small flat piece of wood, which happened to have in it a little hole that had evidently suggested to her the idea of sticking in another fragment that might figure as a mast and make the thing a boat. This second morsel, while I watched her, she was very markedly and intently attempting to tighten in its place. My apprehension of what she was doing sustained me so that after some seconds I felt I was ready for more. Then I again shifted my eyes—I faced what I had to face.</p>
+               <p rend="indent">It took of course more than that particular passage to place us together in presence of what we had now to live with as we could—my dreadful liability to impressions of the order so vividly exemplified, and my companion’s knowledge, henceforth—a knowledge half consternation and half compassion—of that liability. There had been, this evening, after the revelation that left me, for an hour, so stupefied—there had been, for either of us, no attendance on any service but a little service of tears and vows, of prayers and promises, a climax to the series of mutual challenges and pledges that had straight-way ensued on our retreating together to Mrs. Grose’s room and shutting ourselves up there to have everything out. The result of our having everything out was simply to reduce our situation to the last rigor of its elements. She herself had seen nothing, not the shadow of a shadow, and nobody in the house but the governess was in the governess’s plight; yet she accepted without directly impugning my sanity the truth as I gave it to her, and ended by showing me, on this ground, an awe-stricken tenderness, an expression of the sense of my more than questionable privilege, of which the very breath has remained with me as that of the sweetest of human charities.</p>
+               <p rend="indent">What was settled between us, accordingly, that night, was that we thought we might bear things together; and I was not even sure that, in spite of her exemption, it was she who had the best of the burden. I knew at this hour, I think, as well as I knew later what I was capable of meeting to protect my pupils; but it took me some time to be wholly sure of what my honest ally was prepared for to keep terms with so compromising a contact. I was queer company enough—quite as queer as the company I received; but as I trace over what we went through I see how much common ground we must have found in the one idea that, by good fortune, <emph rend="italic">could</emph> steady us. It was the idea, the second movement, that led me straight out, as I may say, of the inner chamber of my dread. I could take the air in the court, at least, and there Mrs. Grose could join me. Perfectly can I recall now the particular way strength came to me before we separated for the night. We had gone over and over every feature of what I had seen.</p>
+               <p rend="indent">“He was looking for some one else, you say—some one who was not you?”</p>
+               <p rend="indent">“He was looking for little Miles.”  A portentous clearness now possessed me. “<emph rend="italic">That’s</emph> whom he was looking for.”</p>
+               <p rend="indent">“But how do you know?”</p>
+               <p rend="indent">“I know, I know, I know!” My exaltation grew. “And <emph rend="italic">you</emph> know my dear!”</p>
+               <p rend="indent">She didn’t deny this, but I required, I felt, not even so much telling as that. She resumed in a moment, at any rate: “What if <emph rend="italic">he</emph> should see him?”</p>
+               <p rend="indent">“Little Miles?” That’s what he wants!”</p>
+               <p rend="indent">She looked immensely scared again. “The child?”</p>
+               <p rend="indent">“Heaven forbid! The man. He wants to appear to <emph rend="italic">them</emph>.” That he might was an awful conception, and yet, somehow, I could keep it at bay; which, moreover, as we lingered there, was what I succeeded in practically proving. I had an absolute certainty that I should see again what I had already seen, but something within me said that by offering myself bravely as the sole subject of such experience, by accepting, by inviting, by surmounting it all, I should serve as an expiatory victim and guard the tranquillity of my companions. The children, in especial, I should thus fence about and absolutely save. I recall one of the last things I said that night to Mrs. Grose.</p>
+               <p rend="indent">“It does strike me that my pupils have never mentioned—”</p>
+               <p rend="indent">She looked at me hard as I musingly pulled up. “His having been here and the time they were with him?”</p>
+               <p rend="indent">“The time they were with him, and his name, his presence, his history, in any way.”</p>
+               <p rend="indent">“Oh, the little lady doesn’t remember. She never heard or knew.”</p>
+               <p rend="indent">“The circumstances of his death?” I thought with some intensity. “Perhaps not. But Miles would remember—Miles would know.”</p>
+               <p rend="indent">“Ah, don’t try him!” broke from Mrs. Grose.</p>
+               <p rend="indent">I returned her the look she had given me. “Don’t be afraid.” I continued to think. “It <emph rend="italic">is</emph> rather odd.”</p>
+               <p rend="indent">“That he has never spoken of him?”</p>
+               <p rend="indent">“Never by the least allusion. And you tell me they were ‘great friends’?”</p>
+               <p rend="indent">“Oh, it wasn’t <emph rend="italic">him!</emph>” Mrs. Grose with emphasis declared. “It was Quint’s own fancy. To play with him, I mean—to spoil him.” She paused a moment; then she added: “Quint was much too free.”</p>
+               <p rend="indent">This gave me, straight from my vision of his face—<emph rend="italic">such</emph> a face!—a sudden sickness of disgust. “Too free with <emph rend="italic">my</emph> boy?”</p>
+               <p rend="indent">“Too free with every one!”</p>
+               <p rend="indent">I forbore, for the moment, to analyze this description further than by the reflection that a part of it applied to several of the members of the household, of the half-dozen maids and men, who were still of our little colony. But there was everything, for our apprehension, in the lucky fact that no discomfortable legend, no perturbation of the kitchen, had ever, within any one’s memory, attached to the kind old place. It had neither bad name nor ill fame, and Mrs. Grose, most apparently, only desired to cling to me and to quake in silence. I even put her, the very last thing of all, to the test. It was when, at midnight, she had her hand on my door to take leave. “I have it from you then—for it’s of great importance—that he was definitely and admittedly bad?”</p>
+               <p rend="indent">“Oh, not admittedly. <emph rend="italic">I</emph> knew it—but the master didn’t.”</p>
+               <p rend="indent">“And you never told him?”</p>
+               <p rend="indent">“Well, he didn’t like tale-bearing—he hated complaints. He was terribly short with anything of that kind, and if people were all right to <emph rend="italic">him</emph>—”</p>
+               <p rend="indent">“He wouldn’t be bothered with more?” This squared well enough with my impression of him: he was not a trouble-loving gentleman, nor so very particular, perhaps, about some of the company he himself kept. All the same, I pressed my interlocutress. “I promise you <emph rend="italic">I</emph> would have told!”</p>
+               <p rend="indent">She felt my discrimination. “I daresay I was wrong. But, really, I was afraid.”</p>
+               <pb n="21" facs="Colliers-vol20no21-21"/>
+               <p rend="indent">“Afraid of what?”</p>
+               <p rend="indent">“Of things that man could do. Quint was so clever—he was so deep.”</p>
+               <p rend="indent">I took this in still more than, probably, I showed. “You weren’t afraid of anything else? Not of his effect—?”</p>
+               <p rend="indent">“His effect?” she repeated with an uneasy face and waiting while I faltered.</p>
+               <p rend="indent">“On innocent little precious lives. They were in your charge.”</p>
+               <p rend="indent">“No, they were <emph rend="italic">not</emph> in mine!” she roundly and distressfully returned. “The master believed in him and placed him here because he was supposed not to be well and the country so good for him. So he had everything to say. Yes”—she let me have it—“even about <emph rend="italic">them</emph>.”</p>
+               <p rend="indent">“Them—that creature?” I had to smother a kind of howl. “And you could bear it?”</p>
+               <p rend="indent">“No, I couldn’t—and I can’t now!” And the poor woman burst into tears.</p>
+               <p rend="indent">A rigid control, from the next day, was, as I have said, to follow them; yet how often and how passionately, for a week, we came back together to the subject! Much as we had discussed it that Sunday night, I was, in the immediate later hours in especial—for it may be imagined whether I slept, still haunted with the shadow of something she had not told me. I myself had kept back nothing, but there was a word Mrs. Grose had kept back. I was sure, moreover, by morning, that this was not from a failure of frankness, but because on every side there were fears. It seems to me indeed, in retrospect, that by the time the morrow’s sun was high I had restlessly read into the facts before us almost all the meaning they were to receive from subsequent and more cruel occurrences. What they gave me above all was just the sinister figure of the living man—the dead one would keep a while!—and of the months he had continuously passed at Bly, which, added up, made a formidable stretch. The limit of this evil time had arrived only when, on the dawn of a winter’s morning, Peter Quint was found, by a laborer going to early work, stone dead on the road from the village: a catastrophe explained—superficially at least—by a visible wound to his head; such a wound as might have been produced—and as, on the final evidence <emph rend="italic">had</emph> been—by a fatal slip, in the dark and after leaving the public-house, on the steepish icy slope, a wrong path altogether, at the bottom of which he lay. The icy slope, the turn mistaken at night and in liquor, accounted for much—practically, in the end and after the inquest and boundless chatter, for everything; but there had been matters in his life—strange passages and perils, secrets, disorders, vices more than suspected—that would have accounted for a good deal more.</p>
+               <p rend="indent">I scarce know how to put my story into words that shall be a credible picture of my state of mind; but I was, in these days, literally able to find a joy in the particular miracle of courage the occasion demanded of me. I now saw that I had been asked for a service admirable and difficult; and there would be a greatness in letting it be seen—oh, in the right quarter!—that I could succeed where many another girl might have failed. It was an immense help to me—I confess I rather applaud myself as I look back!—that I saw my service so strongly and so simply. I was there to protect and defend the little creatures in the world the most bereaved and the most lovable, the appeal of whose helplessness had suddenly become only too explicit, a deep, constant ache of one’s own committed heart. We were cut off, really, together; we were united in our danger. They had nothing but me, and I—well I had <emph rend="italic">them</emph>. It was in short a magnificent chance. This chance presented itself to me in an image richly material. I was a screen—I was to stand before them. The more I saw, the less <emph rend="italic">they</emph> would. I began to watch them in a stifled suspense, a disguised excitement that might well, had it continued too long, have turned to something like madness. What saved me that, I now see, was that it turned to something else altogether. It didn’t last as suspense—it was superseded by horrible facts. Facts I say, yes—from the moment I really read them.</p>
+               <p rend="indent">This moment dated from an afternoon hour that I happened to spend in the grounds with the younger of my pupils alone. We had left Miles indoors, on the red cushion of a deep window-seat; he had wished to finish a book, and I had been glad to encourage a purpose so laudable in a young man whose only defect was an occasional excess of the restless. His sister, on the contrary, had been alert to come out, and I strolled with her half an hour, seeking the shade, for the sun was still high and the day exceptionally warm. I was aware afresh, with her, as we went, of how, like her brother, she contrived—it was the charming thing in both children—to let me alone without appearing to drop me and to accompany me without appearing to surround. They were never importunate and yet never listless. My attention to them ail really went to seeing them amuse themselves immensely without me: this was a spectacle they seemed actively to prepare and that engaged me as an active admirer. I walked in a world of their invention—they had no occasion whatever to draw upon mine; so that my time was taken only with being, for them, some remarkable person or thing that the game of the moment required and that was merely, thanks to my superior, my exalted stamp, a happy and highly distinguished sinecure. I forget what I was on the present occasion; I only remember that I was something very important and very quiet and that Flora was playing very hard. We were on the edge of the lake, and, as we had lately begun geography, the lake was the Sea of Azof.</p>
+               <p rend="indent">Suddenly, in these circumstances, I became aware that, on the other side of the Sea of Azof, we had an interested spectator. The way this knowledge gathered in me was the strangest thing in the world—the strangest, that is, except the very much stranger in which it quickly merged itself. I had sat down, with a piece of work—for I was something or other that could sit—on the old stone bench which overlooked the pond; and in this position I began to take in with certitude, and yet without direct vision, the presence, at a distance, of a third person. The old trees, the thick shrubbery, made a great and pleasant shade, but it was all suffused with the brightness of the hot, still hour. There was no ambiguity in anything; none whatever, at least, in the conviction I from one moment to another found myself forming as to what I should see straight before me and across the lake as a consequence of raising my eyes. They were attached at this juncture to the stitching in which I was engaged, and I can feel once more the spasm of my effort not to move them till I should so have steadied myself as to be able to make up my mind what to do. There was a third person in view—a person whose right to be there I instantly, passionately questioned. I recollect counting over perfectly the possibilities, reminding myself that nothing was more natural, for instance, than the appearance of one of the men about the place or even of a messenger, a postman or a tradesman’s boy, from the village. That reminder had as little effect on my practical certitude as I was conscious—still even without looking—of its having upon the character and attitude of our visitor. Nothing was more natural than that these things should be the other things that they absolutely were not.</p>
+               <p rend="indent">Of the positive identity of the apparition I would assure myself as soon as the small clock of my courage should have ticked out the right second; meanwhile, with an effort that was already sharp enough, I transferred my eyes straight to little Flora, who, at the moment, was about ten yards away. My heart had stood still for an instant with the wonder and terror of the question whether she too would see; and I held my breath while I waited for what a cry from her, what some sudden innocent sign either of interest or of alarm, would tell me. I waited, but nothing came; then, in the first place—and there is something more dire in this, I feel, than in anything I have to relate—I was determined by a sense that, within a minute, all sounds from her had previously dropped; and, in the second, by the circumstance that, also within the minute, she had, in her play, turned her back to the lake. This was her attitude when I at last looked at her—looked with the confirmed conviction that we were still, together, under direct personal notice. She had picked up a small flat piece of wood, which happened to have in it a little hole that had evidently suggested to her the idea of sticking in another fragment that might figure as a mast and make the thing a boat. This second morsel, while I watched her, she was very markedly and intently attempting to tighten in its place. My apprehension of what she was doing sustained me so that after some seconds I felt I was ready for more. Then I again shifted my eyes—I faced what I had to face.</p>
             </div>
             <div type="chapter" n="7">
                <head rend="center">VII</head>
-               <p rend="h_2">I got hold of Mrs. Grose as soon after this as I could; and I can give no intelligible account of how I fought out the interval. Yet I still hear myself cry as I fairly threw myself into her arms: “They <hi rend="italic">know</hi>—it’s too monstrous: they know, they know!”</p>
-               <p rend="h_2">“And what on earth—?” I felt her incredulity as she held me.</p>
-               <p rend="h_2">“Why, all that <hi rend="italic">we</hi> know—and heaven knows what besides!” Then, as she released me, I made it out to her, made it out perhaps only now with full coherency even to myself. “Two hours ago, in the garden”—I could scarce produce it—“Flora <hi rend="italic">saw!</hi>”</p>
-               <p rend="h_2">Mrs. Grose took it as she might have taken a blow in the stomach. “She has told you?” she panted.</p>
-               <p rend="h_2">“Not a word—that’s the horror. She kept it to herself! The child of six, <hi rend="italic">that</hi> child!” Unutterable still, for me, was the stupefaction of it.</p>
-               <p rend="h_2">Mrs. Grose, of course, could only gape the wider. “Then how do you know?”</p>
-               <p rend="h_2">“I was there—I saw with my eyes: saw that she was perfectly aware.”</p>
-               <p rend="h_2">“Do you mean aware of <hi rend="italic">him?</hi>”</p>
-               <p rend="h_2">“No—of <hi rend="italic">her</hi>.” I was conscious as I spoke that I looked prodigious things, for I got the slow reflection of them in my companion’s face. “Another person—this time; but a figure of quite as unmistakable horror and evil: a woman in black, pale and dreadful—with such an air also, and such a face!—on the other side of the lake. I was there with the child—quiet for the hour; and in the midst of it she came!”</p>
-               <p rend="h_2">“Came how—from where?”</p>
-               <p rend="h_2">“From where they come from! She just appeared and stood there—but not so near.”</p>
-               <p rend="h_2">“And without coming nearer?”</p>
-               <pb n="22" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-22.png"/>
-               <p rend="h_2">“Oh, for the effect and the feeling, she might have been as close as you!”</p>
-               <p rend="h_2">My friend, with an odd impulse, fell back a step. “Was she some one you’ve never seen?”</p>
-               <p rend="h_2">“Yes. But some one the child has. Some one <hi rend="italic">you</hi> have.” Then to show how I had thought it all out: “My predecessor—the one who died.”</p>
-               <p rend="h_2">“Miss Jessel?”</p>
-               <p rend="h_2">“Miss Jessel. You don’t believe me?” I pressed.</p>
-               <p rend="h_2">She turned right and left in her distress. “How can you be sure?”</p>
-               <p rend="h_2">This drew from me, in the state of my nerves, a flash of impatience. “Then ask Flora—<hi rend="italic">she’s</hi> sure!” But I had no sooner spoken than I caught myself up. “No, for God’s sake, <hi rend="italic">don’t:</hi> she’ll say she isn’t—she’ll lie!”</p>
-               <p rend="h_2">Mrs. Grose was not too bewildered instinctively to protest. “Ah, how <hi rend="italic">can</hi> you?”</p>
-               <p rend="h_2">“Because I’m clear. Flora doesn’t want me to know.”</p>
-               <p rend="h_2">“It’s only then to spare you.”</p>
-               <p rend="h_2">“No, no—there are depths, depths! The more I go over it, the more I see it, and the more I see in it the more I fear. I don’t know what I <hi rend="italic">don’t</hi> see—what I <hi rend="italic">don’t</hi> fear!”</p>
-               <p rend="h_2">Mrs. Grose tried to keep up with me. “You mean you’re afraid of seeing her again?”</p>
-               <p rend="h_2">“Oh no; that’s nothing—now!” Then I explained. “It’s of <hi rend="italic">not</hi> seeing her.”</p>
-               <p rend="h_2">But my companion only looked wan. “I don’t understand you.”</p>
-               <p rend="h_2">“Why, it’s that the child may keep it up—and that the child assuredly <hi rend="italic">will</hi>—without my knowing it.”</p>
-               <p rend="h_2">At the image of this possibility Mrs. Grose for a moment collapsed, yet presently to pull herself together again, as if from the positive force of the sense of what, should we yield an inch, there would really be to give way to. “Dear, dear—we must keep our heads! And after all, if she doesn’t mind it—!” She even tried a grim joke. “Perhaps she likes it!”</p>
-               <p rend="h_2">“Likes <hi rend="italic">such</hi> things—a little girl of six!”</p>
-               <p rend="h_2">“Isn’t it just a proof of her blessed innocence?” my friend bravely inquired.</p>
-               <p rend="h_2">She brought me, for the instant, almost round. “Oh, we must clutch at <hi rend="italic">that</hi>—we must cling to it! If it isn’t a proof of what you say, it’s a proof of—God knows what! For the woman’s a horror of horrors.”</p>
-               <p rend="h_2">Mrs. Grose, at this, fixed her eyes a minute on the ground; then at last raising them, “Tell me how you know,” she said.</p>
-               <p rend="h_2">“Then you admit it’s what she <hi rend="italic">was!</hi>” I cried.</p>
-               <p rend="h_2">“Tell me how you know,” my friend simply repeated.</p>
-               <p rend="h_2">“Know? By seeing her! By the way she looked.”</p>
-               <p rend="h_2">“And you, do you mean—so wickedly?”</p>
-               <p rend="h_2">“Dear me, no—I could have borne that. She gave me never a glance. She only fixed the child.”</p>
-               <p rend="h_2">Mrs. Grose tried to see it. “Fixed her?”</p>
-               <p rend="h_2">“Ah, with such awful eyes!”</p>
-               <p rend="h_2">She stared at mine as if they might really have resembled them. “Do you mean of dislike?”</p>
-               <p rend="h_2">“God help us, no! Of something much worse.”</p>
-               <p rend="h_2">“Worse than dislike?”—this left her indeed at a loss.</p>
-               <p rend="h_2">“With a determination—indescribable. With a kind of passion of purpose.”</p>
-               <p rend="h_2">I made her turn pale. “Purpose?”</p>
-               <p rend="h_2">“To get hold of her.” Mrs. Grose—her eyes just lingering on mine—gave a shudder and walked to the window; and while she stood there looking out I completed my statement. “<hi rend="italic">That’s</hi> what Flora knows.”</p>
-               <p rend="h_2">After a little she turned round, “The person was in black, you say?”</p>
-               <p rend="h_2">“In mourning—rather poor, almost shabby. But—yes—with extraordinary beauty.” I now recognized to what I had at last, stroke by stroke, brought the victim of my confidence, for she quite visibly weighed this. “Oh, handsome—very, very,” I insisted; “wonderfully handsome. But infamous.”</p>
-               <p rend="h_2">She slowly came back to me. “Miss Jessel—<hi rend="italic">was</hi> infamous.” She once more took my hand in both her own, holding it as tight as if to fortify me against the increase of alarm I might draw from this admission. “They were both infamous,” she finally said.</p>
-               <p rend="h_2">So, for a little, we faced it once more together; and I found, absolutely, a degree of help in seeing it now so straight. “I appreciate,” I said, “the great decency of your not having hitherto spoken; but the time has certainly come to give me the whole thing.” She appeared to assent to this, but still only in silence; seeing which I went on: “I must have it now. Of what did she die? Come, there was something between them.”</p>
-               <p rend="h_2">“There was everything.”</p>
-               <p rend="h_2">“In spite of the difference—?”</p>
-               <p rend="h_2">“Oh, of their rank, their condition”—she brought it wofully out. “<hi rend="italic">She</hi> was a lady.”</p>
-               <p rend="h_2">I turned it over; I again saw. “Yes—she was a lady.”</p>
-               <p rend="h_2">“And he so dreadfully below,” said Mrs. Grose.</p>
-               <p rend="h_2">I felt that I doubtless needn’t press too hard, in such company, on the place of a servant in the scale; but there was nothing to prevent an acceptance of my companion’s own measure of my predecessor’s abasement. There was a way to deal with that, and I dealt; the more readily for my full vision, on the evidence, of our employer’s late clever, good looking “own” man; impudent, assured, spoiled, depraved. “The fellow was a hound.”</p>
-               <p rend="h_2">Mrs. Grose considered as if it were perhaps a little case for a sense of shades. “I’ve never seen one like him. He did what he wished.”</p>
-               <p rend="h_2">“With her?”</p>
-               <p rend="h_2">“With them all.”</p>
-               <p rend="h_2">It was as if Miss Jessel had again appeared in my friend’s remembering eyes. I seemed at any rate, for an instant, to see their evocation of her as distinctly as I had seen her by the pond; and I brought out with decision: “It must have been also what <hi rend="italic">she</hi> wished!”</p>
-               <p rend="h_2">“Mrs. Grose’s face signified that it had been indeed, but she said at the same time: “Poor woman—she paid for it!”</p>
-               <p rend="h_2">“Then you do know what she died of?” I asked.</p>
-               <p rend="h_2">“No—I know nothing. I wanted <hi rend="italic">not</hi> to know; I was glad enough I didn’t; and I thanked heaven she was well out of this!”</p>
-               <p rend="h_2">“Yet you had, then, your idea—”</p>
-               <p rend="h_2">“Of her real reason for leaving? Oh yes—as to that. She <hi rend="italic">couldn’t</hi> have stayed. Fancy it here—for a governess! And afterward I imagined—and I still imagine. And what I imagine is dreadful.”</p>
-               <p rend="h_2">“Not so dreadful as what <hi rend="italic">I</hi> do,” I replied: on which I must have shown her—as I was indeed but too conscious—a front of miserable defeat. It brought out again all her compassion for me, and at the renewed touch of her kindness my power to resist broke down. I burst, as I had, the other time, made <hi rend="italic">her</hi> burst, into tears; she took me to her motherly breast, and my lamentation overflowed. “I <hi rend="italic">don’t</hi> do it!” I sobbed in despair; “I don’t save or protect them! It’s far worse than I dreamed—they’re lost!”</p>
+               <p rend="indent">I got hold of Mrs. Grose as soon after this as I could; and I can give no intelligible account of how I fought out the interval. Yet I still hear myself cry as I fairly threw myself into her arms: “They <emph rend="italic">know</emph>—it’s too monstrous: they know, they know!”</p>
+               <p rend="indent">“And what on earth—?” I felt her incredulity as she held me.</p>
+               <p rend="indent">“Why, all that <emph rend="italic">we</emph> know—and heaven knows what besides!” Then, as she released me, I made it out to her, made it out perhaps only now with full coherency even to myself. “Two hours ago, in the garden”—I could scarce produce it—“Flora <emph rend="italic">saw!</emph>”</p>
+               <p rend="indent">Mrs. Grose took it as she might have taken a blow in the stomach. “She has told you?” she panted.</p>
+               <p rend="indent">“Not a word—that’s the horror. She kept it to herself! The child of six, <emph rend="italic">that</emph> child!” Unutterable still, for me, was the stupefaction of it.</p>
+               <p rend="indent">Mrs. Grose, of course, could only gape the wider. “Then how do you know?”</p>
+               <p rend="indent">“I was there—I saw with my eyes: saw that she was perfectly aware.”</p>
+               <p rend="indent">“Do you mean aware of <emph rend="italic">him?</emph>”</p>
+               <p rend="indent">“No—of <emph rend="italic">her</emph>.” I was conscious as I spoke that I looked prodigious things, for I got the slow reflection of them in my companion’s face. “Another person—this time; but a figure of quite as unmistakable horror and evil: a woman in black, pale and dreadful—with such an air also, and such a face!—on the other side of the lake. I was there with the child—quiet for the hour; and in the midst of it she came!”</p>
+               <p rend="indent">“Came how—from where?”</p>
+               <p rend="indent">“From where they come from! She just appeared and stood there—but not so near.”</p>
+               <p rend="indent">“And without coming nearer?”</p>
+               <pb n="22" facs="Colliers-vol20no21-22"/>
+               <p rend="indent">“Oh, for the effect and the feeling, she might have been as close as you!”</p>
+               <p rend="indent">My friend, with an odd impulse, fell back a step. “Was she some one you’ve never seen?”</p>
+               <p rend="indent">“Yes. But some one the child has. Some one <emph rend="italic">you</emph> have.” Then to show how I had thought it all out: “My predecessor—the one who died.”</p>
+               <p rend="indent">“Miss Jessel?”</p>
+               <p rend="indent">“Miss Jessel. You don’t believe me?” I pressed.</p>
+               <p rend="indent">She turned right and left in her distress. “How can you be sure?”</p>
+               <p rend="indent">This drew from me, in the state of my nerves, a flash of impatience. “Then ask Flora—<emph rend="italic">she’s</emph> sure!” But I had no sooner spoken than I caught myself up. “No, for God’s sake, <emph rend="italic">don’t:</emph> she’ll say she isn’t—she’ll lie!”</p>
+               <p rend="indent">Mrs. Grose was not too bewildered instinctively to protest. “Ah, how <emph rend="italic">can</emph> you?”</p>
+               <p rend="indent">“Because I’m clear. Flora doesn’t want me to know.”</p>
+               <p rend="indent">“It’s only then to spare you.”</p>
+               <p rend="indent">“No, no—there are depths, depths! The more I go over it, the more I see it, and the more I see in it the more I fear. I don’t know what I <emph rend="italic">don’t</emph> see—what I <emph rend="italic">don’t</emph> fear!”</p>
+               <p rend="indent">Mrs. Grose tried to keep up with me. “You mean you’re afraid of seeing her again?”</p>
+               <p rend="indent">“Oh no; that’s nothing—now!” Then I explained. “It’s of <emph rend="italic">not</emph> seeing her.”</p>
+               <p rend="indent">But my companion only looked wan. “I don’t understand you.”</p>
+               <p rend="indent">“Why, it’s that the child may keep it up—and that the child assuredly <emph rend="italic">will</emph>—without my knowing it.”</p>
+               <p rend="indent">At the image of this possibility Mrs. Grose for a moment collapsed, yet presently to pull herself together again, as if from the positive force of the sense of what, should we yield an inch, there would really be to give way to. “Dear, dear—we must keep our heads! And after all, if she doesn’t mind it—!” She even tried a grim joke. “Perhaps she likes it!”</p>
+               <p rend="indent">“Likes <emph rend="italic">such</emph> things—a little girl of six!”</p>
+               <p rend="indent">“Isn’t it just a proof of her blessed innocence?” my friend bravely inquired.</p>
+               <p rend="indent">She brought me, for the instant, almost round. “Oh, we must clutch at <emph rend="italic">that</emph>—we must cling to it! If it isn’t a proof of what you say, it’s a proof of—God knows what! For the woman’s a horror of horrors.”</p>
+               <p rend="indent">Mrs. Grose, at this, fixed her eyes a minute on the ground; then at last raising them, “Tell me how you know,” she said.</p>
+               <p rend="indent">“Then you admit it’s what she <emph rend="italic">was!</emph>” I cried.</p>
+               <p rend="indent">“Tell me how you know,” my friend simply repeated.</p>
+               <p rend="indent">“Know? By seeing her! By the way she looked.”</p>
+               <p rend="indent">“And you, do you mean—so wickedly?”</p>
+               <p rend="indent">“Dear me, no—I could have borne that. She gave me never a glance. She only fixed the child.”</p>
+               <p rend="indent">Mrs. Grose tried to see it. “Fixed her?”</p>
+               <p rend="indent">“Ah, with such awful eyes!”</p>
+               <p rend="indent">She stared at mine as if they might really have resembled them. “Do you mean of dislike?”</p>
+               <p rend="indent">“God help us, no! Of something much worse.”</p>
+               <p rend="indent">“Worse than dislike?”—this left her indeed at a loss.</p>
+               <p rend="indent">“With a determination—indescribable. With a kind of passion of purpose.”</p>
+               <p rend="indent">I made her turn pale. “Purpose?”</p>
+               <p rend="indent">“To get hold of her.” Mrs. Grose—her eyes just lingering on mine—gave a shudder and walked to the window; and while she stood there looking out I completed my statement. “<emph rend="italic">That’s</emph> what Flora knows.”</p>
+               <p rend="indent">After a little she turned round, “The person was in black, you say?”</p>
+               <p rend="indent">“In mourning—rather poor, almost shabby. But—yes—with extraordinary beauty.” I now recognized to what I had at last, stroke by stroke, brought the victim of my confidence, for she quite visibly weighed this. “Oh, handsome—very, very,” I insisted; “wonderfully handsome. But infamous.”</p>
+               <p rend="indent">She slowly came back to me. “Miss Jessel—<emph rend="italic">was</emph> infamous.” She once more took my hand in both her own, holding it as tight as if to fortify me against the increase of alarm I might draw from this admission. “They were both infamous,” she finally said.</p>
+               <p rend="indent">So, for a little, we faced it once more together; and I found, absolutely, a degree of help in seeing it now so straight. “I appreciate,” I said, “the great decency of your not having hitherto spoken; but the time has certainly come to give me the whole thing.” She appeared to assent to this, but still only in silence; seeing which I went on: “I must have it now. Of what did she die? Come, there was something between them.”</p>
+               <p rend="indent">“There was everything.”</p>
+               <p rend="indent">“In spite of the difference—?”</p>
+               <p rend="indent">“Oh, of their rank, their condition”—she brought it wofully out. “<emph rend="italic">She</emph> was a lady.”</p>
+               <p rend="indent">I turned it over; I again saw. “Yes—she was a lady.”</p>
+               <p rend="indent">“And he so dreadfully below,” said Mrs. Grose.</p>
+               <p rend="indent">I felt that I doubtless needn’t press too hard, in such company, on the place of a servant in the scale; but there was nothing to prevent an acceptance of my companion’s own measure of my predecessor’s abasement. There was a way to deal with that, and I dealt; the more readily for my full vision, on the evidence, of our employer’s late clever, good looking “own” man; impudent, assured, spoiled, depraved. “The fellow was a hound.”</p>
+               <p rend="indent">Mrs. Grose considered as if it were perhaps a little case for a sense of shades. “I’ve never seen one like him. He did what he wished.”</p>
+               <p rend="indent">“With her?”</p>
+               <p rend="indent">“With them all.”</p>
+               <p rend="indent">It was as if Miss Jessel had again appeared in my friend’s remembering eyes. I seemed at any rate, for an instant, to see their evocation of her as distinctly as I had seen her by the pond; and I brought out with decision: “It must have been also what <emph rend="italic">she</emph> wished!”</p>
+               <p rend="indent">“Mrs. Grose’s face signified that it had been indeed, but she said at the same time: “Poor woman—she paid for it!”</p>
+               <p rend="indent">“Then you do know what she died of?” I asked.</p>
+               <p rend="indent">“No—I know nothing. I wanted <emph rend="italic">not</emph> to know; I was glad enough I didn’t; and I thanked heaven she was well out of this!”</p>
+               <p rend="indent">“Yet you had, then, your idea—”</p>
+               <p rend="indent">“Of her real reason for leaving? Oh yes—as to that. She <emph rend="italic">couldn’t</emph> have stayed. Fancy it here—for a governess! And afterward I imagined—and I still imagine. And what I imagine is dreadful.”</p>
+               <p rend="indent">“Not so dreadful as what <emph rend="italic">I</emph> do,” I replied: on which I must have shown her—as I was indeed but too conscious—a front of miserable defeat. It brought out again all her compassion for me, and at the renewed touch of her kindness my power to resist broke down. I burst, as I had, the other time, made <emph rend="italic">her</emph> burst, into tears; she took me to her motherly breast, and my lamentation overflowed. “I <emph rend="italic">don’t</emph> do it!” I sobbed in despair; “I don’t save or protect them! It’s far worse than I dreamed—they’re lost!”</p>
             </div>
             <trailer rend="center italic">(To be continued.)</trailer>
             </div>
             <div type="letter">
                <head rend="center caps">Our Fashion Letter</head>
-               <opener rend="small-caps"></opener>
+               <opener rend="small-caps">My dear May:</opener>
                <p rend="indent">You and all other model housewives who are busy spring cleaning will be glad to hear of a most useful and inexpensive contrivance which has just been brought out. It is a “Drapery Holder”—such a neat little “notion,” which does away with the use of pins or tacks in all draperies for mantel-shelves, chairs, pianos, screens, etc. With the advent of spring we either buy new soft drapery silks or bring out those of last season, which have been cleaned “and look as good as new,” and start to make our homes bright; nothing gives a more charming appearance to a room than graceful draperies. This clever little clip can be bought for fifty cents a dozen; by using it materials will last longer and can be draped in many different styles, as there will be no contriving to hide old tack-holes. Our bric-a-brac, too, will be much safer; very often in draping a mantel-shelf one puts vases here and there to keep the folds in place. Any one admiring the “pretties” is liable to catch a button, or one of the many trinkets which dangle from the chatelaine, in the fringe
                   <floatingText type="advertisement">
                      <body>
                         <head rend="center">Pears’</head>
-                        <p rend="indent">The skin <emph rend="italic">ought</emph>to be clear; there is nothing strange in a beautiful face.</p>
+                        <p rend="indent">The skin <emph rend="italic">ought</emph> to be clear; there is nothing strange in a beautiful face.</p>
                         <p rend="indent">If we wash with proper soap, the skin will be open and clear, unless the health is bad. A good skin is better than a doctor.</p>
-                        <p rend="indent">The soap to use is Pears’, the soap that clears but not excoriates.</p>
-                        <p rend="indent">All sorts of stores sell it; espeically druggists; all sorts of people use it.</p>
+                        <p rend="indent">The soap to use is Pears’; no free alkali in it. Pears’, the soap that clears but not excoriates.</p>
+                        <p rend="indent">All sorts of stores sell it, espeically druggists; all sorts of people use it.</p>
                      </body>
                   </floatingText>
                </p>
             </div>
-            <pb n="23" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-23.png"/>
+            <pb n="23" facs="Colliers-vol20no21-23"/>
             <gap extent="1" unit="image" reason="editorial"/>
-            <pb n="24" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no21/Colliers-vol20no21-24.png"/>
+            <pb n="24" facs="Colliers-vol20no21-24"/>
             <gap extent="1" unit="image" reason="editorial"/>
       </body>
   </text>

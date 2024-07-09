@@ -20,7 +20,7 @@
          </editionStmt>
          <extent>3 pages transcribed, 24 images.<note>Partial</note></extent>
          <publicationStmt>
-            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the University of Oxford, </publisher> <date>2024.</date>
+            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the University of Oxford, </publisher> <date>2024. </date>
             <availability>
                <licence xml:id="xml_files" target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are available for download under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</ref>
                   <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence> <licence xml:id="image_files"> Images are reproduced from the Internet Archive.</licence>
@@ -34,23 +34,23 @@
             <title xml:id="guest">Guest</title>
          </seriesStmt>
          <notesStmt>
-            <note type="images">[PNG]</note>
+            <note type="images">PNG</note>
             <note type="holding"><p>Transcribed from: <orgName>Internet Archive</orgName>: pages 20–22. </p></note>
             <note type="intro">
-               <p>This is a facsimile and transcription of <title>Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events, vol. 20, no. 17 </title>. </p>
+               <p>This is a facsimile and transcription of <title>Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events, vol. 20, no. 17</title>. </p>
                <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
             </note>
          </notesStmt>
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title ref="#https://www.wikidata.org/wiki/Q1109549">Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events</title>
+                  <title ref="#https://www.wikidata.org/wiki/Q1109549">Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events.</title>
                   <editor>
-                     <persName ref="#https://www.wikidata.org/wiki/Q7345851">Robert J. Collier</persName>
+                     <persName ref="#https://www.wikidata.org/wiki/Q7345851">Robert J. Collier</persName>.
                   </editor>
                </titleStmt>
                <publicationStmt>
-                  <publisher ref="#https://www.wikidata.org/wiki/Q7173900">Peter F. Collier</publisher>
+                  <publisher><persName ref="#https://www.wikidata.org/wiki/Q7173900">Peter F. Collier</persName>.</publisher>
                   <pubPlace>New York: </pubPlace>
                   <date when="1898-01-27">January 27, 1898</date>
                </publicationStmt>
@@ -59,10 +59,10 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Created by encoding transcription from Internet Archive scans of periodical. </p>
+            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 17, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the paratexts of the novel and its paratexts. Because users can reference facsimiles, various formatting and forme work have not been encoded. Textual rendition has been encoded apart from decorative initial captials, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 17, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -79,133 +79,134 @@
    </teiHeader>
    <text xml:lang="eng" xml:id="Colliers-vol20no17">
       <front>
-         <pb n="1" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-1.png"/>
+         <pb n="1" facs="Colliers-vol20no17-1"/>
          <gap extent="1" unit="image" reason="editorial"/>
       </front>
       <body>
-         <pb n="2" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-2.png"/>
+         <pb n="2" facs="Colliers-vol20no17-2"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="3" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-3.png"/>
+         <pb n="3" facs="Colliers-vol20no17-3"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="4" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-4.png"/>
+         <pb n="4" facs="Colliers-vol20no17-4"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="5" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-5.png"/>
+         <pb n="5" facs="Colliers-vol20no17-5"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="6" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-6.png"/>
+         <pb n="6" facs="Colliers-vol20no17-6"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="7" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-7.png"/>
+         <pb n="7" facs="Colliers-vol20no17-7"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="8" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-8.png"/>
+         <pb n="8" facs="Colliers-vol20no17-8"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="9" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-9.png"/>
+         <pb n="9" facs="Colliers-vol20no17-9"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="10" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-10.png"/>
+         <pb n="10" facs="Colliers-vol20no17-10"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="11" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-11.png"/>
+         <pb n="11" facs="Colliers-vol20no17-11"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="12" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-12.png"/>
+         <pb n="12" facs="Colliers-vol20no17-12"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="13" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-13.png"/>
+         <pb n="13" facs="Colliers-vol20no17-13"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="14" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-14.png"/>
+         <pb n="14" facs="Colliers-vol20no17-14"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="15" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-15.png"/>
+         <pb n="15" facs="Colliers-vol20no17-15"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="16" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-16.png"/>
+         <pb n="16" facs="Colliers-vol20no17-16"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="17" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-17.png"/>
+         <pb n="17" facs="Colliers-vol20no17-17"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="18" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-18.png"/>
+         <pb n="18" facs="Colliers-vol20no17-18"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="19" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-19.png"/>
+         <pb n="19" facs="Colliers-vol20no17-19"/>
          <gap extent="1" unit="image" reason="editorial"/>
          <div type="section">
-            <pb n="20" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-20.png"/>
+            <pb n="20" facs="Colliers-vol20no17-20"/>
             <figure>
-               <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
+               <figDesc>The 3.5 x 8.5 inch masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, the governess turns to face Miles and speak with him. In two panels to the left and right of illustration of the governess and Miles, there are illustrations of a dragon-like figure. Below the bottom right of the masthead image, the signature of the illustrator John La Farge, reading “La Farge 98,” appears.</figDesc>
                <bibl rend="caps">Drawn by John La Farge</bibl>
             </figure>
             <head rend="caps center">The Turn of the Screw</head>
             <head rend="caps center" type="sub">By Henry James</head>
             <head rend="caps center italic">Part First</head>
             <div type="chapter" n="introduction">
-               <p rend="h_2">The story had held us, round the fire, sufficiently breathless, but except the obvious remark that it was grewsome, as, on Christmas eve in an old house, a strange tale should essentially be, I remember no comment uttered till somebody happened to remark that it was the only case he had met in which such a visitation had fallen on a child. The case, I may mention, was that of an apparition in just such an old house as had gathered us for the occasion—an appearance, of a dreadful kind, to a little boy sleeping in the room with his mother and waking her up in the terror of it; waking her not to dissipate his dread and soothe him to sleep again, but to encounter also, herself, before she had succeeded in doing so, the same sight that had shaken him. It was this observation that drew from Douglas—not immediately, but later in the evening—a reply that had the interesting consequence to which I call attention. Some one else told a story not particularly effective, which I saw he was not following. This I took for a sign that he had himself something to produce and that we should only have to wait. We waited in fact till two nights later; but that same evening, before we scattered, he brought out what was in his mind.</p>
-            <p rend="h_2">“I quite agree—in regard to Griffin’s ghost, or whatever it was—that its appearing first to the little boy, at so tender an age, adds a particular touch. But it’s not the first occurrence of its charming kind that I know to have involved a child. If the child gives the effect another turn of the screw, what do you say to <hi rend="italic">two</hi> children—?”</p>
-            <p rend="h_2">“We say, of course,” somebody exclaimed, “that they give two turns! Also that we want to hear about them.”</p>
-            <p rend="h_2">I can see Douglas there before the fire, to which he had got up to present his back, looking down at his interlocutor with his hands in his pockets. “Nobody but me, till now, has ever heard. It’s quite too horrible.” This, naturally, was declared by several voices to give the thing the utmost price, and our friend, with quiet art, prepared his triumph by turning his eyes over the rest of us and going on: “It’s beyond everything. Nothing at all that I know touches it.”</p>
-            <p rend="h_2">“For sheer terror?” I remember asking.</p>
-            <p rend="h_2">He seemed to say it was not so simple as that; to be really at a loss how to qualify it. He passed his hand over his eyes, made a little wincing grimace. “For dreadful—dreadfulness!”</p>
-            <p rend="h_2">“Oh, how delicious!” cried one of the women. He took no notice of her; he looked at me, but as if, instead of me, he saw what he spoke of. “For general uncanny ugliness and horror and pain.”</p>
-            <p rend="h_2">“Well then,” I said, “just sit right down and begin.”</p>
-            <p rend="h_2">He turned round to the fire, gave a kick to a log, watched it an instant. Then as he faced us again: “I can’t begin. I shall have to send to town.” There was a unanimous groan at this, and much reproach; after which, in his preoccupied way, he explained. “The story’s written. It’s in a locked drawer—it has not been out for years. I could write to my man and inclose the key; he could send down the packet as he finds it.” It was to me in particular that he appeared to propound this—appeared almost to appeal for aid not to hesitate. He had broken a thickness of ice, the formation of many a winter; had had his reasons for a long silence. The others resented postponement, but it was just his scruples that charmed me. I adjured him to write by the first post and to agree with us for an early hearing; then I asked him if the experience in question had been his own. To this his answer was prompt. “Oh, thank God, no!”</p>
-            <p rend="h_2">“And is the record yours? You took the thing down?”</p>
-            <p rend="h_2">“Nothing but the impression. I took that <hi rend="italic">here</hi>”—he tapped his heart. “I’ve never lost it.”</p>
-            <p rend="h_2">“Then your manuscript—?”</p>
-            <p rend="h_2">“Is in old, faded ink, and in the most beautiful hand.” He hung fire again. “A woman’s. She has been dead these twenty years. She sent me the pages in question before she died.” They were all listening now, and of course there was somebody to be arch, or at any rate to draw the inference. But if he put the inference by without a smile it was also without irritation. “She was a most charming person, but she was ten years older than I. She was my sister’s governess,” he quietly said. “She was the most agreeable woman I’ve ever known in her position; she would have been worthy of any whatever. It was long ago, and this episode was long before. I was at Trinity, and I found her at home on my coming down the second summer. I was much there that year—it was a beautiful one; and we had, in her off-hours, some strolls and talks in the garden—talks in which she struck me as awfully clever and nice. Oh yes; don’t grin: I liked her extremely and am glad to this day to think she liked me too. If she hadn’t she wouldn’t have told me. She had never told any one. It wasn’t simply that she said so, but that I knew she hadn’t; I was sure, I could see. You’ll easily judge why when you hear.”</p>
-            <p rend="h_2">“Because the thing had been such a scare?”</p>
-            <p rend="h_2">He continued to fix me. “You’ll easily judge,” he repeated: “<hi rend="italic">you</hi> will.”</p>
-            <p rend="h_2">I fixed him too. “I see. She was in love.”</p>
-            <p rend="h_2">He laughed for the first time. “You <hi rend="italic">are</hi> acute. Yes, she was in love. That is she had been. That came out—she couldn’t tell her story without its coming out. I saw it, and she saw I saw it; but neither of us spoke of it. I remember the time and the place—the corner of the lawn, the shade of the great beeches and the long, hot summer afternoon. It wasn’t a scene for a shudder; but oh—!” He quitted the fire and dropped back into his chair.</p>
-            <p rend="h_2">“You’ll receive the packet Thursday morning?” I inquired.</p>
-            <p rend="h_2">“Probably not till the second post.”</p>
-            <p rend="h_2">“Well then; after dinner—”</p>
-            <p rend="h_2">“You’ll all meet me here?” He looked us round again. “Isn’t anybody going?” It was almost the tone of hope.</p>
-            <p rend="h_2">“Everybody will stay!”</p>
-            <p rend="h_2">“<hi rend="italic">I</hi> will—and <hi rend="italic">I</hi> will!” cried the ladies whose departure had been fixed. Mrs. Griffin, however, expressed the need for a little more light. “Who was it she was in love with?”</p>
-            <p rend="h_2">“The story will tell,” I took upon myself to reply.</p>
-            <p rend="h_2">“Oh, I can’t wait for the story!”</p>
-            <p rend="h_2">“The story <hi rend="italic">won’t</hi> tell,” said Douglas; “not in any literal, vulgar way.”</p>
-            <p rend="h_2">“More’s the pity then. That’s the only way I ever understand.”</p>
-            <p rend="h_2">“Won’t <hi rend="italic">you</hi> tell, Douglas?” somebody else inquired.</p>
-            <p rend="h_2">He sprang to his feet again. “Yes—to-morrow. Now I must go to bed. Good-night.” And, quickly, catching up a candlestick, he left us slightly bewildered. From our end of the great brown hall we heard his step on the stair; whereupon Mrs. Griffin spoke. “Well, if I don’t know who she was in love with, I know who <hi rend="italic">he</hi> was.”</p>
-            <p rend="h_2">“She was ten years older,” said her husband.</p>
-            <pb n="21" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-21.png"/>
+               <p rend="indent">The story had held us, round the fire, sufficiently breathless, but except the obvious remark that it was grewsome, as, on Christmas eve in an old house, a strange tale should essentially be, I remember no comment uttered till somebody happened to remark that it was the only case he had met in which such a visitation had fallen on a child. The case, I may mention, was that of an apparition in just such an old house as had gathered us for the occasion—an appearance, of a dreadful kind, to a little boy sleeping in the room with his mother and waking her up in the terror of it; waking her not to dissipate his dread and soothe him to sleep again, but to encounter also, herself, before she had succeeded in doing so, the same sight that had shaken him. It was this observation that drew from Douglas—not immediately, but later in the evening—a reply that had the interesting consequence to which I call attention. Some one else told a story not particularly effective, which I saw he was not following. This I took for a sign that he had himself something to produce and that we should only have to wait. We waited in fact till two nights later; but that same evening, before we scattered, he brought out what was in his mind.</p>
+            <p rend="indent">“I quite agree—in regard to Griffin’s ghost, or whatever it was—that its appearing first to the little boy, at so tender an age, adds a particular touch. But it’s not the first occurrence of its charming kind that I know to have involved a child. If the child gives the effect another turn of the screw, what do you say to <emph rend="italic">two</emph> children—?”</p>
+            <p rend="indent">“We say, of course,” somebody exclaimed, “that they give two turns! Also that we want to hear about them.”</p>
+            <p rend="indent">I can see Douglas there before the fire, to which he had got up to present his back, looking down at his interlocutor with his hands in his pockets. “Nobody but me, till now, has ever heard. It’s quite too horrible.” This, naturally, was declared by several voices to give the thing the utmost price, and our friend, with quiet art, prepared his triumph by turning his eyes over the rest of us and going on: “It’s beyond everything. Nothing at all that I know touches it.”</p>
+            <p rend="indent">“For sheer terror?” I remember asking.</p>
+            <p rend="indent">He seemed to say it was not so simple as that; to be really at a loss how to qualify it. He passed his hand over his eyes, made a little wincing grimace. “For dreadful—dreadfulness!”</p>
+            <p rend="indent">“Oh, how delicious!” cried one of the women. He took no notice of her; he looked at me, but as if, instead of me, he saw what he spoke of. “For general uncanny ugliness and horror and pain.”</p>
+            <p rend="indent">“Well then,” I said, “just sit right down and begin.”</p>
+            <p rend="indent">He turned round to the fire, gave a kick to a log, watched it an instant. Then as he faced us again: “I can’t begin. I shall have to send to town.” There was a unanimous groan at this, and much reproach; after which, in his preoccupied way, he explained. “The story’s written. It’s in a locked drawer—it has not been out for years. I could write to my man and inclose the key; he could send down the packet as he finds it.” It was to me in particular that he appeared to propound this—appeared almost to appeal for aid not to hesitate. He had broken a thickness of ice, the formation of many a winter; had had his reasons for a long silence. The others resented postponement, but it was just his scruples that charmed me. I adjured him to write by the first post and to agree with us for an early hearing; then I asked him if the experience in question had been his own. To this his answer was prompt. “Oh, thank God, no!”</p>
+            <p rend="indent">“And is the record yours? You took the thing down?”</p>
+            <p rend="indent">“Nothing but the impression. I took that <emph rend="italic">here</emph>”—he tapped his heart. “I’ve never lost it.”</p>
+            <p rend="indent">“Then your manuscript—?”</p>
+            <p rend="indent">“Is in old, faded ink, and in the most beautiful hand.” He hung fire again. “A woman’s. She has been dead these twenty years. She sent me the pages in question before she died.” They were all listening now, and of course there was somebody to be arch, or at any rate to draw the inference. But if he put the inference by without a smile it was also without irritation. “She was a most charming person, but she was ten years older than I. She was my sister’s governess,” he quietly said. “She was the most agreeable woman I’ve ever known in her position; she would have been worthy of any whatever. It was long ago, and this episode was long before. I was at Trinity, and I found her at home on my coming down the second summer. I was much there that year—it was a beautiful one; and we had, in her off-hours, some strolls and talks in the garden—talks in which she struck me as awfully clever and nice. Oh yes; don’t grin: I liked her extremely and am glad to this day to think she liked me too. If she hadn’t she wouldn’t have told me. She had never told any one. It wasn’t simply that she said so, but that I knew she hadn’t; I was sure, I could see. You’ll easily judge why when you hear.”</p>
+            <p rend="indent">“Because the thing had been such a scare?”</p>
+            <p rend="indent">He continued to fix me. “You’ll easily judge,” he repeated: “<emph rend="italic">you</emph> will.”</p>
+            <p rend="indent">I fixed him too. “I see. She was in love.”</p>
+            <p rend="indent">He laughed for the first time. “You <emph rend="italic">are</emph> acute. Yes, she was in love. That is she had been. That came out—she couldn’t tell her story without its coming out. I saw it, and she saw I saw it; but neither of us spoke of it. I remember the time and the place—the corner of the lawn, the shade of the great beeches and the long, hot summer afternoon. It wasn’t a scene for a shudder; but oh—!” He quitted the fire and dropped back into his chair.</p>
+            <p rend="indent">“You’ll receive the packet Thursday morning?” I inquired.</p>
+            <p rend="indent">“Probably not till the second post.”</p>
+            <p rend="indent">“Well then; after dinner—”</p>
+            <p rend="indent">“You’ll all meet me here?” He looked us round again. “Isn’t anybody going?” It was almost the tone of hope.</p>
+            <p rend="indent">“Everybody will stay!”</p>
+            <p rend="indent">“<emph rend="italic">I</emph> will—and <emph rend="italic">I</emph> will!” cried the ladies whose departure had been fixed. Mrs. Griffin, however, expressed the need for a little more light. “Who was it she was in love with?”</p>
+            <p rend="indent">“The story will tell,” I took upon myself to reply.</p>
+            <p rend="indent">“Oh, I can’t wait for the story!”</p>
+            <p rend="indent">“The story <emph rend="italic">won’t</emph> tell,” said Douglas; “not in any literal, vulgar way.”</p>
+            <p rend="indent">“More’s the pity then. That’s the only way I ever understand.”</p>
+            <p rend="indent">“Won’t <emph rend="italic">you</emph> tell, Douglas?” somebody else inquired.</p>
+            <p rend="indent">He sprang to his feet again. “Yes—to-morrow. Now I must go to bed. Good-night.” And, quickly, catching up a candlestick, he left us slightly bewildered. From our end of the great brown hall we heard his step on the stair; whereupon Mrs. Griffin spoke. “Well, if I don’t know who she was in love with, I know who <emph rend="italic">he</emph> was.”</p>
+            <p rend="indent">“She was ten years older,” said her husband.</p>
+            <pb n="21" facs="Colliers-vol20no17-21"/>
             <figure>
-               <figDesc>A full page illustration of the character Douglas sitting by a fireplace holding a manuscript. Below the bottom left corner of the image, a small sketch and the signature of the illustrator Eric Pape appear.</figDesc>
+               <figDesc>An 8 1/5 x 12 1/4 inch illustration of Douglas who sits by a fireplace while reading a manuscript to the guests. Below the bottom left corner of the image, a small sketch and the signature of the illustrator Eric Pape appear.</figDesc>
                <p rend="caps center">“The next night, by the corner of the hearth, in the best chair....Douglas began to read.”</p>
             </figure>
-            <pb n="22" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-22.png"/>
-            <p rend="h_2">“<hi rend="italic">Raison de plus</hi>—at that age! But it's rather nice, his long reticence.”</p>
-            <p rend="h_2">“Forty years!” Griffin put in.</p>
-            <p rend="h_2">“With this outbreak at last.”</p>
-            <p rend="h_2">“The outbreak,” I returned, “will make a tremendous occasion of Thursday night;” and every one so agreed with me that, in the light of it, we lost all attention for anything else. The last story, however incomplete and like the mere opening of a serial, had been told; we handshook and “candlestuck”, as somebody said, and went to bed.</p>
-            <p rend="h_2">I knew the next day that a letter containing the key had, by the first post, gone off to his London apartments; but in spite of—or perhaps just on account of—the eventual diffusion of this knowledge we quite let him alone till after dinner, till such an hour of the evening, in fact, as might best accord with the kind of emotion on which our hopes were fixed. Then he became as communicative as we could desire and indeed gave us his best reason for being so. We had it from him again before the fire in the hall, as we had had our mild wonders of the previous night. It appeared that the narrative he had promised to read us really required for a proper intelligence a few words of prologue. Let me say here distinctly, to have done with it, that this narrative, from an exact transcript of my own made much later, is what I shall presently give. Poor Douglas, before his death—when it was in sight—committed to me the manuscript that reached him on the third of these days and that, on the same spot, with immense effect, he read to our hushed little circle on the night—it took almost the whole!—of the fourth. The departing ladies who had said they would stay didn’t, of course, thank heaven, stay: they departed, in consequence of arrangements made, in a rage of curiosity, as they professed, produced by the touches with which he had already worked us up. But that only made his little final auditory more compact and select, kept it, round the hearth, subject to a common thrill.</p>
-            <p rend="h_2">The first of these touches conveyed that the written statement took up the tale at a point after it had, in a manner, begun. The fact to be in possession of was therefore that his old friend, the youngest of several daughters of a poor country parson, had, at the age of twenty, on taking service for the first time in the schoolroom, come up to London, in trepidation, to answer in person an advertisement that had already placed her in brief correspondence with the advertiser. This person proved, on her presenting herself, for judgment, at a house, in Harley Street, that impressed her as vast and imposing—this prospective patron proved a gentleman, a bachelor in the prime of life, such a figure as had never risen, save in a dream or an old novel, before a fluttered, anxious girl out of a Hampshire vicarage. One could easily fix his type; it never, happily, dies out. He was handsome and bold and pleasant, off-hand and gay and kind. He struck her, inevitably, as gallant and splendid, but what took her most of all and gave her the courage she afterward showed was that he put the whole thing to her as a kind of favor, an obligation he should gratefully incur. She conceived him as rich, but as fearfully extravagant—saw him all in a glow of high fashion, of good looks, of expensive habits, of charming ways with women. He had for his town residence a big house filled with the spoils of travel and the trophies of the chase; but it was to his country home, an old family place in Essex, that he wished her immediately to proceed.</p>
-            <p rend="h_2">He had been left, by the death of their parents in India, guardian to a small nephew and a small niece, children of a younger, a military brother, whom he had lost two years before. These children were, by the strangest of chances for a man in his position—a lone man without the right sort of experience or a grain of patience—very heavily on his hands. It had all been a great worry and, on his own part doubtless, a series of blunders, but he immensely pitied the poor chicks and had done all he could; had in particular sent them down to his other house, the proper place for them being of course the country, and kept them there, from the first, with the best people he could find to look after them, parting even with his own servants to wait on them and going down himself, whenever he might, to see how they were doing. The awkward thing was that they had practically no other relations and that his own affairs took up all his time. He had put them in possession of Bly, which was healthy and secure, and had placed at the head of their little establishment—but below stairs only—an excellent woman, Mrs. Grose, whom he was sure his visitor would like and who had formerly been maid to his mother. She was now housekeeper and was also acting for the time as superintendent to the little girl, of whom, without children of her own, she was by good luck extremely fond. There were plenty of people to help, but of course the young lady who should go down as governess would be in supreme authority. She would also have, in holidays, to look after the small boy, who had been for a term at school—young as he was to be sent, but what else could be done?—and who, as the holidays were about to begin, would be back from one day to the other. There had been for the two children at first a young lady whom they had had the misfortune to lose. She had done for them both beautifully—she was a most respectable person—
+            <pb n="22" facs="Colliers-vol20no17-22"/>
+            <p rend="indent">“<emph rend="italic">Raison de plus</emph>—at that age! But it's rather nice, his long reticence.”</p>
+            <p rend="indent">“Forty years!” Griffin put in.</p>
+            <p rend="indent">“With this outbreak at last.”</p>
+            <p rend="indent">“The outbreak,” I returned, “will make a tremendous occasion of Thursday night;” and every one so agreed with me that, in the light of it, we lost all attention for anything else. The last story, however incomplete and like the mere opening of a serial, had been told; we handshook and “candlestuck”, as somebody said, and went to bed.</p>
+            <p rend="indent">I knew the next day that a letter containing the key had, by the first post, gone off to his London apartments; but in spite of—or perhaps just on account of—the eventual diffusion of this knowledge we quite let him alone till after dinner, till such an hour of the evening, in fact, as might best accord with the kind of emotion on which our hopes were fixed. Then he became as communicative as we could desire and indeed gave us his best reason for being so. We had it from him again before the fire in the hall, as we had had our mild wonders of the previous night. It appeared that the narrative he had promised to read us really required for a proper intelligence a few words of prologue. Let me say here distinctly, to have done with it, that this narrative, from an exact transcript of my own made much later, is what I shall presently give. Poor Douglas, before his death—when it was in sight—committed to me the manuscript that reached him on the third of these days and that, on the same spot, with immense effect, he read to our hushed little circle on the night—it took almost the whole!—of the fourth. The departing ladies who had said they would stay didn’t, of course, thank heaven, stay: they departed, in consequence of arrangements made, in a rage of curiosity, as they professed, produced by the touches with which he had already worked us up. But that only made his little final auditory more compact and select, kept it, round the hearth, subject to a common thrill.</p>
+            <p rend="indent">The first of these touches conveyed that the written statement took up the tale at a point after it had, in a manner, begun. The fact to be in possession of was therefore that his old friend, the youngest of several daughters of a poor country parson, had, at the age of twenty, on taking service for the first time in the schoolroom, come up to London, in trepidation, to answer in person an advertisement that had already placed her in brief correspondence with the advertiser. This person proved, on her presenting herself, for judgment, at a house, in Harley Street, that impressed her as vast and imposing—this prospective patron proved a gentleman, a bachelor in the prime of life, such a figure as had never risen, save in a dream or an old novel, before a fluttered, anxious girl out of a Hampshire vicarage. One could easily fix his type; it never, happily, dies out. He was handsome and bold and pleasant, off-hand and gay and kind. He struck her, inevitably, as gallant and splendid, but what took her most of all and gave her the courage she afterward showed was that he put the whole thing to her as a kind of favor, an obligation he should gratefully incur. She conceived him as rich, but as fearfully extravagant—saw him all in a glow of high fashion, of good looks, of expensive habits, of charming ways with women. He had for his town residence a big house filled with the spoils of travel and the trophies of the chase; but it was to his country home, an old family place in Essex, that he wished her immediately to proceed.</p>
+            <p rend="indent">He had been left, by the death of their parents in India, guardian to a small nephew and a small niece, children of a younger, a military brother, whom he had lost two years before. These children were, by the strangest of chances for a man in his position—a lone man without the right sort of experience or a grain of patience—very heavily on his hands. It had all been a great worry and, on his own part doubtless, a series of blunders, but he immensely pitied the poor chicks and had done all he could; had in particular sent them down to his other house, the proper place for them being of course the country, and kept them there, from the first, with the best people he could find to look after them, parting even with his own servants to wait on them and going down himself, whenever he might, to see how they were doing. The awkward thing was that they had practically no other relations and that his own affairs took up all his time. He had put them in possession of Bly, which was healthy and secure, and had placed at the head of their little establishment—but below stairs only—an excellent woman, Mrs. Grose, whom he was sure his visitor would like and who had formerly been maid to his mother. She was now housekeeper and was also acting for the time as superintendent to the little girl, of whom, without children of her own, she was by good luck extremely fond. There were plenty of people to help, but of course the young lady who should go down as governess would be in supreme authority. She would also have, in holidays, to look after the small boy, who had been for a term at school—young as he was to be sent, but what else could be done?—and who, as the holidays were about to begin, would be back from one day to the other. There had been for the two children at first a young lady whom they had had the misfortune to lose. She had done for them both beautifully—she was a most respectable person—
                <floatingText type="advertisement">
                   <body>
-                     <p rend="indent">Price has been reduced on the original old-fashioned Dobbins’ Electric Soap, so that it can now be bought at 8 cents a bar, two bars for 15 cents. Quality same as for last 33 years, “<emph rend="small-caps">Best of All</emph>,” as your grocer for it.</p>
+                     <p rend="indent"><emph rend="small-caps">Price</emph> has been reduced on the original old-fashioned Dobbins’ Electric Soap, so that it can now be bought at 8 cents a bar, two bars for 15 cents. Quality same as for last 33 years, “<emph rend="small-caps">Best of All</emph>,” ask your grocer for it.</p>
                   </body>
                </floatingText>
                till her death, the great awkwardness of which had, precisely, left no alternative but the school for little Miles. Mrs. Grose, since then, in the way of manners and things, had done as she could for Flora; and there were, further, a cook, a housemaid, a dairywoman, an old pony, an old groom and an old gardener, all likewise thoroughly respectable.</p>
-            <p rend="h_2">So far had Douglas presented his picture when some one put a question. “And what did the former governess die of?—of so much respectability?”</p>
-            <p rend="h_2">Our friend’s answer was prompt. “That will come out. I don’t anticipate.”</p>
-            <p rend="h_2">“Excuse me—I thought that was just what you <hi rend="italic">are</hi> doing.”</p>
-            <p rend="h_2">“In her successor’s place,” I suggested, “I should have wished to learn if the office brought with it—”</p>
-            <p rend="h_2">“Necessary danger to life?” Douglas completed my thought. “She did wish to learn and she did learn. You shall hear to-morrow what she learned. Meanwhile, of course, the prospect struck her as slightly grim. She was young, untried, nervous: it was a vision of serious duties and little company, of really great loneliness. She hesitated—took a couple of days to consult and consider. But the salary offered much exceeded her modest measure, and on a second interview she faced the music, she engaged.” And Douglas, with this, made a pause that, for the benefit of the company, moved me to throw in—</p>
-            <p rend="h_2">“The moral of which was of course the seduction exercised by the splendid young man. She succumbed to it.”</p>
-            <p rend="h_2">He got up and, as he had done the night before, went to the fire, gave a stir to a log with his foot, then stood a moment with his back to us. “She saw him only twice.”</p>
-            <p rend="h_2">“Yes, but that’s just the beauty of her passion.”</p>
-            <p rend="h_2">A little to my surprise, on this, Douglas turned round to me. “It <hi rend="italic">was</hi> the beauty of it. There were others,” he went on, “who hadn’t succumbed. He told her frankly all his difficulty—that for several applicants the conditions had been prohibitive. They were, somehow, simply afraid. It sounded dull—it sounded strange; and all the more so because of his main condition.”</p>
-            <p rend="h_2">“Which was—?”</p>
-            <p rend="h_2">“That she should never trouble him—but never, never: neither appeal nor complain nor write about anything; only meet all questions herself, receive all moneys from his solicitor, take the whole thing over and let him alone. She promised to do this, and she mentioned to me that when, for a moment, disburdened, delighted, he held her hand, thanking her for the sacrifice, she already felt rewarded.”</p>
-            <p rend="h_2">“But was that all her reward?” one of the ladies asked.</p>
-            <p rend="h_2">“She never saw him again.”</p>
-            <p rend="h_2">“Oh!” said the lady; which, as our friend immediately left us again, was the only other word of importance contributed to the subject till, the next night, by the corner of the hearth, in the best chair, he opened the faded red covers of a thin old-fashioned gilt-edged album. Then the same lady put another question. “What is your title?”</p>
-            <p rend="h_2">“I haven’t one.”</p>
-            <p rend="h_2">“Oh, <hi rend="italic">I</hi> have!” I said. But Douglas, without heeding me, had begun to read with a fine clearness that was like a rendering to the ear of the beauty of his author’s hand.</p>
+            <p rend="indent">So far had Douglas presented his picture when some one put a question. “And what did the former governess die of?—of so much respectability?”</p>
+            <p rend="indent">Our friend’s answer was prompt. “That will come out. I don’t anticipate.”</p>
+            <p rend="indent">“Excuse me—I thought that was just what you <emph rend="italic">are</emph> doing.”</p>
+            <p rend="indent">“In her successor’s place,” I suggested, “I should have wished to learn if the office brought with it—”</p>
+            <p rend="indent">“Necessary danger to life?” Douglas completed my thought. “She did wish to learn and she did learn. You shall hear to-morrow what she learned. Meanwhile, of course, the prospect struck her as slightly grim. She was young, untried, nervous: it was a vision of serious duties and little company, of really great loneliness. She hesitated—took a couple of days to consult and consider. But the salary offered much exceeded her modest measure, and on a second interview she faced the music, she engaged.” And Douglas, with this, made a pause that, for the benefit of the company, moved me to throw in—</p>
+            <p rend="indent">“The moral of which was of course the seduction exercised by the splendid young man. She succumbed to it.”</p>
+            <p rend="indent">He got up and, as he had done the night before, went to the fire, gave a stir to a log with his foot, then stood a moment with his back to us. “She saw him only twice.”</p>
+            <p rend="indent">“Yes, but that’s just the beauty of her passion.”</p>
+            <p rend="indent">A little to my surprise, on this, Douglas turned round to me. “It <emph rend="italic">was</emph> the beauty of it. There were others,” he went on, “who hadn’t succumbed. He told her frankly all his difficulty—that for several applicants the conditions had been prohibitive. They were, somehow, simply afraid. It sounded dull—it sounded strange; and all the more so because of his main condition.”</p>
+            <p rend="indent">“Which was—?”</p>
+            <p rend="indent">“That she should never trouble him—but never, never: neither appeal nor complain nor write about anything; only meet all questions herself, receive all moneys from his solicitor, take the whole thing over and let him alone. She promised to do this, and she mentioned to me that when, for a moment, disburdened, delighted, he held her hand, thanking her for the sacrifice, she already felt rewarded.”</p>
+            <p rend="indent">“But was that all her reward?” one of the ladies asked.</p>
+            <p rend="indent">“She never saw him again.”</p>
+            <p rend="indent">“Oh!” said the lady; which, as our friend immediately left us again, was the only other word of importance contributed to the subject till, the next night, by the corner of the hearth, in the best chair, he opened the faded red covers of a thin old-fashioned gilt-edged album. Then the same lady put another question. “What is your title?”</p>
+            <p rend="indent">“I haven’t one.”</p>
+            <p rend="indent">“Oh, <emph rend="italic">I</emph> have!” I said. But Douglas, without heeding me, had begun to read with a fine clearness that was like a rendering to the ear of the beauty of his author’s hand.</p>
             </div>
-            <trailer rend="center italic">To be continued.</trailer>
+            <trailer rend="center italic">(To be continued.)</trailer>
          </div>
          <div type="advertisement">
             <head>Pears’</head>
-            <p rend="center">Which would you rather have, if you could have your choice, transparent skin or perfect features? All the world would choose one way; and you can have it measureably.</p>
-            <p rend="indent">If you use Pears’ Saop and live wholesomeply otherwise, you will have the best complexion Nature has for you.</p>
+            <p rend="indent">Which would you rather have, if you could have your choice, transparent skin or perfect features?</p>
+            <p rend="indent">All the world would choose one way; and you can have it measureably.</p>
+            <p rend="indent">If you use Pears’ Soap and live wholesomely otherwise, you will have the best complexion Nature has for you.</p>
             <p rend="indent">All sorts of stores sell it, especially druggists; all sorts of people use it.</p>
          </div>
-         <pb n="23" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-23.png"/>
+         <pb n="23" facs="Colliers-vol20no17-23"/>
          <gap extent="1" unit="image" reason="editorial"/>
-         <pb n="24" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no17/Colliers-vol20no17-24.png"/>
+         <pb n="24" facs="Colliers-vol20no17-24"/>
          <gap extent="1" unit="image" reason="editorial"/>
       </body>
    </text>
