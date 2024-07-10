@@ -20,7 +20,7 @@
          </editionStmt>
          <extent>3 pages transcribed, 24 images.<note>Partial</note></extent>
          <publicationStmt>
-            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the University of Oxford, </publisher> <date>2024.</date>
+            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the University of Oxford, </publisher> <date>2024. </date>
             <availability>
                <licence xml:id="xml_files" target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are available for download under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</ref>
                   <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence> <licence xml:id="image_files"> Images are reproduced from the Internet Archive.</licence>
@@ -34,7 +34,7 @@
             <title xml:id="guest">Guest</title>
          </seriesStmt>
          <notesStmt>
-            <note type="images">[PNG]</note>
+            <note type="images">PNG</note>
             <note type="holding"><p>Transcribed from: <orgName>Internet Archive</orgName>: pages 16–18. </p></note>
             <note type="intro">
                <p>This is a facsimile and transcription of <title>Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events, vol. 20, no. 26</title>. </p>
@@ -44,13 +44,15 @@
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title ref="#https://www.wikidata.org/wiki/Q1109549">Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events</title>
+                  <title ref="#https://www.wikidata.org/wiki/Q1109549">Collier’s Weekly: An Illustrated Journal of Art, Literature &amp; Current Events.</title>
                   <editor>
-                     <persName ref="#https://www.wikidata.org/wiki/Q7345851">Robert J. Collier</persName>
+                     <persName ref="#https://www.wikidata.org/wiki/Q7345851">Robert J. Collier</persName>.
                   </editor>
                </titleStmt>
                <publicationStmt>
-                  <publisher ref="#https://www.wikidata.org/wiki/Q7173900">Peter F. Collier</publisher>
+                  <publisher>
+                     <persName ref="#https://www.wikidata.org/wiki/Q7173900">Peter F. Collier</persName>.
+                  </publisher>
                   <pubPlace>New York: </pubPlace>
                   <date when="1898-04-02">April 02, 1898</date>
                </publicationStmt>
@@ -59,10 +61,10 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Created by encoding transcription from Internet Archive scans of periodical. </p>
+            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 26, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the paratexts of the novel and its paratexts. Because users can reference facsimiles, various formatting and forme work have not been encoded. Textual rendition has been encoded apart from decorative initial captials, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 26, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -79,52 +81,52 @@
    </teiHeader>
    <text xml:lang="eng" xml:id="Colliers-vol20no26">
      <front>
-        <pb n="1" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-1.png"/>
+        <pb n="1" facs="Colliers-vol20no26-1"/>
         <gap extent="1" unit="image" reason="editorial"/>
      </front>
      <body>
-        <pb n="2" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-2.png"/>
+        <pb n="2" facs="Colliers-vol20no26-2"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="3" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-3.png"/>
+        <pb n="3" facs="Colliers-vol20no26-3"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="4" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-4.png"/>
+        <pb n="4" facs="Colliers-vol20no26-4"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="5" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-5.png"/>
+        <pb n="5" facs="Colliers-vol20no26-5"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="6" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-6.png"/>
+        <pb n="6" facs="Colliers-vol20no26-6"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="7" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-7.png"/>
+        <pb n="7" facs="Colliers-vol20no26-7"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="8" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-8.png"/>
+        <pb n="8" facs="Colliers-vol20no26-8"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="9" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-9.png"/>
+        <pb n="9" facs="Colliers-vol20no26-9"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="10" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-10.png"/>
+        <pb n="10" facs="Colliers-vol20no26-10"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="11" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-11.png"/>
+        <pb n="11" facs="Colliers-vol20no26-11"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="12" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-12.png"/>
+        <pb n="12" facs="Colliers-vol20no26-12"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="13" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-13.png"/>
+        <pb n="13" facs="Colliers-vol20no26-13"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="14" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-14.png"/>
+        <pb n="14" facs="Colliers-vol20no26-14"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="15" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-15.png"/>
+        <pb n="15" facs="Colliers-vol20no26-15"/>
         <gap extent="1" unit="image" reason="editorial"/>
          <div type="section">
-            <pb n="16" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-16.png"/>
+            <pb n="16" facs="Colliers-vol20no26-16"/>
             <figure>
-               <figDesc>A full page illustration of the character the governess lying face down on the ground near a lake. The silhouette of another woman appears in the left of the image. Below the bottom left corner of the image, a small sketch of a landscape and the signature of the illustrator Eric Pape appear.</figDesc>
-               <p rend="caps center u">“I must have thrown myself, on my face, on the ground.”</p>
+               <figDesc>An 8 1/2 x 12 1/4 inch illustration of the governess lying face down on the ground near a lake. The silhouette of another woman appears in the left of the image. Below the bottom left corner of the image, a small sketch of a landscape and the signature of the illustrator Eric Pape appear.</figDesc>
+               <ab rend="caps center u" type="caption">“I must have thrown myself, on my face, on the ground.”</ab>
             </figure>
-            <pb n="17" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-17.png"/>
+            <pb n="17" facs="Colliers-vol20no26-17"/>
             <figure>
-               <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-               <bibl rend="caps">Drawn by John La Farge</bibl>
+               <figDesc>The 3.5 x 8.5 inch masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, the governess turns to face Miles and speak with him. In two panels to the left and right of illustration of the governess and Miles, there are illustrations of a dragon-like figure. Below the bottom right of the masthead image, the signature of the illustrator John La Farge, reading “La Farge 98,” appears.</figDesc>
+               <byline rend="caps">Drawn by John La Farge</byline>
             </figure>
-            <head rend="allcaps center">The Turn of the Screw</head>
-            <head rend="allcaps center" type="sub">By Henry James</head>
-            <head rend="allcaps center italic">Part Fifth</head>
+            <head rend="caps center">The Turn of the Screw</head>
+            <byline rend="caps center">By Henry James</byline>
+            <head rend="caps center italic">Part Fifth</head>
             <div type="chapter" n="19">
                <head rend="center">XIX</head>
                <p rend="h_2">We went straight to the lake, as it was called at Bly, and I daresay rightly called, though I reflect that it may in fact have been a sheet of water less remarkable than it appeared to my untraveled eyes. My acquaintance with sheets of water was small, and the pool of Bly, at all events on the few occasions of my consenting, under the protection of my pupils, to affront its surface in the old flat-bottomed boat moored there for our use, had impressed me both with its extent and its agitation. The usual place of embarkation was half a mile from the house, but I had an intimate conviction that, wherever Flora might be, she was not near home. She had not given me the slip for any small adventure, and, since the day of the very great one that I had shared with her by the pond, I had been aware, in our walks, of the quarter to which she most inclined. This was why I had now given to Mrs. Grose’s steps so marked a direction—a direction that made her, when she perceived it, oppose a resistance that showed me she was freshly mystified. “You’re going to the water, Miss?—you think she’s <emph rend="italic">in—?</emph>”</p>
@@ -149,7 +151,7 @@
                <p rend="h_2">“Certainly, far as it is. It will take us but ten minutes, but it’s far enough to have made the child prefer not to walk. She went straight over.”</p>
                <p rend="h_2">“Laws!” cried my friend again: the chain of my logic was ever too much for her. It dragged her at my heels even now, and when we had got half way round—a devious, tiresome process, on ground much broken and by a path choked with overgrowth—I paused to give her breath. I sustained her with a grateful arm, assuring her that she might hugely help me; and this started us afresh, so that in the course of but few minutes more we reached a point from which we found the boat to be where I had supposed it. It had been intentionally left as much as possible out of sight and was tied to one of the stakes of a fence that came, just there, down to the brink and that had been an assistance to disembarking. I recognized, as I looked at the pair of short, thick oars, quite safely drawn up, the prodigious character of the feat for a little girl; but I had lived, by this time, too long among wonders and had panted to too many livelier measures. There was a gate in the fence, through which we passed, and that brought us, after a trifling interval, more into the open. Then “There she is!” we both exclaimed at once.</p>
                <p rend="h_2">Flora, a short way off, stood before us on the grass and smiled as if her performance were now complete. The next thing she did, however, was to stoop straight down and pluck—quite as if it were all she was there for—a big spray of ugly withered fern. I instantly made sure she had just come out of the copse. She waited for us, not herself taking a step, and I was conscious of the rare solemnity with which we presently approached her. She smiled and smiled, and we met; but it was all done in a silence by this time flagrantly ominous. Mrs. Grose was the first to break the spell: she threw herself on her knees and, drawing the child to her breast, clasped in a long embrace the little tender, yielding body. While this dumb convulsion lasted I could only watch it—which I did the more intently when I saw Flora’s face peep at me over our companion’s shoulder. It was serious now—the flicker had left it; but it strengthened the pang with which I at that moment envied Mrs. Grose the simplicity of <emph rend="italic">her</emph> relation. Still, all this while, nothing more passed between us save that Flora had let her foolish fern again drop to the ground. What she and I had virtually said to each other was that pretexts were useless now. When Mrs. Grose finally got up she kept the child’s hand, so that the
-               <pb n="18" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-18.png"/>
+               <pb n="18" facs="Colliers-vol20no26-18"/>
                two were still before me; and the singular reticence of our communion was even more marked in the frank look she launched. “I’ll be hanged,” it said, “if <emph rend="italic">I</emph>’ll speak!”</p>
                <p rend="h_2">It was Flora who, gazing all over me in candid wonder, was the first. She was struck with our bareheaded aspect. “Why, where are your things?”</p>
                <p rend="h_2">“Where yours are, my dear!” I promptly returned.</p>
@@ -172,17 +174,17 @@
             </div>
             <trailer rend="center italic">(Continued next week.)</trailer>
          </div>
-        <pb n="19" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-19.png"/>
+        <pb n="19" facs="Colliers-vol20no26-19"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="20" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-20.png"/>
+        <pb n="20" facs="Colliers-vol20no26-20"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="21" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-21.png"/>
+        <pb n="21" facs="Colliers-vol20no26-21"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="22" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-22.png"/>
+        <pb n="22" facs="Colliers-vol20no26-22"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="23" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-23.png"/>
+        <pb n="23" facs="Colliers-vol20no26-23"/>
         <gap extent="1" unit="image" reason="editorial"/>
-        <pb n="24" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no26/Colliers-vol20no26-24.png"/>
+        <pb n="24" facs="Colliers-vol20no26-24"/>
         <gap extent="1" unit="image" reason="editorial"/>
      </body>
   </text>

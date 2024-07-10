@@ -68,6 +68,7 @@
       <profileDesc>
          <langUsage>
             <language ident="eng">eng</language>
+            <language ident="fre">fre</language>
          </langUsage>
       </profileDesc>
       <revisionDesc>
@@ -123,10 +124,10 @@
             <pb n="20" facs="Colliers-vol20no17-20"/>
             <figure>
                <figDesc>The 3.5 x 8.5 inch masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, the governess turns to face Miles and speak with him. In two panels to the left and right of illustration of the governess and Miles, there are illustrations of a dragon-like figure. Below the bottom right of the masthead image, the signature of the illustrator John La Farge, reading “La Farge 98,” appears.</figDesc>
-               <bibl rend="caps">Drawn by John La Farge</bibl>
+               <byline rend="caps">Drawn by John La Farge</byline>
             </figure>
             <head rend="caps center">The Turn of the Screw</head>
-            <head rend="caps center" type="sub">By Henry James</head>
+            <byline rend="caps center">By Henry James</byline>
             <head rend="caps center italic">Part First</head>
             <div type="chapter" n="introduction">
                <p rend="indent">The story had held us, round the fire, sufficiently breathless, but except the obvious remark that it was grewsome, as, on Christmas eve in an old house, a strange tale should essentially be, I remember no comment uttered till somebody happened to remark that it was the only case he had met in which such a visitation had fallen on a child. The case, I may mention, was that of an apparition in just such an old house as had gathered us for the occasion—an appearance, of a dreadful kind, to a little boy sleeping in the room with his mother and waking her up in the terror of it; waking her not to dissipate his dread and soothe him to sleep again, but to encounter also, herself, before she had succeeded in doing so, the same sight that had shaken him. It was this observation that drew from Douglas—not immediately, but later in the evening—a reply that had the interesting consequence to which I call attention. Some one else told a story not particularly effective, which I saw he was not following. This I took for a sign that he had himself something to produce and that we should only have to wait. We waited in fact till two nights later; but that same evening, before we scattered, he brought out what was in his mind.</p>
@@ -161,11 +162,11 @@
             <p rend="indent">“She was ten years older,” said her husband.</p>
             <pb n="21" facs="Colliers-vol20no17-21"/>
             <figure>
-               <figDesc>An 8 1/5 x 12 1/4 inch illustration of Douglas who sits by a fireplace while reading a manuscript to the guests. Below the bottom left corner of the image, a small sketch and the signature of the illustrator Eric Pape appear.</figDesc>
-               <p rend="caps center">“The next night, by the corner of the hearth, in the best chair....Douglas began to read.”</p>
+               <figDesc>An 8 1/2 x 12 1/4 inch illustration of Douglas who sits by a fireplace while reading a manuscript to the guests. Below the bottom left corner of the image, a small sketch and the signature of the illustrator Eric Pape appear.</figDesc>
+               <ab rend="caps center" type="caption">“The next night, by the corner of the hearth, in the best chair....Douglas began to read.”</ab>
             </figure>
             <pb n="22" facs="Colliers-vol20no17-22"/>
-            <p rend="indent">“<emph rend="italic">Raison de plus</emph>—at that age! But it's rather nice, his long reticence.”</p>
+            <p rend="indent">“<foreign xml:lang="fre" rend="italic">Raison de plus</foreign>—at that age! But it's rather nice, his long reticence.”</p>
             <p rend="indent">“Forty years!” Griffin put in.</p>
             <p rend="indent">“With this outbreak at last.”</p>
             <p rend="indent">“The outbreak,” I returned, “will make a tremendous occasion of Thursday night;” and every one so agreed with me that, in the light of it, we lost all attention for anything else. The last story, however incomplete and like the mere opening of a serial, had been told; we handshook and “candlestuck”, as somebody said, and went to bed.</p>

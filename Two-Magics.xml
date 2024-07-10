@@ -153,10 +153,10 @@
                <rdg  wit="#Colliers-vol20no17">
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="center caps" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">By Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                   <seg rend="caps center italic" type="subhead">Part First</seg>
                </rdg>
             </app>
@@ -211,8 +211,8 @@
                <rdg wit="#Colliers-vol20no17">
                   <pb n="21"/>
                   <figure>
-                     <figDesc>An 8 1/5 x 12 1/4 inch illustration of Douglas who sits by a fireplace while reading a manuscript to the guests. Below the bottom left corner of the image, a small sketch and the signature of the illustrator Eric Pape appear.</figDesc>
-                     <p rend="caps center">“The next night, by the corner of the hearth, in the best chair....Douglas began to read.”</p>
+                     <figDesc>An 8 1/2 x 12 1/4 inch illustration of Douglas who sits by a fireplace while reading a manuscript to the guests. Below the bottom left corner of the image, a small sketch and the signature of the illustrator Eric Pape appear.</figDesc>
+                     <ab rend="caps center" type="caption">“The next night, by the corner of the hearth, in the best chair....Douglas began to read.”</ab>
                   </figure>
                   <pb n="22"/>
                </rdg>
@@ -258,10 +258,10 @@
                <rdg wit="#Colliers-vol20no18">
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman holds a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">by Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                </rdg>
             </app>
          <div type="chapter" n="1">
@@ -364,10 +364,10 @@
                <rdg wit="#Colliers-vol20no19">
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman hols a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">by Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                </rdg>
             </app>
          <div type="chapter" n="3">
@@ -406,7 +406,7 @@
                   <pb n="21"/>
                   <figure>
                      <figDesc>An 8 1/5 x 12 1/4 inch illustration of the governess reacting to the silhouette atop a tower. Below the bottom left corner of the image, an image of a woman and the signature of the illustrator Eric Pape appear.</figDesc>
-                     <p rend="caps center">He did stand there!—but high up, beyond the lawn and at the very top of the tower...</p>
+                     <ab rend="caps center" type="caption">He did stand there!—but high up, beyond the lawn and at the very top of the tower...</ab>
                   </figure>
                   <pb n="22"/>
                </rdg>
@@ -425,10 +425,10 @@
                <rdg wit="#Colliers-vol20no20">
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman hols a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">By Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                   <seg rend="caps center italic" type="subhead">Part Second</seg>
                </rdg>
             </app>
@@ -553,10 +553,10 @@
                <rdg wit="#Colliers-vol20no21">
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman hols a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">by Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                </rdg>
             </app>
          <div type="chapter" n="6">
@@ -701,10 +701,10 @@
                <rdg wit="#Colliers-vol20no22">
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman hols a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">By Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                   <seg rend="caps center italic" type="subhead">Part Third</seg>
                </rdg>
             </app>
@@ -725,7 +725,7 @@
                   <pb n="17"/>
                   <figure>
                      <figDesc>An 8 1/5 x 12 1/4 inch illustration of the governess on a set of stairs holding a candle and looking toward a figure standing by the window. Below the bottom left corner of the image, a small sketch and the signature of the illustrator Eric Pape appear.</figDesc>
-                     <p rend="caps center u">Holding my candle high, till I came within sight of the tall window</p>
+                     <ab rend="caps center u" type="caption">Holding my candle high, till I came within sight of the tall window</ab>
                   </figure>
                   <pb n="18"/>
                </rdg>
@@ -800,10 +800,10 @@
                <rdg wit="#Colliers-vol20no23">
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman hols a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">By Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                </rdg>
             </app>
          <div type="chapter" n="10">
@@ -911,10 +911,10 @@
                <rdg wit="#Colliers-vol20no24">
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman hols a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">By Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                   <seg rend="caps center italic" type="subhead">Part Fourth</seg>
                </rdg>
             </app>
@@ -1055,13 +1055,13 @@
          <div>
             <pb n="12" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-12"/>
             <figure xml:id="fig-connect-01" next="#fig-connect-02">
-               <figDesc>An illustration of the character of the governess sitting on a stone slab looking contemplatively toward the ground, while the character Miles looks at her. The illustration is situated vertically across a two-page spread. This page shows the bottom half of the image. Below the bottom left corner of the image, a small sketch of a rose and the signature of the illustrator Eric Pape appear.</figDesc>
-               <p rend="center caps italic u">He presently produced something that made me drop straight down on the stone slab</p>
-               <p rend="italic">From “The Turn of the Screw, Part Fourth, Chapter XIV</p>
+               <figDesc>An 12 1/2 x 18 1/2 inch illustration of the governess sitting on a stone slab looking toward the ground, while the character Miles looks at her. The illustration is situated vertically across a two-page spread. This page shows the bottom half of the image. Below the bottom left corner of the image, a small sketch of a rose and the signature of the illustrator Eric Pape appear.</figDesc>
+               <ab rend="center caps italic u" type="caption">He presently produced something that made me drop straight down on the stone slab</ab>
+               <ab rend="italic" type="caption">From “The Turn of the Screw,” Part Fourth, Chapter XIV</ab>
             </figure>
             <pb n="13" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol20no24/Colliers-vol20no24-13"/>
             <figure xml:id="fig-connect-02" prev="#fig-connect-01">
-               <figDesc>An illustration of the character of the governess sitting on a stone slab looking contemplatively toward the ground, while the character Miles looks at her. The illustration is situated vertically across a two-page spread. This page shows the top half of the image.</figDesc>
+               <figDesc>An 12 1/2 x 18 1/2 inch illustration of the governess sitting on a stone slab looking toward the ground, while the character Miles looks at her. The illustration is situated vertically across a two-page spread. This page shows the bottom half of the image. Below the bottom left corner of the image, a small sketch of a rose and the signature of the illustrator Eric Pape appear.</figDesc>
             </figure>
          </div>
                </rdg>
@@ -1072,10 +1072,10 @@
                <rdg wit="#Colliers-vol20no25">
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman hols a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">By Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                </rdg>
             </app>
          <div type="chapter" n="16">
@@ -1237,16 +1237,16 @@
                <rdg wit="#Colliers-vol20no26">
                   <pb n="16"/>
                   <figure>
-                     <figDesc>A full page illustration of the character the governess lying face down on the ground near a lake. The silhouette of another woman appears in the left of the image. Below the bottom left corner of the image, a small sketch of a landscape and the signature of the illustrator Eric Pape appear.</figDesc>
-                     <p rend="caps center u">“I must have thrown myself, on my face, on the ground.”</p>
+                     <figDesc>An 8 1/2 x 12 1/4 inch illustration of the governess lying face down on the ground near a lake. The silhouette of another woman appears in the left of the image. Below the bottom left corner of the image, a small sketch of a landscape and the signature of the illustrator Eric Pape appear.</figDesc>
+                     <ab rend="caps center u" type="caption">“I must have thrown myself, on my face, on the ground.”</ab>
                   </figure>
                   <pb n="17"/>
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman hols a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">By Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                   <seg rend="caps center italic" type="subhead">Part Fifth</seg>
                </rdg>
             </app>
@@ -1322,10 +1322,10 @@
                <lem><note n="*" xml:id="absent101" resp="absent from base text"/></lem>
                <rdg wit="#Colliers-vol21no1">
                   <figure>
-                     <figDesc>An illustration adjacent to the left margin of the page. The image shows three women standing in a wooded area. One plays a instrument.</figDesc>
+                     <figDesc>An illustration adjacent to the left margin of the page. The image shows three women standing in a wooded area. One plays a instrument. This illustration is consistent with the Easter theme of the issue.</figDesc>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">By Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                </rdg>
             </app>
          <div type="chapter" n="21">
@@ -1369,10 +1369,10 @@
             <p rend="indent">My friend<app><lem><note n="*" xml:id="absent102" resp="absent from base text"/></lem><rdg wit="#Colliers-vol21no1">,</rdg></app> on this ground<app><lem><note n="*" xml:id="absent103" resp="absent from base text"/></lem><rdg wit="#Colliers-vol21no1">,</rdg></app> appeared more reluctant than I could quite understand. “What do you mean by more time?”</p>
             <app>
                <lem><note n="*" xml:id="absent104" resp="absent from base text"/></lem>
-               <rdg>
+               <rdg wit="#Colliers-vol20no21">
                   <pb n="19"/>
                   <figure>
-                     <figDesc>An illustration adjacent to the right margin of the page. The image shows two women in a wooded area, who appear to be dancing.</figDesc>
+                     <figDesc>An illustration adjacent to the right margin of the page. The image shows two women in a wooded area, who appear to be dancing. This illustration is consistent with the Easter theme of the issue.</figDesc>
                   </figure>
                </rdg>
             </app>
@@ -1430,45 +1430,45 @@
                   <lem><note n="*" xml:id="absent113" resp="absent from base text"/></lem>
                   <rdg wit="#Colliers-vol21no1">
                      <pb n="20"/>
-                     <floatingText type="illustrations">
+                     <floatingText type="images">
                         <body>
                            <figure>
-                              <figDesc>A painting of a woman standing against a background of trees looking toward the upper-right corner.</figDesc>
-                              <bibl rend="italic">Copyright, 1897, by Douglas Volk</bibl>
-                              <bibl rend="caps">Douglas Volk</bibl>
-                              <bibl rend="italic">The Song of the Pines</bibl>
+                              <figDesc>A halftone image of a painting of a woman standing against a background of trees looking toward the upper-right corner of the image.</figDesc>
+                              <ab rend="italic" type="copyright">Copyright, 1897, by Douglas Volk</ab>
+                              <byline rend="caps">Douglas Volk</byline>
+                              <bibl rend="italic" type="title">The Song of the Pines</bibl>
                            </figure>
                            <figure>
-                              <figDesc>A portrait of a woman sitting in a chair leaning to the her left with her right arm extended to the right.</figDesc>
-                              <bibl rend="caps">W.H. Hyde</bibl>
-                              <bibl rend="italic">Portrait of Miss Alice Duer</bibl>
+                              <figDesc>A halftone image of a portrait of a woman sitting in a chair leaning to the her left with her right arm extended to the right.</figDesc>
+                              <byline rend="caps">W.H. Hyde</byline>
+                              <bibl rend="italic" type="title">Portrait of Miss Alice Duer</bibl>
                            </figure>
-                           <pb n="21" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no1/Colliers-vol21no1-21"/>
+                           <pb n="21" facs="Colliers-vol21no1-21"/>
                            <figure>
-                              <figDesc>A painting of five children catching minnows with netx. Three are to the left of the image in the foreground. Two are to the right of the image in the background.</figDesc>
-                              <bibl rend="caps">Charles C. Curran</bibl>
-                              <bibl rend="italic">Catching Minnows</bibl>
+                              <figDesc>A halftone image of a painting of five children catching minnows with nets. Three are to the left of the image in the foreground. Two are to the right of the image in the background.</figDesc>
+                              <byline rend="caps">Charles C. Curran</byline>
+                              <bibl rend="italic" type="title">Catching Minnows</bibl>
                            </figure>
-                           <pb n="21" facs="https://raw.githubusercontent.com/1078975/Turn-of-the-Screw/main/Colliers-Images/Colliers-vol21no1/Colliers-vol21no1-22"/>
+                           <ab type="head" rend="caps center">Spring Exhibitions at the Academy of Design and Society of American Artists</ab>
                            <figure>
-                              <figDesc>A painting of a herd of cows moving left to right across the painting. A herding dog runs alongside and looks up at them.</figDesc>
-                              <bibl rend="caps">James M. Hart</bibl>
-                              <bibl rend="italic">An Old-Time Drove</bibl>
-                           </figure>
-                           <figure>
-                              <figDesc>A painting of six soliders. One, with a bandage around his head approaches a desk, where another is sitting at a desk writing. Four stand behind the seated man.</figDesc>
-                              <bibl rend="caps">Gilbert Gaul</bibl>
-                              <bibl rend="italic">News From the Front</bibl>
+                              <figDesc>A halftone image of a painting of a herd of cows moving left to right across the painting. A herding dog in the foreground runs alongside and looks up at them.</figDesc>
+                              <byline rend="caps">James M. Hart</byline>
+                              <bibl rend="italic" type="title">An Old-Time Drove</bibl>
                            </figure>
                            <figure>
-                              <figDesc>A painting two nude women. One is to the left of the image and is holding the reins to two horses while she climbs upon a carraige. The other helps her.</figDesc>
-                              <bibl rend="caps">Robert Reid</bibl>
-                              <bibl rend="italic">Dawn</bibl>
+                              <figDesc>A halftone image of a painting of six soliders. One, with a bandage around his head approaches a desk, where another is sitting at a desk writing. Four stand behind the seated man.</figDesc>
+                              <byline rend="caps">Gilbert Gaul</byline>
+                              <bibl rend="italic" type="title">News From the Front</bibl>
                            </figure>
                            <figure>
-                              <figDesc>A painting of three nude women on a rock in the ocean. One is standing with her arms raised and looking out toward a ship.</figDesc>
-                              <bibl rend="caps">Herbert Denman</bibl>
-                              <bibl rend="italic">Sirens</bibl>
+                              <figDesc>A halftone image of a painting two nude women. One is to the left in the painting and is holding the reins to two horses while she climbs upon a cart. The other helps her.</figDesc>
+                              <byline rend="caps">Robert Reid</byline>
+                              <bibl rend="italic" type="title">Dawn</bibl>
+                           </figure>
+                           <figure>
+                              <figDesc>A halftone image of a painting of three nude women on a rock in the ocean. One is standing with her arms raised and looking out toward a ship.</figDesc>
+                              <byline rend="caps">Herbert Denman</byline>
+                              <bibl rend="italic" type="title">Sirens</bibl>
                            </figure>
                            <ab type="head" rend="caps center">Spring Exhibitions at the Academy of Design and Society of American Artists</ab></body>
                      </floatingText>
@@ -1489,7 +1489,7 @@
             <p rend="indent">“Before she became too ill to travel.”</p>
             <p rend="indent">I found myself prompt. “She’s <emph rend="italic">not</emph> too ill to travel: she only might have become so if she had stayed. This was just the moment to seize. The journey will dissipate the influence”—oh, I was grand!—“and carry it off.”</p>
             <p rend="indent">“I see, I see”—Miles, for that matter, was grand too. He settled to his repast with the charming little “table manner” that, from the day of his arrival, had relieved me of all grossness of admonition. Whatever he had been driven from school for, it was not for ugly feeding. He was irreproachable, as always, <app><lem>today</lem><rdg wit="#Colliers-vol21no1">to-day</rdg></app>; but he was unmistakably more conscious. He was discernibly trying to take for granted
-               <pb n="196" facs="Two-Magics-196"/>more things than he found, without assistance, quite easy; and he dropped into peaceful silence while he felt his situation. Our meal was of the briefest and mine a vain pretense, and I had the things immediately removed. While this was done Miles stood again with his hands in his little pockets and his back to me—stood and looked out of the wide window through which, that other day, I had seen what pulled me up. We continued silent while the maid was with us—as silent, it whimsically occurred to me, as some young couple who, on their wedding-journey, at the inn, feel shy in the presence of the waiter. He turned round only when the maid had left us. “Well—so we’re alone!”</p>
+               <pb n="196" facs="Two-Magics-196"/>more things than he found, without assistance, quite easy; and he dropped into peaceful silence while he felt his situation. Our meal was of the briefest and mine a vain pretense, and I had the things immediately removed. While this was done Miles stood again with his hands in his little pockets and his back to me—stood and looked out of the wide window through which, that other day, I had seen what pulled me up. We continued silent while the maid was with us—as silent, it whimsically occurred to me, as some young couple who, on their wedding-journey, at the inn, feel shy in the presence of the waiter. He turned round only when the <app><lem>waiter</lem><rdg wit="#Colliers-vol21no1">maid</rdg></app> had left us. “Well—so we’re alone!”</p>
          </div>
             <app>
                <lem><note n="*" xml:id="absent115" resp="absent from base text"/></lem>
@@ -1501,10 +1501,10 @@
                <rdg wit="#Colliers-vol21no2">
                   <figure>
                      <figDesc>The masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, woman hols a young boy as she turns down to speak to him. In two panels to the left and right of illustration of the woman and boy there are illustrations of a monster-like figure. Below the bottom right of the masthead image, the signature ‘La Farge 98’ appears.</figDesc>
-                     <bibl rend="caps">Drawn by John La Farge</bibl>
+                     <byline rend="caps">Drawn by John La Farge</byline>
                   </figure>
                   <seg rend="caps center" type="head">The Turn of the Screw</seg>
-                  <seg rend="caps center" type="subhead">By Henry James</seg>
+                  <byline rend="caps center">By Henry James</byline>
                </rdg>
             </app>
          <div type="chapter" n="23">
@@ -1571,7 +1571,7 @@
             <p rend="indent">Oh, what this brought up! “At school?”</p>
             <p rend="indent">“Did you take letters?—or other things?”</p>
             <p rend="indent">“Other things?” He appeared now to be thinking of something far off and that reached him only through the pressure of his anxiety. Yet it did reach him. “Did I <emph rend="italic">steal?</emph>”</p>
-            <p rend="indent">I felt myself redden to the roots of my hair as well as wonder if it were more strange to put a gentleman such a question or to see him take it with allowances that gave the very distance of his fall in the world. “Was it for that you mightn’t go back?”</p>
+            <p rend="indent">I felt myself redden to the roots of my hair as well as wonder if it were more strange to put to a gentleman such a question or to see him take it with allowances that gave the very distance of his fall in the world. “Was it for that you mightn’t go back?”</p>
             <p rend="indent">The only thing he felt was rather a dreary little surprise. “Did you know I mightn’t<app><lem> go back</lem><rdg wit="#Colliers-vol21no2"/></app>?”</p>
             <p rend="indent">“I know everything.”</p>
             <p rend="indent">He gave me at this the longest and strangest look. “Everything?”</p>

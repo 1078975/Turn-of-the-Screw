@@ -125,10 +125,10 @@
             <pb n="20" facs="Colliers-vol20no20-20"/>
             <figure>
                <figDesc>The 3.5 x 8.5 inch masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, the governess turns to face Miles and speak with him. In two panels to the left and right of illustration of the governess and Miles, there are illustrations of a dragon-like figure. Below the bottom right of the masthead image, the signature of the illustrator John La Farge, reading “La Farge 98,” appears.</figDesc>
-               <bibl rend="caps">Drawn by John La Farge</bibl>
+               <byline rend="caps">Drawn by John La Farge</byline>
             </figure>
             <head rend="caps center">The Turn of the Screw</head>
-            <head rend="caps center" type="sub">By Henry James</head>
+            <byline rend="caps center">By Henry James</byline>
             <head rend="caps center italic">Part Second</head>
             <div type="chapter" n="4">
                <head rend="center">IV</head>
