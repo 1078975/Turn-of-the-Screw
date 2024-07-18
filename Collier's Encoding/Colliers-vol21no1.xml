@@ -7,6 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Collier’s Weekly, vol. 21, no. 1: a digital edition</title>
+            <title type="sub">The Turn of the Screw (1898)</title>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -61,10 +62,11 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical. </p>
+            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical, which measures 10 x 15 inches. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This is a digital edition of Collier’s Weekly, vol. 21, no. 1, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+            <p>This is a digital edition of <title rend="italic">Collier’s Weekly</title>, vol. 21, no. 1, which was created as part of a master's dissertation project entitled <title rend="italic">The Turn of the Screw</title> (1898).</p>
+            <p><title rend="italic">The Turn of the Screw</title> was first published serially in twelve weekly installments in the magazine <title rend="italic">Collier’s Weekly</title>. This digital edition of <title rend="italic">Collier’s Weekly</title> contains the eleventh installment of the novel. The pages containing <title rend="italic">The Turn of the Screw</title> by Henry James have been transcribed in full. Because of a desire to respect the text-of-the-document, the transcription preserves spelling mistakes, inconsistencies in punctuation, and other errors that might typically be silently corrected. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles. Users are also encouraged to consult the other Taylor Editions of <title rend="italic">Collier’s Weekly</title> and <title rend="italic">The Two Magics</title>, where <title rend="italic">The Turn of the Screw</title> was first published in book form later in 1898.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -120,7 +122,7 @@
          <div type="section">
             <pb n="18" facs="Colliers-vol21no1-18"/>
             <figure>
-               <figDesc>An illustration adjacent to the left margin of the page. The image shows three women standing in a wooded area. One plays a instrument. This illustration is consistent with the Easter theme of the issue.</figDesc><!-- check -->
+               <figDesc>An illustration adjacent to the left margin of the page. The image shows three women standing in a wooded area. One plays a instrument. This illustration is consistent with the Easter theme of the issue.</figDesc>
             </figure>
             <head rend="caps center">The Turn of the Screw</head>
             <byline rend="caps center">By Henry James</byline>
@@ -132,7 +134,7 @@
                <p rend="indent">Hideous and obscure as it all was, it held Mrs. Grose briefly silent; then she granted my point with a frankness which, I made sure, had more behind it. “I think indeed Miss, she never will. She do have a grand manner about it!”</p>
                <p rend="indent">“And that manner”—I summed it up—“is practically what’s the matter with her now.”</p>
                <p rend="indent">Oh, that manner, I could see in my visitor’s face, and not a little else besides! “She asks me every three minutes if I think you’re coming in.”</p>
-               <p rend="indent">“I see—I see.” I too, on my side, had so much more than worked it out. “Has she said to you since yesterday—except to repudiate her familiarity with anything so dreadful–a single other word about Miss Jessel?”</p>
+               <p rend="indent">“I see—I see.” I too, on my side, had so much more than worked it out. “Has she said to you since yesterday—except to repudiate her familiarity with anything so dreadful—a single other word about Miss Jessel?”</p>
                <p rend="indent">“Not one, Miss. And of course you know,” my friend added, “I took it from her, by the lake, that, just then and there at least, there <emph rend="italic">was</emph> nobody.”</p>
                <p rend="indent">“Rather! And, naturally, you take it from her still.”</p>
                <p rend="indent">“I don’t contradict her. What else can I do?”</p>
@@ -261,7 +263,7 @@
                <p rend="indent">I found myself prompt. “She’s <emph rend="italic">not</emph> too ill to travel: she only might have become so if she had stayed. This was just the moment to seize. The journey will dissipate the influence”—oh, I was grand!—“and carry it off.”</p>
                <p rend="indent">“I see, I see”—Miles, for that matter, was grand too. He settled to his repast with the charming little “table manner” that, from the day of his arrival, had relieved me of all grossness of admonition. Whatever he had been driven from school for, it was not for ugly feeding. He was irreproachable, as always, to-day; but he was unmistakably more conscious. He was discernibly trying to take for granted more things than he found, without assistance, quite easy; and he dropped into peaceful silence while he felt his situation. Our meal was of the briefest and mine a vain pretense, and I had the things immediately removed. While this was done Miles stood again with his hands in his little pockets and his back to me—stood and looked out of the wide window through which, that other day, I had seen what pulled me up. We continued silent while the maid was with us—as silent, it whimsically occurred to me, as some young couple who, on their wedding-journey, at the inn, feel shy in the presence of the waiter. He turned round only when the maid had left us. “Well—so we’re alone!”</p>
             </div>
-            <trailer rend="center italic">(Concluded next week.)</trailer>
+            <trailer><hi rend="center italic">(Concluded next week.)</hi></trailer>
          </div>
         <div type="short-story">
            <head rend="caps center">An Easter Fantasy</head>

@@ -7,6 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Collier’s Weekly, vol. 20, no. 17: a digital edition</title>
+            <title type="sub">The Turn of the Screw (1898)</title>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -59,10 +60,11 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical. </p>
+            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical, which measures 10 x 15 inches. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 17, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+            <p>This is a digital edition of <title rend="italic">Collier’s Weekly</title>, vol. 20, no. 17, which was created as part of a master's dissertation project entitled <title rend="italic">The Turn of the Screw</title> (1898).</p>
+               <p><title rend="italic">The Turn of the Screw</title> was first published serially in twelve weekly installments in the magazine <title rend="italic">Collier’s Weekly</title>. This digital edition of <title rend="italic">Collier’s Weekly</title> contains the first installment of the novel. The pages containing <title rend="italic">The Turn of the Screw</title> by Henry James have been transcribed in full. Because of a desire to respect the text-of-the-document, the transcription preserves spelling mistakes, inconsistencies in punctuation, and other errors that might typically be silently corrected. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles. Users are also encouraged to consult the other Taylor Editions of <title rend="italic">Collier’s Weekly</title> and <title rend="italic">The Two Magics</title>, where <title rend="italic">The Turn of the Screw</title> was first published in book form later in 1898.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -128,8 +130,9 @@
             </figure>
             <head rend="caps center">The Turn of the Screw</head>
             <byline rend="caps center">By Henry James</byline>
+            <milestone unit="part" n="1"/>
             <head rend="caps center italic">Part First</head>
-            <div type="chapter" n="introduction">
+            <div type="chapter" n="prologue">
                <p rend="indent">The story had held us, round the fire, sufficiently breathless, but except the obvious remark that it was grewsome, as, on Christmas eve in an old house, a strange tale should essentially be, I remember no comment uttered till somebody happened to remark that it was the only case he had met in which such a visitation had fallen on a child. The case, I may mention, was that of an apparition in just such an old house as had gathered us for the occasion—an appearance, of a dreadful kind, to a little boy sleeping in the room with his mother and waking her up in the terror of it; waking her not to dissipate his dread and soothe him to sleep again, but to encounter also, herself, before she had succeeded in doing so, the same sight that had shaken him. It was this observation that drew from Douglas—not immediately, but later in the evening—a reply that had the interesting consequence to which I call attention. Some one else told a story not particularly effective, which I saw he was not following. This I took for a sign that he had himself something to produce and that we should only have to wait. We waited in fact till two nights later; but that same evening, before we scattered, he brought out what was in his mind.</p>
             <p rend="indent">“I quite agree—in regard to Griffin’s ghost, or whatever it was—that its appearing first to the little boy, at so tender an age, adds a particular touch. But it’s not the first occurrence of its charming kind that I know to have involved a child. If the child gives the effect another turn of the screw, what do you say to <emph rend="italic">two</emph> children—?”</p>
             <p rend="indent">“We say, of course,” somebody exclaimed, “that they give two turns! Also that we want to hear about them.”</p>
@@ -196,7 +199,7 @@
             <p rend="indent">“I haven’t one.”</p>
             <p rend="indent">“Oh, <emph rend="italic">I</emph> have!” I said. But Douglas, without heeding me, had begun to read with a fine clearness that was like a rendering to the ear of the beauty of his author’s hand.</p>
             </div>
-            <trailer rend="center italic">(To be continued.)</trailer>
+            <trailer><hi rend="center italic">(To be continued.)</hi></trailer>
          </div>
          <div type="advertisement">
             <head>Pears’</head>

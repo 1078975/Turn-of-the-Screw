@@ -7,6 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Collier’s Weekly, vol. 20, no. 24: a digital edition</title>
+            <title type="sub">The Turn of the Screw (1898)</title>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -61,10 +62,11 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical. </p>
+            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical, which measures 10 x 15 inches. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 24, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+            <p>This is a digital edition of <title rend="italic">Collier’s Weekly</title>, vol. 20, no. 24, which was created as part of a master's dissertation project entitled <title rend="italic">The Turn of the Screw</title> (1898).</p>
+            <p><title rend="italic">The Turn of the Screw</title> was first published serially in twelve weekly installments in the magazine <title rend="italic">Collier’s Weekly</title>. This digital edition of <title rend="italic">Collier’s Weekly</title> contains the eighth installment of the novel. The pages containing <title rend="italic">The Turn of the Screw</title> by Henry James have been transcribed in full. Because of a desire to respect the text-of-the-document, the transcription preserves spelling mistakes, inconsistencies in punctuation, and other errors that might typically be silently corrected. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles. Users are also encouraged to consult the other Taylor Editions of <title rend="italic">Collier’s Weekly</title> and <title rend="italic">The Two Magics</title>, where <title rend="italic">The Turn of the Screw</title> was first published in book form later in 1898.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -107,6 +109,7 @@
             </figure>
             <head rend="caps center">The Turn of the Screw</head>
             <byline rend="caps center">By Henry James</byline>
+            <milestone unit="part" n="5"/>
             <head rend="caps center italic">Part Fourth</head>
             <div type="chapter">
                <head rend="center">XIII</head>
@@ -173,7 +176,7 @@
                <p rend="indent">I got, so far as the immediate moment was concerned, away; I came straight out of the churchyard and, thinking hard, retraced my steps through the park. It seemed to me that by the time I reached the house I had made up my mind to fly. The Sunday stillness both of the approaches and of the interior, in which I met no one, fairly excited me with a sense of opportunity. Were I to get off quickly, this way, I should get off without a scene, without a word. My quickness would have to be remarkable, however, and the question of a conveyance was the great one to settle. Tormented, in the hall, with difficulties and obstacles, I remember sinking down at the foot of the staircase—suddenly collapsing there on the lowest step and then, with a revulsion, recalling that it was exactly where, more than a month before, in the darkness of night and just so bowed with evil things, I had seen the specter of the most horrible of women. At this I was able to straighten myself; I went the rest of the way up; I made, in my bewilderment, for the schoolroom, where there were objects belonging to me that I should have to take. But I opened the door to find again, in a flash, my eyes unsealed. In the presence of what I saw I reeled straight back upon my resistance.</p>
                <p rend="indent">Seated at my own table in the clear noonday light, I saw a person whom, without my previous experience, I should have taken at the first blush for some housemaid who might have stayed at home to look after the place and who, availing herself of rare relief from observation and of the schoolroom table and my pens, ink and paper, had applied herself to the considerable effort of a letter to her sweetheart. There was an effort in the way that, while her arms rested on the table, her hands, with evident weariness, supported her head; but at the moment I took this in I had already become aware that, in spite of my entrance, her attitude strangely persisted. Then it was—with the very act of its announcing itself—that her identity flared up in a change of posture. She rose, not as if she had heard me, but with an indescribable grand melancholy of indifference and detachment, and, within a dozen feet of me, stood there as my vile predecessor. Dishonored and tragic, she was all before me, but even as I fixed and, for memory, secured it, the awful image passed away. Dark as midnight in her black dress, her haggard beauty and her unutterable woe, she had looked at me long enough to appear to say that her right to sit at my table was as good as mine to sit at hers. While the tension lasted, indeed, I had the extraordinary chill of a feeling that it was <emph rend="italic">I</emph> who was the intruder. It was as a wild protest against it that, actually addressing her—“You terrible, <emph rend="italic">miserable</emph> woman!”—I heard myself break into a sound that, by the open door, rang through the long passage and the empty house. She looked at me as if she heard me, but I had recovered myself and cleared the air. There was nothing in the room the next minute but the sunshine and my sense that I must stay.</p>
             </div>
-            <trailer rend="center italic">(To be continued.)</trailer>
+            <trailer><hi rend="center italic">(To be continued.)</hi></trailer>
          </div>
          <div type="poem">
             <head rend="caps center">Shadows</head>

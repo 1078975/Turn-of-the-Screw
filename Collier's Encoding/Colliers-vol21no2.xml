@@ -7,6 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Collier’s Weekly, vol. 21, no. 2: a digital edition</title>
+            <title type="sub">The Turn of the Screw (1898)</title>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -61,10 +62,11 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical. </p>
+            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical, which measures 10 x 15 inches. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This is a digital edition of Collier’s Weekly, vol. 21, no. 2, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+            <p>This is a digital edition of <title rend="italic">Collier’s Weekly</title>, vol. 21, no. 2, which was created as part of a master's dissertation project entitled <title rend="italic">The Turn of the Screw</title> (1898).</p>
+            <p><title rend="italic">The Turn of the Screw</title> was first published serially in twelve weekly installments in the magazine <title rend="italic">Collier’s Weekly</title>. This digital edition of <title rend="italic">Collier’s Weekly</title> contains the final installment of the novel. The pages containing <title rend="italic">The Turn of the Screw</title> by Henry James have been transcribed in full. Because of a desire to respect the text-of-the-document, the transcription preserves spelling mistakes, inconsistencies in punctuation, and other errors that might typically be silently corrected. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles. Users are also encouraged to consult the other Taylor Editions of <title rend="italic">Collier’s Weekly</title> and <title rend="italic">The Two Magics</title>, where <title rend="italic">The Turn of the Screw</title> was first published in book form later in 1898.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -203,14 +205,15 @@
                <p rend="indent">“Is she <emph rend="italic">here?</emph>” Miles panted as he caught with his sealed eyes the direction of my words. Then as his strange “she” staggered me and, with a gasp, I echoed it, “Miss Jessel, Miss Jessel!” he with a sudden fury gave me back.</p>
                <p rend="indent">I seized, stupefied, his supposition—some sequel to what we had done to Flora; but this made me only want to show him that it was better still than that. “It’s not Miss Jessel! But it’s at the window—straight before us. It’s <emph rend="italic">there</emph>—the coward horror, there for the last time!”</p>
                <p rend="indent">At this, after a second in which his head made the movement of a baffled dog’s on a scent and then gave a frantic little shake for air and light, he was at me in a white rage, bewildered, glar
-               <pb n="18" break="no" rend="hyphenBefore" facs="Colliers-vol21no2-18"/>
+                  <lb  break="no" rend="hyphenBefore"/>
+               <pb n="18" facs="Colliers-vol21no2-18"/>
                ing vainly over the place and missing wholly, though it now, to my sense, filled the room like the taste of poison, the wide, overwhelming presence. “It’s <emph rend="italic">he?</emph>”</p>
                <p rend="indent">I was so determined to have all my proof that I flashed into ice to challenge him. “Whom do you mean by ‘he’?”</p>
                <p rend="indent">“Peter Quint—you devil!” His face gave again, round the room, its convulsed supplication. “<emph rend="italic">Where?</emph>”</p>
                <p rend="indent">They are in my ears still, his supreme surrender of the name and his tribute to my devotion. “What does he matter now, my own?—what will he <emph rend="italic">ever</emph> matter? <emph rend="italic">I</emph> have you,” I launched at the beast, “but <emph rend="italic">he</emph> has lost you forever!” Then, for the demonstration of my triumph, “There, <emph rend="italic">there!</emph>” I said to Miles.</p>
                <p rend="indent">But he had already jerked straight round, stared, glared again, and seen but the quiet day. With the stroke of the loss I was so proud of he uttered the cry of a creature hurled over an abyss, and the grasp with which I recovered him might have been that of catching him in his fall. I caught him, yes, I held him—it may be imagined with what a passion; but at the end of a minute I began to feel what it truly was that I held. We were alone with the quiet day, and his little heart, dispossessed, had stopped.</p>
             </div>
-            <trailer rend="center caps">The End</trailer>
+            <trailer><hi rend="center caps">The End</hi></trailer>
          </div>
          <div type="article">
            <head rend="center caps">Spain’s Vulnerable Seaports</head>

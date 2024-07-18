@@ -7,6 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Collier’s Weekly, vol. 20, no. 26: a digital edition</title>
+            <title type="sub">The Turn of the Screw (1898)</title>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -61,10 +62,11 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical. </p>
+            <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical, which measures 10 x 15 inches. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This is a digital edition of Collier’s Weekly, vol. 20, no. 26, which was created as part of a master’s dissertation interested in the serialization of the novel <title rend="italic">The Turn of the Screw</title> by Henry James. The pages containing <title rend="italic">The Turn of the Screw</title> have been transcribed in full. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles.</p>
+            <p>This is a digital edition of <title rend="italic">Collier’s Weekly</title>, vol. 20, no. 26, which was created as part of a master's dissertation project entitled <title rend="italic">The Turn of the Screw</title> (1898).</p>
+            <p><title rend="italic">The Turn of the Screw</title> was first published serially in twelve weekly installments in the magazine <title rend="italic">Collier’s Weekly</title>. This digital edition of <title rend="italic">Collier’s Weekly</title> contains the tenth installment of the novel. The pages containing <title rend="italic">The Turn of the Screw</title> by Henry James have been transcribed in full. Because of a desire to respect the text-of-the-document, the transcription preserves spelling mistakes, inconsistencies in punctuation, and other errors that might typically be silently corrected. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles. Users are also encouraged to consult the other Taylor Editions of <title rend="italic">Collier’s Weekly</title> and <title rend="italic">The Two Magics</title>, where <title rend="italic">The Turn of the Screw</title> was first published in book form later in 1898.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -126,6 +128,7 @@
             </figure>
             <head rend="caps center">The Turn of the Screw</head>
             <byline rend="caps center">By Henry James</byline>
+            <milestone unit="part" n="5"/>
             <head rend="caps center italic">Part Fifth</head>
             <div type="chapter" n="19">
                <head rend="center">XIX</head>
@@ -172,7 +175,7 @@
                <p rend="h_2">Even Mrs. Grose looked across at me dismayed; while I had nothing to do but communicate again with the figure that, on the opposite bank, without a movement, as rigidly still as if catching, beyond the interval, our voices, was as vivid for my disaster as it was unattainable for my service. The wretched child had spoken exactly as if she had got from some outside source each of her stabbing little words, and I could therefore, in the full despair of all I had to accept, but sadly shake my head at her. “If I had ever doubted, all my doubt would at present have gone. I’ve been living with the miserable truth, and now it has only too much closed round me. Of course I’ve lost you: I’ve interfered, and you’ve seen—under <emph rend="italic">her</emph> dictation”—with which I faced, over the pool again, our infernal witness—“the easy and perfect way to meet it. I’ve done my best but I’ve lost you. Good-by.” For Mrs. Grose I had an imperative, and almost frantic “Go, go!” before which, in infinite distress, but mutely possessed of the little girl and clearly convinced, in spite of her blindness, that something awful had occurred and some collapse engulfed us, she retreated, by the way we had come, as fast as she could move.</p>
                <p rend="h_2">Of what first happened when I was left alone I had no subsequent memory. I only knew that at the end of, I suppose, a quarter of an hour, an odorous dampness and roughness, chilling and piercing my misery, had made me understand that I must have thrown myself, on my face, on the ground and given way to a wildness of grief. I must have lain there long and cried and sobbed, for when I raised my head the day was almost done. I got up and looked a moment, through the twilight, at the gray pool and its blank, haunted edge, and then I took, back to the house, my dreary and difficult course. When I reached the gate in the fence the boat, to my surprise, was gone, so that I had a fresh reflection to make on Flora’s extraordinary command of the situation. She passed that night, by the most tacit, and I should add, were not the word so grotesque a false note, the happiest of arrangements, with Mrs. Grose. I saw neither on my return, but, on the other hand, as by an ambiguous compensation, I saw a great deal of Miles. I saw—I can use no other phrase—so much of him that it was as if it were more than it had ever been. No evening I had passed at Bly had the portentous quality of this one; in spite of which—and in spite also of the deeper depths of consternation that had opened beneath my feet—there was literally, in the ebbing actual, an extraordinarily sweet sadness. On reaching the house I had never so much as looked for the boy; I had simply gone straight to my room to change what I was wearing and to take in, at a glance, much material testimony to Flora’s withdrawal. When later, by the schoolroom fire, I was served with tea by the usual maid, I indulged, on the article of my other pupil, in no inquiry whatever. He had his freedom now—he might have it to the end! Well, he did have it; and it consisted—in part at least—of his coming in at about eight o’clock and sitting down with me in silence. On the removal of the tea-things I had blown out the candles and drawn my chair closer: I was conscious of a mortal coldness and felt as if I should never again be warm. So, when he appeared, I was sitting in the glow with my thoughts. He paused a moment by the door as if to look at me; then—as if to share them—came to the other side of the hearth and sank into a chair. We sat there in absolute stillness; yet he wanted, I felt, to be with me.</p>
             </div>
-            <trailer rend="center italic">(Continued next week.)</trailer>
+            <trailer><hi rend="center italic">(Continued next week.)</hi></trailer>
          </div>
         <pb n="19" facs="Colliers-vol20no26-19"/>
         <gap extent="1" unit="image" reason="editorial"/>
