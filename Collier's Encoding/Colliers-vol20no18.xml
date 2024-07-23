@@ -6,8 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Collier’s Weekly, vol. 20, no. 18: a digital edition</title>
-            <title type="sub">The Turn of the Screw (1898)</title>
+            <title>Collier’s Weekly, vol. 20, no. 18: a digital edition (The Turn of the Screw in America, 1898)</title>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -65,8 +64,8 @@
             <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical, which measures 10 x 15 inches. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This is a digital edition of <title rend="italic">Collier’s Weekly</title>, vol. 20, no. 18, which was created as part of a master's dissertation project entitled <title rend="italic">The Turn of the Screw</title> (1898).</p>
-            <p><title rend="italic">The Turn of the Screw</title> was first published serially in twelve weekly installments in the magazine <title rend="italic">Collier’s Weekly</title>. This digital edition of <title rend="italic">Collier’s Weekly</title> contains the second installment of the novel. The pages containing <title rend="italic">The Turn of the Screw</title> by Henry James have been transcribed in full. Because of a desire to respect the text-of-the-document, the transcription preserves spelling mistakes, inconsistencies in punctuation, and other errors that might typically be silently corrected. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles. Users are also encouraged to consult the other Taylor Editions of <title rend="italic">Collier’s Weekly</title> and <title rend="italic">The Two Magics</title>, where <title rend="italic">The Turn of the Screw</title> was first published in book form later in 1898.</p>
+            <p>This is a digital edition of <title rend="italic">Collier’s Weekly</title>, vol. 20, no. 18, which was created as part of a master's dissertation project entitled <title rend="italic">The Turn of the Screw</title> in America, 1898.</p>
+            <p><title rend="italic">The Turn of the Screw</title> was first published serially in twelve weekly installments in the magazine <title rend="italic">Collier’s Weekly</title>. This digital edition of <title rend="italic">Collier’s Weekly</title> contains the second installment of the novel. The pages containing <title rend="italic">The Turn of the Screw</title> by Henry James have been transcribed in full. Because of a desire to respect the text-of-the-document, the transcription preserves spelling mistakes, inconsistencies in punctuation, and other errors that might typically be silently corrected. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles. Users are also encouraged to consult the other Taylor Editions of <title rend="italic">Collier’s Weekly</title> and <title rend="italic">The Two Magics</title>, where <title rend="italic">The Turn of the Screw</title> was first published in book form later in 1898. These editions have also been uploaded to the <ref target="https://www.prisms.digital/">PRISMS</ref> open scholarship platform, where users may use the workbench tools to consult, compare, and annotate them.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -123,10 +122,10 @@
             <gap extent="1" unit="image" reason="editorial"/>
             <pb n="19" facs="Colliers-vol20no18-19"/>
             <gap extent="1" unit="image" reason="editorial"/>
-         <div type="section">
+         <div type="installment">
             <pb n="20" facs="Colliers-vol20no18-20"/>
             <figure>
-               <figDesc>The 3.5 x 8.5 inch masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center, the governess turns to face Miles and speak with him. In two panels to the left and right of illustration of the governess and Miles, there are illustrations of a dragon-like figure. Below the bottom right of the masthead image, the signature of the illustrator John La Farge, reading “La Farge 98,” appears.</figDesc>
+               <figDesc>The 3 1/2 x 8 1/2 inch masthead illustration of <title rend="italic">The Turn of the Screw</title>. In the center panel, the governess turns to face Miles and speak with him. They are surrounded by fog and a large eye appears behind them in the top left of the illustration. In two panels to the left and right of illustration of the governess and Miles, there are illustrations of a dragon-like figure. Below the bottom right of the masthead image, the signature of the illustrator John La Farge, reading “La Farge 98,” appears.</figDesc>
                <byline rend="caps">Drawn by John La Farge</byline>
             </figure>
          <head rend="caps center">The Turn of the Screw</head>

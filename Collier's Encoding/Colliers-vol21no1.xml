@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Collier’s Weekly, vol. 21, no. 1: a digital edition</title>
+            <title>Collier’s Weekly, vol. 21, no. 1: a digital edition (The Turn of the Screw in America, 1898)</title>
             <title type="sub">The Turn of the Screw (1898)</title>
          </titleStmt>
          <editionStmt>
@@ -65,8 +65,8 @@
             <p>Created by transcribing and encoding from Internet Archive scans of microfilm of the periodical, which measures 10 x 15 inches. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This is a digital edition of <title rend="italic">Collier’s Weekly</title>, vol. 21, no. 1, which was created as part of a master's dissertation project entitled <title rend="italic">The Turn of the Screw</title> (1898).</p>
-            <p><title rend="italic">The Turn of the Screw</title> was first published serially in twelve weekly installments in the magazine <title rend="italic">Collier’s Weekly</title>. This digital edition of <title rend="italic">Collier’s Weekly</title> contains the eleventh installment of the novel. The pages containing <title rend="italic">The Turn of the Screw</title> by Henry James have been transcribed in full. Because of a desire to respect the text-of-the-document, the transcription preserves spelling mistakes, inconsistencies in punctuation, and other errors that might typically be silently corrected. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles. Users are also encouraged to consult the other Taylor Editions of <title rend="italic">Collier’s Weekly</title> and <title rend="italic">The Two Magics</title>, where <title rend="italic">The Turn of the Screw</title> was first published in book form later in 1898.</p>
+            <p>This is a digital edition of <title rend="italic">Collier’s Weekly</title>, vol. 21, no. 1, which was created as part of a master's dissertation project entitled <title rend="italic">The Turn of the Screw</title> in America, 1898.</p>
+            <p><title rend="italic">The Turn of the Screw</title> was first published serially in twelve weekly installments in the magazine <title rend="italic">Collier’s Weekly</title>. This digital edition of <title rend="italic">Collier’s Weekly</title> contains the eleventh installment of the novel. The pages containing <title rend="italic">The Turn of the Screw</title> by Henry James have been transcribed in full. Because of a desire to respect the text-of-the-document, the transcription preserves spelling mistakes, inconsistencies in punctuation, and other errors that might typically be silently corrected. While the other pages of the magazine have not been transcribed, their facsimiles have been included in this edition to encourage study of the periodical codes of the novel. Because users can reference facsimiles, various formatting and forme work have not been encoded. Basic textual rendition has been encoded apart from decorative initial captials and small capitals marking the beginning of sections, which are better represented by the facsimile images. Illustrations have been encoded to encourage users to reference the page facsimiles. Users are also encouraged to consult the other Taylor Editions of <title rend="italic">Collier’s Weekly</title> and <title rend="italic">The Two Magics</title>, where <title rend="italic">The Turn of the Screw</title> was first published in book form later in 1898. These editions have also been uploaded to the <ref target="https://www.prisms.digital/">PRISMS</ref> open scholarship platform, where users may use the workbench tools to consult, compare, and annotate them.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -119,7 +119,7 @@
         <gap extent="1" unit="image" reason="editorial"/>
         <pb n="17" facs="Colliers-vol21no1-17"/>
         <gap extent="1" unit="image" reason="editorial"/>
-         <div type="section">
+         <div type="installment">
             <pb n="18" facs="Colliers-vol21no1-18"/>
             <figure>
                <figDesc>An illustration adjacent to the left margin of the page. The image shows three women standing in a wooded area. One plays a instrument. This illustration is consistent with the Easter theme of the issue.</figDesc>
@@ -164,7 +164,7 @@
                <figure>
                   <figDesc>An illustration adjacent to the right margin of the page. The image shows two women in a wooded area, who appear to be dancing. This illustration is consistent with the Easter theme of the issue.</figDesc>
                </figure>
-               <p rend="indent">“Well, a day or two—really to bring it out. He’ll then be on <emph rend="italic">my</emph> side—of which you see the importance. If nothing comes, I shall only fail, and you will, at the worst, have helped me by doing, on your arrival in town, whatever you may have found possible.” So I put it before her, but she continued, for a little so inscrutably embarrassed that I came again to her aid. “Unless indeed,” I wound up, “you really want <emph rend="italic">not</emph> to go.”</p>
+               <p rend="indent">“Well, a day or two—really to bring it out. He’ll then be on <emph rend="italic">my</emph> side—of which you see the importance. If nothing comes, I shall only fail, and you will, at the worst, have helped me by doing, on your arrival in town, whatever you may have found possible.” So I put it before her, but she continued, for a little, so inscrutably embarrassed that I came again to her aid. “Unless indeed,” I wound up, “you really want <emph rend="italic">not</emph> to go.”</p>
                <p rend="indent">I could see it, in her face, at last clear itself; she put out her hand to me as a pledge. “I’ll go—I’ll go. I’ll go this morning.”</p>
                <p rend="indent">I wanted to be very just. “If you <emph rend="italic">should</emph> wish to wait, I would engage she shouldn’t see me.”</p>
                <p rend="indent">“No, no: it’s the place itself. She must leave it.” She held me a moment with heavy eyes, then brought out the rest. “Your idea’s the right one. I myself, Miss—”</p>
@@ -221,13 +221,13 @@
                      <byline rend="caps">W.H. Hyde</byline>
                      <bibl rend="italic" type="title">Portrait of Miss Alice Duer</bibl>
                   </figure>
-                  <pb n="21" facs="Colliers-vol21no1-21"/>
                   <figure>
                      <figDesc>A halftone image of a painting of five children catching minnows with nets. Three are to the left of the image in the foreground. Two are to the right of the image in the background.</figDesc>
                      <byline rend="caps">Charles C. Curran</byline>
                      <bibl rend="italic" type="title">Catching Minnows</bibl>
                   </figure>
                   <ab type="head" rend="caps center">Spring Exhibitions at the Academy of Design and Society of American Artists</ab>
+                  <pb n="21" facs="Colliers-vol21no1-21"/>
                   <figure>
                      <figDesc>A halftone image of a painting of a herd of cows moving left to right across the painting. A herding dog in the foreground runs alongside and looks up at them.</figDesc>
                      <byline rend="caps">James M. Hart</byline>
@@ -267,12 +267,12 @@
          </div>
         <div type="short-story">
            <head rend="caps center">An Easter Fantasy</head>
-           <p>He stood by the open window in the fragrant darkness of the Southern night. The garden below was quiet in the moonlight. The scent of the roses was borne upward to him on the warm night wind. Dimly he could see the tall white liies swaying on their slender stalks. They seemed to beckon to him...He turned from the window, went down the stairs, and out into the garden.</p>
+           <p>He stood by the open window in the fragrant darkness of the Southern night. The garden below was quiet in the moonlight. The scent of the roses was borne upward to him on the warm night wind. Dimly he could see the tall white lilies swaying on their slender stalks. They seemed to beckon to him...He turned from the window, went down the stairs, and out into the garden.</p>
            <p rend="indent">The light breeze stirred among the flowers. It sounded like the faint rustle of a woman's garments. Some sweet peas were growing in a hedge at his side, their delicate flower-wings fluttering as though longing to take flight. As he turned idly to pluck one, he saw, standing beside him, the girl who had dominated his boyhood’s dreams.</p>
            <p rend="indent">Softly the moonlight played over her bright hair; the freshness of youth lay upon her as the dew upon the flowers.</p>
            <p rend="indent">“I am the essence of the Sweet Pea, and of the Springtime of Youth and Love,” she breathed softly. “Come to me, and they shall be yours again. Think not that the joys of knowledge are sweeter.”</p>
-           <p rend="indent">For a minute, as she spoke, it seemed to the man that he caught a breath of half-forgotten fragrance of that golden age, with its winged hopes, its opalescent dreams. He moved impetuously toward her, the old leap at his heart again, treading carelessly upon the mignonette growing in the border of the path. The faint perfume of it floated up to him, and the words that he would have spoken faded from his mind; for he saw another woman standing before him. Her hair was red
-           <floatingText type="advertisement" rend="hyphenBefore">
+           <p rend="indent">For a minute, as she spoke, it seemed to the man that he caught a breath of half-forgotten fragrance of that golden age, with its winged hopes, its opalescent dreams. He moved impetuously toward her, the old leap at his heart again, treading carelessly upon the mignonette growing in the border of the path. The faint perfume of it floated up to him, and the words that he would have spoken faded from his mind; for he saw another woman standing before him. Her hair was red<lb break="no" rend="hyphenBefore"/>
+           <floatingText type="advertisement">
               <body>
                  <head rend="center">Pears’</head>
                  <p rend="indent">Whoever wants soft hands, smooth hands, white hands, or a clear complexion, he and she can have both: that is, if the skin is naturally transparent; unless occupation prevents.</p>
