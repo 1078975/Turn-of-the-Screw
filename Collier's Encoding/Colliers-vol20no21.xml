@@ -259,7 +259,9 @@
                         <p rend="indent">All sorts of stores sell it, espeically druggists; all sorts of people use it.</p>
                      </body>
                   </floatingText>
+                  <gap unit="line" extent="15" reason="editorial"/>
                </p>
+               <gap unit="paragraph" extent="2" reason="editorial"/>
             </div>
             <pb n="23" facs="Colliers-vol20no21-23"/>
             <gap extent="1" unit="image" reason="editorial"/>
